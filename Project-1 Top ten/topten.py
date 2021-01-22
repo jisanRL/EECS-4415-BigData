@@ -16,15 +16,15 @@ print(stopwordList)
 dic = {}
 
 for line in sys.stdin:
-    line = line.strip()             # removes space and newline
+    line = line.strip()                                 # removes space and newline
     line = line.lower()    
     
-    # words = line.split(" ")                       # splits line into words
-    words = filter(None, re.split('[\W+_]', line))  # seperating on white spaces
-    words = map(lambda a:a.lower(), words)          # converting words to lowercase
+    # words = line.split(" ")                           # splits line into words
+    words = filter(None, re.split('[\W+_]', line))      # seperating on white spaces
+    words = map(lambda a:a.lower(), words)              # converting words to lowercase
     for wrd in words:
-        if wrd not in stopwordList and len(wrd) != 1:  # check if word is a stopwrod or of lenght 1
-            if wrd not in dic:                         # check if the word is in dic or not 
+        if wrd not in stopwordList and len(wrd) != 1:   # check if word is a stopwrod or of lenght 1
+            if wrd not in dic:                          # check if the word is in dic or not 
                 dic[wrd] = 1
             else:
                 dic[wrd] = dic[wrd] + 1
