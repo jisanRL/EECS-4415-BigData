@@ -1,0 +1,7 @@
+# read from the stdin
+# store them in a python dictionary 
+# each dictionaries entry value as a counter to count the instance of the word 
+# push the stopwords.txt file words into a dictionary
+# compare any random input text file vs stopwords.txt 
+# remove the stopwords in the input 
+# plot the top ten words of the input 
