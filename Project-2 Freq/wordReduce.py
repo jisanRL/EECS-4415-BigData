@@ -1,7 +1,9 @@
+#!/usr/bin/env python
 # reducers for letters
 import sys
 
-currentWord, word = None
+currentWord = None
+word = None
 currentCount = 0
 
 # std input 
@@ -9,7 +11,7 @@ for i in sys.stdin:
     i = i.strip()                       # remove leading and trailing whitespaces 
 
     word, cnt = i.split('\t', 1)        # parse input 
-
+    w1, doc = i.split(' ', 1)
     try:
         cnt = int(cnt)                  # convert the count to int 
     except ValueError:
