@@ -1,0 +1,9 @@
+- Create the database and table stream 
+- Insert data into it 
+- We want to report for each tuple in the stream the running average of measure in its group.
+- Create a file named runningAvg.sql. [this is to be submitted]
+- Write the sql script query and get the table
+
+
+
+-- Remove this  file later 
