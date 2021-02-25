@@ -1,7 +1,0 @@
-The mapper -> LetterMap.py and WordMap.py 
-and reducers -> LetterReduce.py and WordReduce.py work fine
-
-My Docker was collapsing constantly and was not getting the output. 
-I belive an issue with the docker dektop version 
-and the python version im using in my pc and the one in the docker image are not compitable with each other 
-which my have caused the problem 
