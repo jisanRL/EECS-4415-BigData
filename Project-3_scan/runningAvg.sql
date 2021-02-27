@@ -1,5 +1,5 @@
 -- the script
-\ pset pager off
+\pset pager off
 
 -- create table stream
 \echo 
@@ -32,22 +32,22 @@ values
 
 -- ======== ----
 
--- composite type that has int and boolean flag
-\ echo
+-- composite type that has float and boolean flag
+\echo
 DROP type if EXISTS intRec cascade;
-CREATE TYPE intRec as (number int, restart BOOLEAN);
+CREATE TYPE intRec as (number float, restart BOOLEAN);                      -- the average result
 
 -- stateCnt : composite type with two ints from stata and i value 
-\ echo
+\echo
 DROP type if exists stateCnt cascade;
 CREATE TYPE stateCnt as (state float, cnt int);
 
 -- runningAvgState -> accumalator function
-\ echo
-DROP function if exists runningAvgState(int, intRec) cascade;
-
-create function runningAvgState(int, intRec) returns int language plpgsql as $f$                 -- return of the func
-declare i alias for $1;                             -- declare fields 
+\echo
+DROP function if exists runningAvgState(stateCnt, intRec) cascade;
+create function runningAvgState(stateCnt, intRec) 
+    returns stateCnt language plpgsql as $f$                                    -- return of the func
+declare i alias for $1;                                                     -- declare fields 
 declare a alias for $2;
 declare j stateCnt;
     begin 
@@ -58,7 +58,7 @@ declare j stateCnt;
             j.state := i.state;
             j.cnt := 1;
         else 
-            j.cnt := a.number + i;
+            j.cnt := i.cnt + 1;
             j.state := i.state + (a.number - i.state) / j.cnt;              -- the avg calc
         end if;
         return j;
@@ -67,15 +67,15 @@ $f$;
 
 
 -- runningAvgFinal -> returns the aggregate value
-\ echo
+\echo
 DROP function if exists runningAvgFinal(stateCnt) cascade;
 create function runningAvgFinal(stateCnt) returns intRec language sql as $f$;
-SELECT CAST(($1.state, false) as intRec);
+SELECT CAST(($1.state, false) as intRec);                                   -- casting of value occurs here
 $f$;
 
 
 -- runningAvg -> aggregate function
-\ echo
+\echo
 DROP aggregate if exists runningAvg(intRec) cascade;
 create aggregate runningAvg(intRec) (
     sfunc = runningAvgState,
@@ -84,7 +84,8 @@ create aggregate runningAvg(intRec) (
 );
 
 
--- pipeline 
+-- pipeline
+\echo 
 WITH
     -- check the neighbour tuple to the left to get grp valus 
     cellLeft(id, grp, measure, lft) AS (
@@ -117,11 +118,10 @@ WITH
     ),
 
     -- extract the running sum from the composite 
-    cellAggr(id, grp, measure, running) as (
+    cellAggr(id, grp, measure, average) as (
         SELECT id, grp, measure, (runningRC).number
         FROM cellRun
     )
-
 
 -- report (final sql representation)
 SELECT id, grp, measure, average
