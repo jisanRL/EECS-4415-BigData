@@ -1,4 +1,10 @@
--- the script
+-- ---------------------------------------------------------------------------
+--       author: Farhan Latif
+--      created: 2021-02-25
+-- last-revised: 2021-02-28
+--     language: SQL / PostgreSQL 11.1
+--      license: CC, any reuse and modification with attribution
+-- ===========================================================================
 \pset pager off
 
 -- create table stream
@@ -30,8 +36,7 @@ values
     (12, 5, 41),
     (13, 3, 43);
 
--- ======== ----
-
+-- ========================================================================
 -- composite type that has float and boolean flag
 \echo
 DROP type if EXISTS intRec cascade;
@@ -46,7 +51,7 @@ CREATE TYPE stateCnt as (state float, cnt int);
 \echo
 DROP function if exists runningAvgState(stateCnt, intRec) cascade;
 create function runningAvgState(stateCnt, intRec) 
-    returns stateCnt language plpgsql as $f$                                    -- return of the func
+    returns stateCnt language plpgsql as $f$                                -- return of the func
 declare i alias for $1;                                                     -- declare fields 
 declare a alias for $2;
 declare j stateCnt;
@@ -65,14 +70,12 @@ declare j stateCnt;
     end 
 $f$;
 
-
 -- runningAvgFinal -> returns the aggregate value
 \echo
 DROP function if exists runningAvgFinal(stateCnt) cascade;
 create function runningAvgFinal(stateCnt) returns intRec language sql as $f$;
 SELECT CAST(($1.state, false) as intRec);                                   -- casting of value occurs here
 $f$;
-
 
 -- runningAvg -> aggregate function
 \echo
@@ -82,7 +85,6 @@ create aggregate runningAvg(intRec) (
     stype = stateCnt,
     finalfunc = runningAvgFinal
 );
-
 
 -- pipeline
 \echo 
