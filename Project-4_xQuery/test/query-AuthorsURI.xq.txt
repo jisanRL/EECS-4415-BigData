@@ -1,0 +1,22 @@
+(:
+    Find the authors in the document.
+    Over bibliography.xml on the class web portal!
+    parke godfrey 2013-11-06
+
+    LET is an XQuery clause.  It allows one to assign a variable
+    a node, node-list, or value.  Here, we assign it a string
+    (a URI).  We access a remote source as in a previous example,
+    but with easier, nicer syntax.  (Not having to declare a
+    variable.)  But to do this with LET, we have to do it as
+    part of a properly formed XQuery (e.g., with FOR).
+
+:)
+
+let $biblio :=
+    "http://"
+    || "www.eecs.yorku.ca"
+    || "/course_archive/2020-21/W/4415/assignment/xquery/example/"
+    || "bibliography.xml"
+for $author in doc($biblio)//author
+return $author
+
