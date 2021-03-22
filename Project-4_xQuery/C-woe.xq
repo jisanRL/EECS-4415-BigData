@@ -3,12 +3,12 @@
 :)
 
 <woe>{
-    for $country in doc("mondial.xml")/mondial/country
-    where data($country/inflation) > 5 and data($country/unemployment) > 10
+    for $ctr in doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")/mondial/country
+    where data($ctr/inflation) > 5 and data($ctr/unemployment) > 10
     
-    return <country inflation='{$country/name}' unemployment='{$country/unemployment}'>
-        <inflation>{data($country/inflation)}</inflation>
-        <unemployment>{data($country/unemployment)}</unemployment>
+    return <country inflation='{$ctr/name}' unemployment='{$ctr/unemployment}'>
+        <inflation>{data($ctr/inflation)}</inflation>
+        <unemployment>{data($ctr/unemployment)}</unemployment>
     </country> 
 }
 </woe>

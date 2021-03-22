@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rivers>
+  <river name="Aare">
+    <country name="Switzerland"/>
+  </river>
+  <river name="Acre">
+    <country name="Bolivia"/>
+    <country name="Brazil"/>
+  </river>
+  <river name="Aller">
+    <country name="Germany"/>
+  </river>
+  <river name="Amazonas">
+    <country name="Brazil"/>
+    <country name="Colombia"/>
+    <country name="Peru"/>
+  </river>
+  <river name="Amudarja">
+    <country name="Turkmenistan"/>
+    <country name="Uzbekistan"/>
+  </river>
+  <river name="Amur">
+    <country name="Russia"/>
+  </river>
+  <river name="Angara">
+    <country name="Russia"/>
+  </river>
+  <river name="Apure">
+    <country name="Venezuela"/>
+  </river>
+  <river name="Arauca">
+    <country name="Colombia"/>
+  </river>
+  <river name="Argun">
+    <country name="China"/>
+  </river>
+  <river name="Arkansas_River">
+    <country name="United States"/>
+  </river>
+  <river name="Arno">
+    <country name="Italy"/>
+  </river>
+  <river name="Asahan">
+    <country name="Indonesia"/>
+  </river>
+  <river name="Bahr_el">
+    <country name="South Sudan"/>
+  </river>
+  <river name="Bani">
+    <country name="Mali"/>
+  </river>
+  <river name="Baro">
+    <country name="Ethiopia"/>
+  </river>
+  <river name="BeiJiang">
+    <country name="China"/>
+  </river>
+  <river name="Benue">
+    <country name="Cameroon"/>
+    <country name="Nigeria"/>
+  </river>
+  <river name="Blauer_Nil">
+    <country name="Sudan"/>
+  </river>
+  <river name="Brahmaputra">
+    <country name="India"/>
+  </river>
+  <river name="Chambal">
+    <country name="India"/>
+  </river>
+  <river name="Chanab">
+    <country name="Pakistan"/>
+  </river>
+  <river name="Chelif">
+    <country name="Algeria"/>
+  </river>
+  <river name="Clyde">
+    <country name="United Kingdom"/>
+  </river>
+  <river name="Columbia_River">
+    <country name="United States"/>
+  </river>
+  <river name="Connecticut_River">
+    <country name="United States"/>
+  </river>
+  <river name="DetroitRiver">
+    <country name="Canada"/>
+    <country name="United States"/>
+  </river>
+  <river name="Dnepr">
+    <country name="Belarus"/>
+    <country name="Russia"/>
+    <country name="Ukraine"/>
+  </river>
+  <river name="Dnister">
+    <country name="Moldova"/>
+  </river>
+  <river name="Don">
+    <country name="Russia"/>
+  </river>
+  <river name="Donau">
+    <country name="Austria"/>
+    <country name="Bulgaria"/>
+    <country name="Germany"/>
+    <country name="Hungary"/>
+    <country name="Romania"/>
+    <country name="Serbia"/>
+    <country name="Slovakia"/>
+  </river>
+  <river name="DongJiang">
+    <country name="China"/>
+  </river>
+  <river name="DoraBaltea">
+    <country name="Italy"/>
+  </river>
+  <river name="Doubs">
+    <country name="France"/>
+  </river>
+  <river name="Douro">
+    <country name="Portugal"/>
+    <country name="Spain"/>
+  </river>
+  <river name="Drau">
+    <country name="Austria"/>
+    <country name="Croatia"/>
+    <country name="Slovenia"/>
+  </river>
+  <river name="Ebro">
+    <country name="Spain"/>
+  </river>
+  <river name="Elbe">
+    <country name="Czech Republic"/>
+    <country name="Germany"/>
+  </river>
+  <river name="Etsch">
+    <country name="Italy"/>
+  </river>
+  <river name="Euphrat">
+    <country name="Iraq"/>
+    <country name="Syria"/>
+  </river>
+  <river name="Fulda">
+    <country name="Germany"/>
+  </river>
+  <river name="Gambia">
+    <country name="Gambia"/>
+  </river>
+  <river name="Gan">
+    <country name="China"/>
+  </river>
+  <river name="Ganges">
+    <country name="Bangladesh"/>
+    <country name="India"/>
+  </river>
+  <river name="Garonne">
+    <country name="France"/>
+  </river>
+  <river name="Gila">
+    <country name="United States"/>
+  </river>
+  <river name="Godavari">
+    <country name="India"/>
+  </river>
+  <river name="Goetaaelv">
+    <country name="Sweden"/>
+  </river>
+  <river name="Guadalquivir">
+    <country name="Spain"/>
+  </river>
+  <river name="Guadiana">
+    <country name="Spain"/>
+  </river>
+  <river name="Guaviare">
+    <country name="Colombia"/>
+  </river>
+  <river name="Guayas">
+    <country name="Ecuador"/>
+  </river>
+  <river name="Han">
+    <country name="China"/>
+  </river>
+  <river name="Havel">
+    <country name="Germany"/>
+  </river>
+  <river name="HongHe">
+    <country name="Vietnam"/>
+  </river>
+  <river name="Hrazdan">
+    <country name="Armenia"/>
+  </river>
+  <river name="Huai">
+    <country name="China"/>
+  </river>
+  <river name="Huallaga">
+    <country name="Peru"/>
+  </river>
+  <river name="Hudson_River">
+    <country name="United States"/>
+  </river>
+  <river name="Hwangho">
+    <country name="China"/>
+  </river>
+  <river name="Iguacu">
+    <country name="Brazil"/>
+  </river>
+  <river name="Ili">
+    <country name="China"/>
+  </river>
+  <river name="Ill">
+    <country name="France"/>
+  </river>
+  <river name="Iller">
+    <country name="Germany"/>
+  </river>
+  <river name="Indus">
+    <country name="Pakistan"/>
+  </river>
+  <river name="Ingoda">
+    <country name="Russia"/>
+  </river>
+  <river name="Inn">
+    <country name="Austria"/>
+  </river>
+  <river name="Irawaddy">
+    <country name="Myanmar"/>
+  </river>
+  <river name="Irtysch">
+    <country name="Kazakhstan"/>
+    <country name="Russia"/>
+  </river>
+  <river name="Isar">
+    <country name="Germany"/>
+  </river>
+  <river name="Ischim">
+    <country name="Kazakhstan"/>
+  </river>
+  <river name="Isere">
+    <country name="France"/>
+  </river>
+  <river name="Ishikari">
+    <country name="Japan"/>
+  </river>
+  <river name="Jangtse">
+    <country name="China"/>
+  </river>
+  <river name="Jenissej">
+    <country name="Russia"/>
+  </river>
+  <river name="Kama">
+    <country name="Russia"/>
+  </river>
+  <river name="Karasu">
+    <country name="Turkey"/>
+  </river>
+  <river name="Karun">
+    <country name="Iran"/>
+  </river>
+  <river name="Kasai">
+    <country name="Zaire"/>
+  </river>
+  <river name="Katun">
+    <country name="Russia"/>
+  </river>
+  <river name="Kitakami">
+    <country name="Japan"/>
+  </river>
+  <river name="Klaraelv">
+    <country name="Sweden"/>
+  </river>
+  <river name="Kokemaeenjoki">
+    <country name="Finland"/>
+  </river>
+  <river name="Krishna">
+    <country name="India"/>
+  </river>
+  <river name="Kuango">
+    <country name="Zaire"/>
+  </river>
+  <river name="Kuban">
+    <country name="Russia"/>
+  </river>
+  <river name="Kura">
+    <country name="Georgia"/>
+  </river>
+  <river name="Kwa">
+    <country name="Zaire"/>
+  </river>
+  <river name="Kwilu">
+    <country name="Zaire"/>
+  </river>
+  <river name="Kymijoki">
+    <country name="Finland"/>
+  </river>
+  <river name="Lech">
+    <country name="Germany"/>
+  </river>
+  <river name="Leine">
+    <country name="Germany"/>
+  </river>
+  <river name="Lena">
+    <country name="Russia"/>
+  </river>
+  <river name="LiaoHe">
+    <country name="China"/>
+  </river>
+  <river name="Limmat">
+    <country name="Switzerland"/>
+  </river>
+  <river name="Limpopo">
+    <country name="Mozambique"/>
+  </river>
+  <river name="Lippe">
+    <country name="Germany"/>
+  </river>
+  <river name="Loire">
+    <country name="France"/>
+  </river>
+  <river name="Lualaba">
+    <country name="Zaire"/>
+  </river>
+  <river name="Lukuga">
+    <country name="Zaire"/>
+  </river>
+  <river name="Lulua">
+    <country name="Zaire"/>
+  </river>
+  <river name="Maas">
+    <country name="Belgium"/>
+    <country name="Netherlands"/>
+  </river>
+  <river name="Main">
+    <country name="Germany"/>
+  </river>
+  <river name="Mangoky">
+    <country name="Madagascar"/>
+  </river>
+  <river name="Mantaro">
+    <country name="Peru"/>
+  </river>
+  <river name="Mara">
+    <country name="Tanzania"/>
+  </river>
+  <river name="March">
+    <country name="Czech Republic"/>
+    <country name="Slovakia"/>
+  </river>
+  <river name="Maritsa">
+    <country name="Bulgaria"/>
+    <country name="Turkey"/>
+  </river>
+  <river name="Marne">
+    <country name="France"/>
+  </river>
+  <river name="Mekong">
+    <country name="Cambodia"/>
+    <country name="Laos"/>
+    <country name="Vietnam"/>
+  </river>
+  <river name="Memel">
+    <country name="Belarus"/>
+    <country name="Lithuania"/>
+  </river>
+  <river name="MerrimackRiver">
+    <country name="United States"/>
+  </river>
+  <river name="Meta">
+    <country name="Colombia"/>
+  </river>
+  <river name="Mississippi_River">
+    <country name="United States"/>
+  </river>
+  <river name="Missouri_River">
+    <country name="United States"/>
+  </river>
+  <river name="Missouri_River river">
+    <country name="United States"/>
+  </river>
+  <river name="Moldau">
+    <country name="Czech Republic"/>
+  </river>
+  <river name="Moraca">
+    <country name="Montenegro"/>
+  </river>
+  <river name="Mosel">
+    <country name="France"/>
+    <country name="Germany"/>
+  </river>
+  <river name="Mulde">
+    <country name="Germany"/>
+  </river>
+  <river name="Mur">
+    <country name="Austria"/>
+  </river>
+  <river name="Murat">
+    <country name="Turkey"/>
+  </river>
+  <river name="Mures">
+    <country name="Hungary"/>
+    <country name="Romania"/>
+  </river>
+  <river name="MurrumbidgeeRiver">
+    <country name="Australia"/>
+  </river>
+  <river name="Narmada">
+    <country name="India"/>
+  </river>
+  <river name="Neckar">
+    <country name="Germany"/>
+  </river>
+  <river name="Neisse">
+    <country name="Czech Republic"/>
+  </river>
+  <river name="Niger">
+    <country name="Mali"/>
+    <country name="Niger"/>
+    <country name="Nigeria"/>
+  </river>
+  <river name="Nil">
+    <country name="Egypt"/>
+    <country name="Sudan"/>
+  </river>
+  <river name="Noerdliche_Dwina">
+    <country name="Russia"/>
+  </river>
+  <river name="NorthSaskatchewanRiver">
+    <country name="Canada"/>
+  </river>
+  <river name="Ob">
+    <country name="Russia"/>
+  </river>
+  <river name="Oder">
+    <country name="Czech Republic"/>
+    <country name="Poland"/>
+  </river>
+  <river name="Ohio">
+    <country name="United States"/>
+  </river>
+  <river name="Oka">
+    <country name="Russia"/>
+  </river>
+  <river name="Olt">
+    <country name="Romania"/>
+  </river>
+  <river name="Orinoco">
+    <country name="Colombia"/>
+    <country name="Venezuela"/>
+  </river>
+  <river name="Ottawa">
+    <country name="Canada"/>
+  </river>
+  <river name="Oulujoki">
+    <country name="Finland"/>
+  </river>
+  <river name="Ounasjoki river">
+    <country name="Finland"/>
+  </river>
+  <river name="Paraguay">
+    <country name="Argentina"/>
+    <country name="Paraguay"/>
+  </river>
+  <river name="Parana">
+    <country name="Argentina"/>
+    <country name="Brazil"/>
+    <country name="Paraguay"/>
+  </river>
+  <river name="Parnaiba">
+    <country name="Brazil"/>
+  </river>
+  <river name="PearlRiver">
+    <country name="China"/>
+    <country name="Hong Kong"/>
+    <country name="Macao"/>
+  </river>
+  <river name="Pjandsh">
+    <country name="Tajikistan"/>
+  </river>
+  <river name="Po">
+    <country name="Italy"/>
+  </river>
+  <river name="Pruth">
+    <country name="Ukraine"/>
+  </river>
+  <river name="Prypjat">
+    <country name="Ukraine"/>
+  </river>
+  <river name="Raab">
+    <country name="Hungary"/>
+  </river>
+  <river name="RedRiver">
+    <country name="Canada"/>
+  </river>
+  <river name="Regen">
+    <country name="Germany"/>
+  </river>
+  <river name="Reuss">
+    <country name="Switzerland"/>
+  </river>
+  <river name="Rhein">
+    <country name="France"/>
+    <country name="Germany"/>
+    <country name="Liechtenstein"/>
+    <country name="Netherlands"/>
+    <country name="Switzerland"/>
+  </river>
+  <river name="Rhone">
+    <country name="France"/>
+    <country name="Switzerland"/>
+  </river>
+  <river name="Rhumel">
+    <country name="Algeria"/>
+  </river>
+  <river name="RioBogota">
+    <country name="Colombia"/>
+  </river>
+  <river name="RioCauca">
+    <country name="Colombia"/>
+  </river>
+  <river name="RioGrandeNorte">
+    <country name="Mexico"/>
+    <country name="United States"/>
+  </river>
+  <river name="RioGrijalva">
+    <country name="Mexico"/>
+  </river>
+  <river name="RioLerma">
+    <country name="Mexico"/>
+  </river>
+  <river name="RioMadeira">
+    <country name="Brazil"/>
+  </river>
+  <river name="RioMadreDeDios">
+    <country name="Peru"/>
+  </river>
+  <river name="RioMagdalena">
+    <country name="Colombia"/>
+  </river>
+  <river name="RioNegro">
+    <country name="Brazil"/>
+  </river>
+  <river name="RioParaibaDoSul">
+    <country name="Brazil"/>
+  </river>
+  <river name="RioSaoFrancisco">
+    <country name="Brazil"/>
+  </river>
+  <river name="Ruhr">
+    <country name="Germany"/>
+  </river>
+  <river name="Ruki">
+    <country name="Zaire"/>
+  </river>
+  <river name="Saale">
+    <country name="Germany"/>
+  </river>
+  <river name="Saar">
+    <country name="Germany"/>
+  </river>
+  <river name="Sacramento_River">
+    <country name="United States"/>
+  </river>
+  <river name="Saluen">
+    <country name="Myanmar"/>
+  </river>
+  <river name="Salzach">
+    <country name="Austria"/>
+  </river>
+  <river name="Sambesi">
+    <country name="Mozambique"/>
+    <country name="Zambia"/>
+  </river>
+  <river name="SanJoaquin_River">
+    <country name="United States"/>
+  </river>
+  <river name="Sanga">
+    <country name="Congo"/>
+  </river>
+  <river name="Saone">
+    <country name="France"/>
+  </river>
+  <river name="Save">
+    <country name="Bosnia and Herzegovina"/>
+    <country name="Croatia"/>
+    <country name="Serbia"/>
+    <country name="Slovenia"/>
+  </river>
+  <river name="Schari">
+    <country name="Chad"/>
+  </river>
+  <river name="SchattAlArab">
+    <country name="Iran"/>
+    <country name="Iraq"/>
+  </river>
+  <river name="Seine">
+    <country name="France"/>
+  </river>
+  <river name="Selenge">
+    <country name="Russia"/>
+  </river>
+  <river name="Senegal">
+    <country name="Mali"/>
+    <country name="Mauritania"/>
+    <country name="Senegal"/>
+  </river>
+  <river name="Sereth">
+    <country name="Romania"/>
+  </river>
+  <river name="Severn">
+    <country name="United Kingdom"/>
+  </river>
+  <river name="Shannon">
+    <country name="Ireland"/>
+  </river>
+  <river name="Shinano">
+    <country name="Japan"/>
+  </river>
+  <river name="Songhua">
+    <country name="China"/>
+  </river>
+  <river name="SouthSaskatchewanRiver">
+    <country name="Canada"/>
+  </river>
+  <river name="South_Platte_River">
+    <country name="United States"/>
+  </river>
+  <river name="SouthernMorava">
+    <country name="Serbia"/>
+  </river>
+  <river name="Spree">
+    <country name="Germany"/>
+  </river>
+  <river name="StLorenzstrom">
+    <country name="Canada"/>
+  </river>
+  <river name="Susquehanna">
+    <country name="United States"/>
+  </river>
+  <river name="Syrdarja">
+    <country name="Kazakhstan"/>
+    <country name="Uzbekistan"/>
+  </river>
+  <river name="Tajo">
+    <country name="Portugal"/>
+    <country name="Spain"/>
+  </river>
+  <river name="TennesseeRiver">
+    <country name="United States"/>
+  </river>
+  <river name="Theiss">
+    <country name="Hungary"/>
+  </river>
+  <river name="Themse">
+    <country name="United Kingdom"/>
+  </river>
+  <river name="Tiber">
+    <country name="Italy"/>
+  </river>
+  <river name="Ticino">
+    <country name="Switzerland"/>
+  </river>
+  <river name="Tiete">
+    <country name="Brazil"/>
+  </river>
+  <river name="Tigris">
+    <country name="Iraq"/>
+    <country name="Turkey"/>
+  </river>
+  <river name="Tobol">
+    <country name="Kazakhstan"/>
+    <country name="Russia"/>
+  </river>
+  <river name="Tocantins">
+    <country name="Brazil"/>
+  </river>
+  <river name="Tone">
+    <country name="Japan"/>
+  </river>
+  <river name="TonleSap">
+    <country name="Cambodia"/>
+  </river>
+  <river name="Trent">
+    <country name="United Kingdom"/>
+  </river>
+  <river name="TruckeeRiver">
+    <country name="United States"/>
+  </river>
+  <river name="Tuul">
+    <country name="Mongolia"/>
+  </river>
+  <river name="Ubangi">
+    <country name="Central African Republic"/>
+    <country name="Congo"/>
+  </river>
+  <river name="Ucayali">
+    <country name="Peru"/>
+  </river>
+  <river name="Umeaelv">
+    <country name="Sweden"/>
+  </river>
+  <river name="Ural">
+    <country name="Kazakhstan"/>
+    <country name="Russia"/>
+  </river>
+  <river name="Uruguay">
+    <country name="Argentina"/>
+    <country name="Brazil"/>
+    <country name="Uruguay"/>
+  </river>
+  <river name="Vardar">
+    <country name="Macedonia"/>
+  </river>
+  <river name="ViktoriaNil">
+    <country name="Uganda"/>
+  </river>
+  <river name="Waag">
+    <country name="Slovakia"/>
+  </river>
+  <river name="WaikatoRiver">
+    <country name="New Zealand"/>
+  </river>
+  <river name="Warta">
+    <country name="Poland"/>
+  </river>
+  <river name="WeiHe">
+    <country name="China"/>
+  </river>
+  <river name="Weichsel">
+    <country name="Poland"/>
+  </river>
+  <river name="Weisser_Nil">
+    <country name="Sudan"/>
+  </river>
+  <river name="Weser">
+    <country name="Germany"/>
+  </river>
+  <river name="WesternBug">
+    <country name="Belarus"/>
+  </river>
+  <river name="Westliche_Dwina">
+    <country name="Belarus"/>
+    <country name="Latvia"/>
+  </river>
+  <river name="Wolga">
+    <country name="Russia"/>
+  </river>
+  <river name="XiJiang">
+    <country name="China"/>
+  </river>
+  <river name="XiangJiang">
+    <country name="China"/>
+  </river>
+  <river name="Yalu">
+    <country name="China"/>
+    <country name="North Korea"/>
+  </river>
+  <river name="Yamuna">
+    <country name="India"/>
+  </river>
+  <river name="YuanJiang">
+    <country name="China"/>
+  </river>
+  <river name="Yukon">
+    <country name="Canada"/>
+  </river>
+  <river name="Zaire">
+    <country name="Congo"/>
+    <country name="Zaire"/>
+  </river>
+</rivers>

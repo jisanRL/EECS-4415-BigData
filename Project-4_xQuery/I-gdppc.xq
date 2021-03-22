@@ -13,12 +13,10 @@
         let $ppl := $ctr/population[$ryr=@year][1]
         let $govt := 
         if (
-        (fn:contains($ctr/government/text(), "democracy") or
-		fn:contains($ctr/government/text(), "republic") or
-		fn:contains($ctr/government/text(), "constitutional monarchy")) and
-		not(fn:contains($ctr/government/text(), "dictator"))) then ("democracy") else ("non-democracy")
+        (fn:contains($ctr/government/text(), "democracy") or fn:contains($ctr/government/text(), "republic") or fn:contains($ctr/government/text(), "constitutional monarchy")) and not(fn:contains($ctr/government/text(), "dictator"))) 
+        then ("democracy") else ("non-democracy")
         where exists($ctr/gdp_total)
-        return <country gdp='{$ctr/gdp_total}' govt='{$govt}' pop='${$ppl}'></country>
+        return <country gdp='{$ctr/gdp_total}' gvt='{$govt}' pop='${$ppl}'></country>
     }
     </data>
 
@@ -26,7 +24,7 @@
     <data>
     {
         for $ctr in $cd/country
-        group by $gd := $ctr/@govt
+        group by $gd := $ctr/@gvt
         order by $gd
         return <countries government='{$gd}' gdp_total='{sum($ctr/@gdp)}' pop_total="{sum($ctr/@pop)}"></countries>
     }

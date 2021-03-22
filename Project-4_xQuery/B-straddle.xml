@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<straddle>
+  <country name="Russia">
+    <continent name="europe"/>
+    <continent name="asia"/>
+  </country>
+  <country name="Turkey">
+    <continent name="europe"/>
+    <continent name="asia"/>
+  </country>
+  <country name="Kazakhstan">
+    <continent name="europe"/>
+    <continent name="asia"/>
+  </country>
+  <country name="Egypt">
+    <continent name="asia"/>
+    <continent name="africa"/>
+  </country>
+  <country name="Indonesia">
+    <continent name="asia"/>
+    <continent name="australia"/>
+  </country>
+</straddle>

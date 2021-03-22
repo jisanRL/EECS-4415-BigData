@@ -4,11 +4,11 @@
 
 <straddle>
 {
-    for $country in doc("mondial.xml")/mondial/country          (:fix this, turn into https://:)
-    where count($country/encompassed) > 1
-    return <country name='{$country/name}'>
+    for $ctr in doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")/mondial/country
+    where count($ctr/encompassed) > 1
+    return <country name='{$ctr/name}'>
     {
-        for $continent in $country/encompassed
+        for $continent in $ctr/encompassed
         return <continent name='{$continent/@continent}'/>
     }
     </country>

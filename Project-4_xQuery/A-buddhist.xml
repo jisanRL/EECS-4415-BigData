@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buddhist>
+  <country name="France" percentage="1"/>
+  <country name="Germany" percentage="0.3"/>
+  <country name="Italy" percentage="0.3"/>
+  <country name="Switzerland" percentage="0.3"/>
+  <country name="Netherlands" percentage="1"/>
+  <country name="United Kingdom" percentage="0.3"/>
+  <country name="Myanmar" percentage="89"/>
+  <country name="India" percentage="0.7"/>
+  <country name="Bhutan" percentage="72"/>
+  <country name="Brunei" percentage="14"/>
+  <country name="Malaysia" percentage="19.2"/>
+  <country name="Laos" percentage="60"/>
+  <country name="Thailand" percentage="95"/>
+  <country name="Cambodia" percentage="95"/>
+  <country name="Vietnam" percentage="9.3"/>
+  <country name="Macao" percentage="45"/>
+  <country name="Mongolia" percentage="50"/>
+  <country name="Nepal" percentage="9.0"/>
+  <country name="Christmas Island" percentage="36"/>
+  <country name="Indonesia" percentage="1"/>
+  <country name="Japan" percentage="84"/>
+  <country name="South Korea" percentage="47.4"/>
+  <country name="Philippines" percentage="3"/>
+  <country name="Sri Lanka" percentage="70.2"/>
+  <country name="United States" percentage="0.7"/>
+  <country name="Australia" percentage="2.1"/>
+  <country name="New Zealand" percentage="1.3"/>
+</buddhist>

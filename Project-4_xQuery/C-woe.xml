@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<woe>
+  <country inflation="Afghanistan" unemployment="35">
+    <inflation>6.8</inflation>
+    <unemployment>35</unemployment>
+  </country>
+  <country inflation="Iran" unemployment="16">
+    <inflation>42.3</inflation>
+    <unemployment>16</unemployment>
+  </country>
+  <country inflation="Turkmenistan" unemployment="60">
+    <inflation>9</inflation>
+    <unemployment>60</unemployment>
+  </country>
+  <country inflation="Armenia" unemployment="17.3">
+    <inflation>6.2</inflation>
+    <unemployment>17.3</unemployment>
+  </country>
+  <country inflation="Nepal" unemployment="46">
+    <inflation>6.7</inflation>
+    <unemployment>46</unemployment>
+  </country>
+  <country inflation="Egypt" unemployment="13.4">
+    <inflation>9</inflation>
+    <unemployment>13.4</unemployment>
+  </country>
+  <country inflation="Jordan" unemployment="14">
+    <inflation>5.9</inflation>
+    <unemployment>14</unemployment>
+  </country>
+  <country inflation="Syria" unemployment="17.8">
+    <inflation>59.1</inflation>
+    <unemployment>17.8</unemployment>
+  </country>
+  <country inflation="Maldives" unemployment="28">
+    <inflation>5.1</inflation>
+    <unemployment>28</unemployment>
+  </country>
+  <country inflation="Yemen" unemployment="35">
+    <inflation>11.8</inflation>
+    <unemployment>35</unemployment>
+  </country>
+  <country inflation="Haiti" unemployment="40.6">
+    <inflation>6.3</inflation>
+    <unemployment>40.6</unemployment>
+  </country>
+  <country inflation="Jamaica" unemployment="16.3">
+    <inflation>9.4</inflation>
+    <unemployment>16.3</unemployment>
+  </country>
+  <country inflation="Saint Lucia" unemployment="20">
+    <inflation>5.3</inflation>
+    <unemployment>20</unemployment>
+  </country>
+  <country inflation="Marshall Islands" unemployment="36">
+    <inflation>12.9</inflation>
+    <unemployment>36</unemployment>
+  </country>
+  <country inflation="Tunisia" unemployment="17.2">
+    <inflation>6.1</inflation>
+    <unemployment>17.2</unemployment>
+  </country>
+  <country inflation="Namibia" unemployment="27.4">
+    <inflation>5.5</inflation>
+    <unemployment>27.4</unemployment>
+  </country>
+  <country inflation="Zambia" unemployment="15">
+    <inflation>7.1</inflation>
+    <unemployment>15</unemployment>
+  </country>
+  <country inflation="Nigeria" unemployment="23.9">
+    <inflation>8.7</inflation>
+    <unemployment>23.9</unemployment>
+  </country>
+  <country inflation="Botswana" unemployment="17.8">
+    <inflation>6.1</inflation>
+    <unemployment>17.8</unemployment>
+  </country>
+  <country inflation="South Africa" unemployment="24.9">
+    <inflation>5.8</inflation>
+    <unemployment>24.9</unemployment>
+  </country>
+  <country inflation="Zimbabwe" unemployment="95">
+    <inflation>8.5</inflation>
+    <unemployment>95</unemployment>
+  </country>
+  <country inflation="Ghana" unemployment="11">
+    <inflation>11</inflation>
+    <unemployment>11</unemployment>
+  </country>
+  <country inflation="Equatorial Guinea" unemployment="22.3">
+    <inflation>6</inflation>
+    <unemployment>22.3</unemployment>
+  </country>
+  <country inflation="Sudan" unemployment="20">
+    <inflation>25</inflation>
+    <unemployment>20</unemployment>
+  </country>
+  <country inflation="Liberia" unemployment="85">
+    <inflation>5.2</inflation>
+    <unemployment>85</unemployment>
+  </country>
+  <country inflation="Ethiopia" unemployment="17.5">
+    <inflation>8.4</inflation>
+    <unemployment>17.5</unemployment>
+  </country>
+  <country inflation="Kenya" unemployment="40">
+    <inflation>5.8</inflation>
+    <unemployment>40</unemployment>
+  </country>
+  <country inflation="Swaziland" unemployment="40">
+    <inflation>6.1</inflation>
+    <unemployment>40</unemployment>
+  </country>
+</woe>

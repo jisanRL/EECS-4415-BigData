@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<continents>
+  <continent name="africa" size="30285301" countries="60">
+    <country name="Algeria" size="2381740"/>
+    <country name="Angola" size="1246700"/>
+    <country name="Benin" size="112620"/>
+    <country name="Botswana" size="600370"/>
+    <country name="Burkina Faso" size="274200"/>
+    <country name="Burundi" size="27830"/>
+    <country name="Cameroon" size="475440"/>
+    <country name="Cape Verde" size="4033"/>
+    <country name="Central African Republic" size="622980"/>
+    <country name="Ceuta" size="18"/>
+    <country name="Chad" size="1284000"/>
+    <country name="Comoros" size="2170"/>
+    <country name="Congo" size="342000"/>
+    <country name="Cote d'Ivoire" size="322460"/>
+    <country name="Djibouti" size="22000"/>
+    <country name="Egypt" size="928344"/>
+    <country name="Equatorial Guinea" size="28050"/>
+    <country name="Eritrea" size="121320"/>
+    <country name="Ethiopia" size="1127127"/>
+    <country name="Gabon" size="267670"/>
+    <country name="Gambia" size="11300"/>
+    <country name="Ghana" size="238540"/>
+    <country name="Guinea" size="245860"/>
+    <country name="Guinea-Bissau" size="36120"/>
+    <country name="Kenya" size="582650"/>
+    <country name="Lesotho" size="30350"/>
+    <country name="Liberia" size="111370"/>
+    <country name="Libya" size="1759540"/>
+    <country name="Madagascar" size="587041"/>
+    <country name="Malawi" size="118480"/>
+    <country name="Mali" size="1240000"/>
+    <country name="Mauritania" size="1030700"/>
+    <country name="Mauritius" size="2040"/>
+    <country name="Mayotte" size="374"/>
+    <country name="Melilla" size="12"/>
+    <country name="Morocco" size="446550"/>
+    <country name="Mozambique" size="801590"/>
+    <country name="Namibia" size="825418"/>
+    <country name="Niger" size="1267000"/>
+    <country name="Nigeria" size="923770"/>
+    <country name="Reunion" size="2510"/>
+    <country name="Rwanda" size="26340"/>
+    <country name="Saint Helena" size="413"/>
+    <country name="Sao Tome and Principe" size="1001"/>
+    <country name="Senegal" size="196190"/>
+    <country name="Seychelles" size="455"/>
+    <country name="Sierra Leone" size="71740"/>
+    <country name="Somalia" size="637660"/>
+    <country name="South Africa" size="1219912"/>
+    <country name="South Sudan" size="644329"/>
+    <country name="Sudan" size="1861484"/>
+    <country name="Swaziland" size="17360"/>
+    <country name="Tanzania" size="945090"/>
+    <country name="Togo" size="56790"/>
+    <country name="Tunisia" size="163610"/>
+    <country name="Uganda" size="236040"/>
+    <country name="Western Sahara" size="266000"/>
+    <country name="Zaire" size="2345410"/>
+    <country name="Zambia" size="752610"/>
+    <country name="Zimbabwe" size="390580"/>
+  </continent>
+  <continent name="america" size="42066425" countries="54">
+    <country name="Anguilla" size="102"/>
+    <country name="Antigua and Barbuda" size="442"/>
+    <country name="Argentina" size="2766890"/>
+    <country name="Aruba" size="193"/>
+    <country name="Bahamas" size="13940"/>
+    <country name="Barbados" size="430"/>
+    <country name="Belize" size="22960"/>
+    <country name="Bermuda" size="53"/>
+    <country name="Bolivia" size="1098580"/>
+    <country name="Brazil" size="8511965"/>
+    <country name="British Virgin Islands" size="153"/>
+    <country name="Canada" size="9976140"/>
+    <country name="Cayman Islands" size="262"/>
+    <country name="Chile" size="756950"/>
+    <country name="Colombia" size="1138910"/>
+    <country name="Costa Rica" size="51100"/>
+    <country name="Cuba" size="110860"/>
+    <country name="Curacao" size="444"/>
+    <country name="Dominica" size="746"/>
+    <country name="Dominican Republic" size="48730"/>
+    <country name="Ecuador" size="283560"/>
+    <country name="El Salvador" size="21040"/>
+    <country name="Falkland Islands" size="12173"/>
+    <country name="French Guiana" size="83534"/>
+    <country name="Greenland" size="2175600"/>
+    <country name="Grenada" size="344"/>
+    <country name="Guadeloupe" size="1628"/>
+    <country name="Guatemala" size="108890"/>
+    <country name="Guyana" size="214970"/>
+    <country name="Haiti" size="27750"/>
+    <country name="Honduras" size="112090"/>
+    <country name="Jamaica" size="10991"/>
+    <country name="Martinique" size="1128"/>
+    <country name="Mexico" size="1972550"/>
+    <country name="Montserrat" size="102"/>
+    <country name="Nicaragua" size="129494"/>
+    <country name="Panama" size="78200"/>
+    <country name="Paraguay" size="406750"/>
+    <country name="Peru" size="1285220"/>
+    <country name="Puerto Rico" size="8870"/>
+    <country name="Saint Barthelemy" size="21"/>
+    <country name="Saint Kitts and Nevis" size="269"/>
+    <country name="Saint Lucia" size="620"/>
+    <country name="Saint Martin" size="54"/>
+    <country name="Saint Pierre and Miquelon" size="242"/>
+    <country name="Saint Vincent and the Grenadines" size="389"/>
+    <country name="Sint Maarten" size="34"/>
+    <country name="Suriname" size="163270"/>
+    <country name="Trinidad and Tobago" size="5130"/>
+    <country name="Turks and Caicos Islands" size="430"/>
+    <country name="United States" size="9372610"/>
+    <country name="Uruguay" size="176220"/>
+    <country name="Venezuela" size="912050"/>
+    <country name="Virgin Islands" size="352"/>
+  </continent>
+  <continent name="asia" size="43895254" countries="53">
+    <country name="Afghanistan" size="647500"/>
+    <country name="Armenia" size="29800"/>
+    <country name="Azerbaijan" size="86600"/>
+    <country name="Bahrain" size="620"/>
+    <country name="Bangladesh" size="144000"/>
+    <country name="Bhutan" size="47000"/>
+    <country name="Brunei" size="5770"/>
+    <country name="Cambodia" size="181040"/>
+    <country name="China" size="9596960"/>
+    <country name="Egypt" size="73106"/>
+    <country name="Gaza Strip" size="365"/>
+    <country name="Georgia" size="69700"/>
+    <country name="Hong Kong" size="1092"/>
+    <country name="India" size="3287590"/>
+    <country name="Indonesia" size="1497163"/>
+    <country name="Iran" size="1648000"/>
+    <country name="Iraq" size="437072"/>
+    <country name="Israel" size="22072"/>
+    <country name="Japan" size="377835"/>
+    <country name="Jordan" size="89213"/>
+    <country name="Kazakhstan" size="2570566"/>
+    <country name="Kuwait" size="17820"/>
+    <country name="Kyrgyzstan" size="198500"/>
+    <country name="Laos" size="236800"/>
+    <country name="Lebanon" size="10400"/>
+    <country name="Macao" size="16"/>
+    <country name="Malaysia" size="329750"/>
+    <country name="Maldives" size="300"/>
+    <country name="Mongolia" size="1565000"/>
+    <country name="Myanmar" size="678500"/>
+    <country name="Nepal" size="140800"/>
+    <country name="North Korea" size="120540"/>
+    <country name="Oman" size="212460"/>
+    <country name="Pakistan" size="803940"/>
+    <country name="Philippines" size="299764"/>
+    <country name="Qatar" size="11000"/>
+    <country name="Russia" size="12806400"/>
+    <country name="Saudi Arabia" size="1960582"/>
+    <country name="Singapore" size="633"/>
+    <country name="South Korea" size="98480"/>
+    <country name="Sri Lanka" size="65610"/>
+    <country name="Syria" size="185180"/>
+    <country name="Taiwan" size="36179"/>
+    <country name="Tajikistan" size="143100"/>
+    <country name="Thailand" size="514000"/>
+    <country name="Timor-Leste" size="15007"/>
+    <country name="Turkey" size="757163"/>
+    <country name="Turkmenistan" size="488100"/>
+    <country name="United Arab Emirates" size="75581"/>
+    <country name="Uzbekistan" size="447400"/>
+    <country name="Vietnam" size="329560"/>
+    <country name="West Bank" size="5655"/>
+    <country name="Yemen" size="527970"/>
+  </continent>
+  <continent name="australia" size="8932151" countries="28">
+    <country name="American Samoa" size="199"/>
+    <country name="Australia" size="7686850"/>
+    <country name="Christmas Island" size="135"/>
+    <country name="Cocos Islands" size="14"/>
+    <country name="Cook Islands" size="240"/>
+    <country name="Fiji" size="18270"/>
+    <country name="French Polynesia" size="4167"/>
+    <country name="Guam" size="541"/>
+    <country name="Indonesia" size="422277"/>
+    <country name="Kiribati" size="717"/>
+    <country name="Marshall Islands" size="181"/>
+    <country name="Micronesia" size="702"/>
+    <country name="Nauru" size="21"/>
+    <country name="New Caledonia" size="19060"/>
+    <country name="New Zealand" size="268680"/>
+    <country name="Niue" size="260"/>
+    <country name="Norfolk Island" size="35"/>
+    <country name="Northern Mariana Islands" size="477"/>
+    <country name="Palau" size="458"/>
+    <country name="Papua New Guinea" size="461690"/>
+    <country name="Pitcairn" size="47"/>
+    <country name="Samoa" size="2860"/>
+    <country name="Solomon Islands" size="28450"/>
+    <country name="Tokelau" size="12"/>
+    <country name="Tonga" size="748"/>
+    <country name="Tuvalu" size="26"/>
+    <country name="Vanuatu" size="14760"/>
+    <country name="Wallis and Futuna" size="274"/>
+  </continent>
+  <continent name="europe" size="10401007" countries="54">
+    <country name="Albania" size="28750"/>
+    <country name="Andorra" size="450"/>
+    <country name="Austria" size="83850"/>
+    <country name="Belarus" size="207600"/>
+    <country name="Belgium" size="30510"/>
+    <country name="Bosnia and Herzegovina" size="51233"/>
+    <country name="Bulgaria" size="110910"/>
+    <country name="Croatia" size="56538"/>
+    <country name="Cyprus" size="9251"/>
+    <country name="Czech Republic" size="78703"/>
+    <country name="Denmark" size="43070"/>
+    <country name="Estonia" size="45100"/>
+    <country name="Faroe Islands" size="1400"/>
+    <country name="Finland" size="337030"/>
+    <country name="France" size="547030"/>
+    <country name="Germany" size="356910"/>
+    <country name="Gibraltar" size="7"/>
+    <country name="Greece" size="131940"/>
+    <country name="Guernsey" size="194"/>
+    <country name="Holy See" size="0"/>
+    <country name="Hungary" size="93030"/>
+    <country name="Iceland" size="103000"/>
+    <country name="Ireland" size="70280"/>
+    <country name="Isle of Man" size="588"/>
+    <country name="Italy" size="301230"/>
+    <country name="Jersey" size="117"/>
+    <country name="Kazakhstan" size="146734"/>
+    <country name="Kosovo" size="10887"/>
+    <country name="Latvia" size="64100"/>
+    <country name="Liechtenstein" size="160"/>
+    <country name="Lithuania" size="65200"/>
+    <country name="Luxembourg" size="2586"/>
+    <country name="Macedonia" size="25333"/>
+    <country name="Malta" size="320"/>
+    <country name="Moldova" size="33700"/>
+    <country name="Monaco" size="2"/>
+    <country name="Montenegro" size="14026"/>
+    <country name="Netherlands" size="37330"/>
+    <country name="Norway" size="324220"/>
+    <country name="Poland" size="312683"/>
+    <country name="Portugal" size="92080"/>
+    <country name="Romania" size="237500"/>
+    <country name="Russia" size="4268800"/>
+    <country name="San Marino" size="60"/>
+    <country name="Serbia" size="77474"/>
+    <country name="Slovakia" size="48845"/>
+    <country name="Slovenia" size="20256"/>
+    <country name="Spain" size="504750"/>
+    <country name="Svalbard" size="62049"/>
+    <country name="Sweden" size="449964"/>
+    <country name="Switzerland" size="41290"/>
+    <country name="Turkey" size="23417"/>
+    <country name="Ukraine" size="603700"/>
+    <country name="United Kingdom" size="244820"/>
+  </continent>
+</continents>

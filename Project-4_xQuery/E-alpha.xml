@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alpha>
+  <country name="Afghanistan">
+    <alpha name="Kabul" population="2435400"/>
+  </country>
+  <country name="Albania">
+    <alpha name="Tirana" population="418495"/>
+  </country>
+  <country name="Algeria">
+    <alpha name="Algiers" population="2364230"/>
+  </country>
+  <country name="Andorra">
+    <alpha name="Andorra la Vella" population="22256"/>
+  </country>
+  <country name="Angola">
+    <alpha name="Luanda" population="2107648"/>
+  </country>
+  <country name="Antigua and Barbuda">
+    <alpha name="Saint Johns" population="22219"/>
+  </country>
+  <country name="Argentina">
+    <alpha name="Buenos Aires" population="2768772"/>
+  </country>
+  <country name="Armenia">
+    <alpha name="Yerevan" population="1066264"/>
+  </country>
+  <country name="Australia">
+    <alpha name="Sydney" population="4605992"/>
+  </country>
+  <country name="Austria">
+    <alpha name="Wien" population="1761738"/>
+  </country>
+  <country name="Azerbaijan">
+    <alpha name="Baku" population="2150800"/>
+  </country>
+  <country name="Bahamas">
+    <alpha name="Nassau" population="248948"/>
+  </country>
+  <country name="Bahrain">
+    <alpha name="Al ManÄmah" population="143035"/>
+  </country>
+  <country name="Bangladesh">
+    <alpha name="Dhaka" population="7423137"/>
+  </country>
+  <country name="Barbados">
+    <alpha name="Bridgetown" population="88529"/>
+  </country>
+  <country name="Belarus">
+    <alpha name="Minsk" population="1836808"/>
+  </country>
+  <country name="Belgium">
+    <alpha name="Antwerpen" population="507911"/>
+  </country>
+  <country name="Belize">
+    <alpha name="Belize City" population="53532"/>
+  </country>
+  <country name="Benin">
+    <alpha name="Cotonou" population="665100"/>
+  </country>
+  <country name="Bhutan">
+    <alpha name="Thimphu" population="42465"/>
+  </country>
+  <country name="Bolivia">
+    <alpha name="Santa Cruz de la Sierra" population="1453549"/>
+  </country>
+  <country name="Bosnia and Herzegovina">
+    <alpha name="Sarajevo" population="291422"/>
+  </country>
+  <country name="Botswana">
+    <alpha name="Gaborone" population="227333"/>
+  </country>
+  <country name="Brazil">
+    <alpha name="SÃ£o Paulo" population="11152344"/>
+  </country>
+  <country name="Brunei">
+    <alpha name="Bandar Seri Begawan" population="279924"/>
+  </country>
+  <country name="Bulgaria">
+    <alpha name="Sofia" population="1270284"/>
+  </country>
+  <country name="Burkina Faso">
+    <alpha name="Ouagadougou" population="1475223"/>
+  </country>
+  <country name="Burundi">
+    <alpha name="Bujumbura" population="497166"/>
+  </country>
+  <country name="Cambodia">
+    <alpha name="Phnom Penh" population="703963"/>
+  </country>
+  <country name="Cameroon">
+    <alpha name="Douala" population="1907479"/>
+  </country>
+  <country name="Canada">
+    <alpha name="Toronto" population="2615060"/>
+  </country>
+  <country name="Cape Verde">
+    <alpha name="Praia" population="131719"/>
+  </country>
+  <country name="Central African Republic">
+    <alpha name="Bangui" population="622771"/>
+  </country>
+  <country name="Ceuta">
+    <alpha name="Ceuta" population="82376"/>
+  </country>
+  <country name="Chad">
+    <alpha name="N'Djamena" population="951418"/>
+  </country>
+  <country name="Chile">
+    <alpha name="Santiago" population="4659048"/>
+  </country>
+  <country name="China">
+    <alpha name="Shanghai" population="22315474"/>
+  </country>
+  <country name="Colombia">
+    <alpha name="BogotÃ¡" population="7776845"/>
+  </country>
+  <country name="Comoros">
+    <alpha name="Moroni" population="41557"/>
+  </country>
+  <country name="Congo">
+    <alpha name="Brazzaville" population="1408150"/>
+  </country>
+  <country name="Costa Rica">
+    <alpha name="San JosÃ©" population="354409"/>
+  </country>
+  <country name="Cote d'Ivoire">
+    <alpha name="Abidjan" population="4395243"/>
+  </country>
+  <country name="Croatia">
+    <alpha name="Zagreb" population="686568"/>
+  </country>
+  <country name="Cuba">
+    <alpha name="La Habana" population="2141993"/>
+  </country>
+  <country name="Curacao">
+    <alpha name="Willemstad" population="125000"/>
+  </country>
+  <country name="Cyprus">
+    <alpha name="Lemesos" population="101000"/>
+  </country>
+  <country name="Czech Republic">
+    <alpha name="Praha" population="1289556"/>
+  </country>
+  <country name="Denmark">
+    <alpha name="Copenhagen" population="580184"/>
+  </country>
+  <country name="Djibouti">
+    <alpha name="Djibouti" population="475322"/>
+  </country>
+  <country name="Dominica">
+    <alpha name="Roseau" population="14725"/>
+  </country>
+  <country name="Dominican Republic">
+    <alpha name="Santo Domingo" population="2749703"/>
+  </country>
+  <country name="Ecuador">
+    <alpha name="Guayaquil" population="2291158"/>
+  </country>
+  <country name="Egypt">
+    <alpha name="Al Qahirah" population="8471859"/>
+  </country>
+  <country name="El Salvador">
+    <alpha name="San Salvador" population="354174"/>
+  </country>
+  <country name="Equatorial Guinea">
+    <alpha name="Malabo" population="92900"/>
+  </country>
+  <country name="Eritrea">
+    <alpha name="Asmara" population="380568"/>
+  </country>
+  <country name="Estonia">
+    <alpha name="Tallinn" population="399340"/>
+  </country>
+  <country name="Ethiopia">
+    <alpha name="Addis Ababa" population="3040740"/>
+  </country>
+  <country name="Faroe Islands">
+    <alpha name="TÃ³rshavn" population="12245"/>
+  </country>
+  <country name="Fiji">
+    <alpha name="Suva" population="75225"/>
+  </country>
+  <country name="Finland">
+    <alpha name="Helsinki" population="614535"/>
+  </country>
+  <country name="France">
+    <alpha name="Paris" population="2249975"/>
+  </country>
+  <country name="French Guiana">
+    <alpha name="Cayenne" population="57229"/>
+  </country>
+  <country name="Gabon">
+    <alpha name="Libreville" population="538195"/>
+  </country>
+  <country name="Gambia">
+    <alpha name="Banjul" population="357238"/>
+  </country>
+  <country name="Gaza Strip">
+    <alpha name="Gaza" population="449477"/>
+  </country>
+  <country name="Georgia">
+    <alpha name="Tbilisi" population="1073345"/>
+  </country>
+  <country name="Germany">
+    <alpha name="Berlin" population="3292365"/>
+  </country>
+  <country name="Ghana">
+    <alpha name="Accra" population="2070463"/>
+  </country>
+  <country name="Greece">
+    <alpha name="Athina" population="664046"/>
+  </country>
+  <country name="Grenada">
+    <alpha name="Saint George's" population="37000"/>
+  </country>
+  <country name="Guatemala">
+    <alpha name="Ciudad de Guatemala" population="992541"/>
+  </country>
+  <country name="Guinea">
+    <alpha name="Conakry" population="1667864"/>
+  </country>
+  <country name="Guyana">
+    <alpha name="Georgetown" population="118363"/>
+  </country>
+  <country name="Haiti">
+    <alpha name="Port-au-Prince" population="875978"/>
+  </country>
+  <country name="Holy See">
+    <alpha name="Vatican City" population="842"/>
+  </country>
+  <country name="Honduras">
+    <alpha name="Tegucigalpa" population="850227"/>
+  </country>
+  <country name="Hong Kong">
+    <alpha name="Hong Kong" population="7055071"/>
+  </country>
+  <country name="Hungary">
+    <alpha name="Budapest" population="1729040"/>
+  </country>
+  <country name="Iceland">
+    <alpha name="Reykjavik" population="118061"/>
+  </country>
+  <country name="India">
+    <alpha name="Mumbai" population="12442373"/>
+  </country>
+  <country name="Indonesia">
+    <alpha name="Jakarta" population="9607787"/>
+  </country>
+  <country name="Iran">
+    <alpha name="Tehran" population="8154051"/>
+  </country>
+  <country name="Iraq">
+    <alpha name="Baghdad" population="5750000"/>
+  </country>
+  <country name="Ireland">
+    <alpha name="Dublin" population="525383"/>
+  </country>
+  <country name="Israel">
+    <alpha name="Yerushalayim" population="773000"/>
+  </country>
+  <country name="Italy">
+    <alpha name="Roma" population="2617175"/>
+  </country>
+  <country name="Jamaica">
+    <alpha name="Kingston" population="662426"/>
+  </country>
+  <country name="Japan">
+    <alpha name="Tokyo" population="8591695"/>
+  </country>
+  <country name="Jordan">
+    <alpha name="Amman" population="1812941"/>
+  </country>
+  <country name="Kazakhstan">
+    <alpha name="Almaty" population="1507737"/>
+  </country>
+  <country name="Kenya">
+    <alpha name="Nairobi" population="3133518"/>
+  </country>
+  <country name="Kiribati">
+    <alpha name="Tarawa" population="50182"/>
+  </country>
+  <country name="Kosovo">
+    <alpha name="Prishtine" population="198214"/>
+  </country>
+  <country name="Kuwait">
+    <alpha name="Al Kuwayt" population="637411"/>
+  </country>
+  <country name="Kyrgyzstan">
+    <alpha name="Bishkek" population="901700"/>
+  </country>
+  <country name="Laos">
+    <alpha name="Vientiane" population="698318"/>
+  </country>
+  <country name="Latvia">
+    <alpha name="RÄ«ga" population="696618"/>
+  </country>
+  <country name="Lebanon">
+    <alpha name="BayrÅ«t" population="1100000"/>
+  </country>
+  <country name="Lesotho">
+    <alpha name="Maseru" population="227880"/>
+  </country>
+  <country name="Liberia">
+    <alpha name="Monrovia" population="1010970"/>
+  </country>
+  <country name="Libya">
+    <alpha name="Tripoli" population="1500000"/>
+  </country>
+  <country name="Liechtenstein">
+    <alpha name="Vaduz" population="5241"/>
+  </country>
+  <country name="Lithuania">
+    <alpha name="Vilnius" population="538747"/>
+  </country>
+  <country name="Luxembourg">
+    <alpha name="Luxembourg" population="99852"/>
+  </country>
+  <country name="Macedonia">
+    <alpha name="Skopje" population="514967"/>
+  </country>
+  <country name="Madagascar">
+    <alpha name="Antananarivo" population="710236"/>
+  </country>
+  <country name="Malawi">
+    <alpha name="Lilongwe" population="674448"/>
+  </country>
+  <country name="Malaysia">
+    <alpha name="Kuala Lumpur" population="1297526"/>
+  </country>
+  <country name="Maldives">
+    <alpha name="Male" population="133019"/>
+  </country>
+  <country name="Mali">
+    <alpha name="Bamako" population="1809106"/>
+  </country>
+  <country name="Malta">
+    <alpha name="Victoria" population="6252"/>
+  </country>
+  <country name="Marshall Islands">
+    <alpha name="Majuro" population="27797"/>
+  </country>
+  <country name="Martinique">
+    <alpha name="Fort-de-France" population="100000"/>
+  </country>
+  <country name="Mauritania">
+    <alpha name="Nouakchott" population="958399"/>
+  </country>
+  <country name="Melilla">
+    <alpha name="Melilla" population="78476"/>
+  </country>
+  <country name="Mexico">
+    <alpha name="Ciudad de MÃ©xico" population="8555272"/>
+  </country>
+  <country name="Micronesia">
+    <alpha name="Palikir" population="6444"/>
+  </country>
+  <country name="Moldova">
+    <alpha name="ChiÅinÄu" population="663400"/>
+  </country>
+  <country name="Monaco">
+    <alpha name="Monaco" population="975"/>
+  </country>
+  <country name="Mongolia">
+    <alpha name="Ulaanbaatar" population="760077"/>
+  </country>
+  <country name="Montenegro">
+    <alpha name="Podgorica" population="150977"/>
+  </country>
+  <country name="Montserrat">
+    <alpha name="Plymouth" population="0"/>
+  </country>
+  <country name="Morocco">
+    <alpha name="Casablanca" population="2946440"/>
+  </country>
+  <country name="Mozambique">
+    <alpha name="Maputo" population="1094628"/>
+  </country>
+  <country name="Myanmar">
+    <alpha name="Yangon" population="5209541"/>
+  </country>
+  <country name="Namibia">
+    <alpha name="Windhoek" population="322500"/>
+  </country>
+  <country name="Nepal">
+    <alpha name="Kathmandu" population="1003285"/>
+  </country>
+  <country name="Netherlands">
+    <alpha name="Amsterdam" population="812895"/>
+  </country>
+  <country name="New Zealand">
+    <alpha name="Auckland" population="419418"/>
+  </country>
+  <country name="Nicaragua">
+    <alpha name="Managua" population="1028808"/>
+  </country>
+  <country name="Niger">
+    <alpha name="Niamey" population="1026848"/>
+  </country>
+  <country name="Nigeria">
+    <alpha name="Lagos" population="5195247"/>
+  </country>
+  <country name="North Korea">
+    <alpha name="Pyongyang" population="3255288"/>
+  </country>
+  <country name="Norway">
+    <alpha name="Oslo" population="623966"/>
+  </country>
+  <country name="Oman">
+    <alpha name="As Seeb" population="302992"/>
+  </country>
+  <country name="Pakistan">
+    <alpha name="Karachi" population="9339023"/>
+  </country>
+  <country name="Palau">
+    <alpha name="Koror" population="11665"/>
+  </country>
+  <country name="Panama">
+    <alpha name="PanamÃ¡ City" population="880691"/>
+  </country>
+  <country name="Papua New Guinea">
+    <alpha name="Port Moresby" population="318128"/>
+  </country>
+  <country name="Paraguay">
+    <alpha name="AsunciÃ³n" population="518792"/>
+  </country>
+  <country name="Peru">
+    <alpha name="Lima" population="7605742"/>
+  </country>
+  <country name="Philippines">
+    <alpha name="Quezon City" population="2679450"/>
+  </country>
+  <country name="Pitcairn">
+    <alpha name="Adamstown" population="56"/>
+  </country>
+  <country name="Poland">
+    <alpha name="Warszawa" population="1711324"/>
+  </country>
+  <country name="Portugal">
+    <alpha name="Lisboa" population="559248"/>
+  </country>
+  <country name="Puerto Rico">
+    <alpha name="San Juan" population="381931"/>
+  </country>
+  <country name="Qatar">
+    <alpha name="Doha" population="339847"/>
+  </country>
+  <country name="Reunion">
+    <alpha name="Saint-Denis" population="145347"/>
+  </country>
+  <country name="Romania">
+    <alpha name="BucureÅti" population="1883425"/>
+  </country>
+  <country name="Russia">
+    <alpha name="Moskva" population="11979529"/>
+  </country>
+  <country name="Rwanda">
+    <alpha name="Kigali" population="603049"/>
+  </country>
+  <country name="Saint Barthelemy">
+    <alpha name="Gustavia" population="2299"/>
+  </country>
+  <country name="Saint Kitts and Nevis">
+    <alpha name="Basseterre" population="15500"/>
+  </country>
+  <country name="Saint Lucia">
+    <alpha name="Castries" population="3661"/>
+  </country>
+  <country name="Saint Martin">
+    <alpha name="Marigot" population="5700"/>
+  </country>
+  <country name="Saint Pierre and Miquelon">
+    <alpha name="Saint-Pierre" population="5618"/>
+  </country>
+  <country name="Saint Vincent and the Grenadines">
+    <alpha name="Kingstown" population="12909"/>
+  </country>
+  <country name="Samoa">
+    <alpha name="Apia" population="36735"/>
+  </country>
+  <country name="San Marino">
+    <alpha name="San Marino" population="4227"/>
+  </country>
+  <country name="Sao Tome and Principe">
+    <alpha name="SÃ£o TomÃ©" population="49957"/>
+  </country>
+  <country name="Saudi Arabia">
+    <alpha name="Riyadh" population="4087152"/>
+  </country>
+  <country name="Senegal">
+    <alpha name="Dakar" population="1121935"/>
+  </country>
+  <country name="Serbia">
+    <alpha name="Beograd" population="1639121"/>
+  </country>
+  <country name="Seychelles">
+    <alpha name="Victoria" population="24970"/>
+  </country>
+  <country name="Sierra Leone">
+    <alpha name="Freetown" population="772873"/>
+  </country>
+  <country name="Singapore">
+    <alpha name="Singapore" population="5076700"/>
+  </country>
+  <country name="Sint Maarten">
+    <alpha name="Philipsburg" population="1338"/>
+  </country>
+  <country name="Slovakia">
+    <alpha name="Bratislava" population="411228"/>
+  </country>
+  <country name="Slovenia">
+    <alpha name="Ljubljana" population="282994"/>
+  </country>
+  <country name="Solomon Islands">
+    <alpha name="Honiara" population="49107"/>
+  </country>
+  <country name="South Africa">
+    <alpha name="Johannesburg" population="4434827"/>
+  </country>
+  <country name="South Korea">
+    <alpha name="Seoul" population="9708483"/>
+  </country>
+  <country name="South Sudan">
+    <alpha name="Juba" population="372410"/>
+  </country>
+  <country name="Spain">
+    <alpha name="Madrid" population="3198645"/>
+  </country>
+  <country name="Sri Lanka">
+    <alpha name="Colombo" population="647100"/>
+  </country>
+  <country name="Sudan">
+    <alpha name="Omdurman" population="1271403"/>
+  </country>
+  <country name="Suriname">
+    <alpha name="Paramaribo" population="240924"/>
+  </country>
+  <country name="Swaziland">
+    <alpha name="Mbabane" population="57992"/>
+  </country>
+  <country name="Sweden">
+    <alpha name="Stockholm" population="881235"/>
+  </country>
+  <country name="Switzerland">
+    <alpha name="ZÃ¼rich" population="384786"/>
+  </country>
+  <country name="Syria">
+    <alpha name="Halab" population="2181061"/>
+  </country>
+  <country name="Taiwan">
+    <alpha name="New Taipei" population="3939305"/>
+  </country>
+  <country name="Tajikistan">
+    <alpha name="Dushanbe" population="747500"/>
+  </country>
+  <country name="Tanzania">
+    <alpha name="Dar es Salaam" population="4364541"/>
+  </country>
+  <country name="Thailand">
+    <alpha name="Bangkok" population="7506700"/>
+  </country>
+  <country name="Timor-Leste">
+    <alpha name="Dili" population="193563"/>
+  </country>
+  <country name="Togo">
+    <alpha name="LomÃ©" population="839566"/>
+  </country>
+  <country name="Tokelau">
+    <alpha name="Fakaofo" population="490"/>
+  </country>
+  <country name="Tonga">
+    <alpha name="Nukualofa" population="23658"/>
+  </country>
+  <country name="Trinidad and Tobago">
+    <alpha name="Port-of-Spain" population="548299"/>
+  </country>
+  <country name="Tunisia">
+    <alpha name="Tunis" population="651284"/>
+  </country>
+  <country name="Turkey">
+    <alpha name="Istanbul" population="13710512"/>
+  </country>
+  <country name="Turkmenistan">
+    <alpha name="Ashgabat" population="604700"/>
+  </country>
+  <country name="Tuvalu">
+    <alpha name="Funafuti" population="4492"/>
+  </country>
+  <country name="Uganda">
+    <alpha name="Kampala" population="1507114"/>
+  </country>
+  <country name="Ukraine">
+    <alpha name="KyÃ¯v" population="2814258"/>
+  </country>
+  <country name="United Arab Emirates">
+    <alpha name="Dubai" population="1171000"/>
+  </country>
+  <country name="United Kingdom">
+    <alpha name="London" population="8250205"/>
+  </country>
+  <country name="United States">
+    <alpha name="New York" population="8405837"/>
+  </country>
+  <country name="Uruguay">
+    <alpha name="Montevideo" population="1318755"/>
+  </country>
+  <country name="Uzbekistan">
+    <alpha name="Toshkent" population="2352900"/>
+  </country>
+  <country name="Vanuatu">
+    <alpha name="Port Vila" population="44040"/>
+  </country>
+  <country name="Venezuela">
+    <alpha name="Caracas" population="1975786"/>
+  </country>
+  <country name="Vietnam">
+    <alpha name="Ho Chi Minh" population="5968384"/>
+  </country>
+  <country name="Virgin Islands">
+    <alpha name="Charlotte Amalie" population="10354"/>
+  </country>
+  <country name="West Bank">
+    <alpha name="Hebron" population="163146"/>
+  </country>
+  <country name="Western Sahara">
+    <alpha name="El Aaiun" population="183691"/>
+  </country>
+  <country name="Yemen">
+    <alpha name="Sana'a" population="1527861"/>
+  </country>
+  <country name="Zaire">
+    <alpha name="Kinshasa" population="4655313"/>
+  </country>
+  <country name="Zambia">
+    <alpha name="Lusaka" population="1269848"/>
+  </country>
+  <country name="Zimbabwe">
+    <alpha name="Harare" population="1485231"/>
+  </country>
+</alpha>

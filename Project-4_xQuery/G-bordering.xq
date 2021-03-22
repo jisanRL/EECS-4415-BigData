@@ -7,18 +7,18 @@
 
 <countries>{
     let $doc := doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")
-    for $country in $doc//country
-    order by $country/name
+    for $ctr in $doc//country
+    order by $ctr/name
     
-    return if(exists($country/border)) then (<country name="{$country/name/text()}">
+    return if(exists($ctr/border)) then (<country name="{$ctr/name/text()}">
     {
-        for $neighbour in $country/border
-        let $nc := data($neighbour/@country)
+        for $nbr in $ctr/border
+        let $nc := data($nbr/@country)
         let $cntrs := $doc//country
         let $nn := $cntrs[$nc=@car_code]/name
         order by $nn
         return <neighbour name='{$nn}'>
-            <length>{data($neighbour/@length)}</length>
+            <length>{data($nbr/@length)}</length>
         </neighbour>
     }</country>)else()
 }

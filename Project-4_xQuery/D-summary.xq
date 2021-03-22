@@ -14,6 +14,7 @@
     let $lp := data($country/population[$ly=@year])
     let $inc := data($country/indep_date)
     order by $country/name
+    
     return <country>
         <name>'{$country/name}'</name>
         <capital>'{$country//city[$cp=@id]/name[1]/text()}'</capital>

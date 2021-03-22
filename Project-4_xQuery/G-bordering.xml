@@ -1,0 +1,2287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+  <country name="Afghanistan">
+    <neighbour name="China">
+      <length>76</length>
+    </neighbour>
+    <neighbour name="Iran">
+      <length>936</length>
+    </neighbour>
+    <neighbour name="Pakistan">
+      <length>2430</length>
+    </neighbour>
+    <neighbour name="Tajikistan">
+      <length>1206</length>
+    </neighbour>
+    <neighbour name="Turkmenistan">
+      <length>744</length>
+    </neighbour>
+    <neighbour name="Uzbekistan">
+      <length>137</length>
+    </neighbour>
+  </country>
+  <country name="Albania">
+    <neighbour name="Greece">
+      <length>282</length>
+    </neighbour>
+    <neighbour name="Kosovo">
+      <length>112</length>
+    </neighbour>
+    <neighbour name="Macedonia">
+      <length>151</length>
+    </neighbour>
+    <neighbour name="Montenegro">
+      <length>172</length>
+    </neighbour>
+  </country>
+  <country name="Algeria">
+    <neighbour name="Libya">
+      <length>982</length>
+    </neighbour>
+    <neighbour name="Mali">
+      <length>1376</length>
+    </neighbour>
+    <neighbour name="Mauritania">
+      <length>463</length>
+    </neighbour>
+    <neighbour name="Morocco">
+      <length>1559</length>
+    </neighbour>
+    <neighbour name="Niger">
+      <length>956</length>
+    </neighbour>
+    <neighbour name="Tunisia">
+      <length>965</length>
+    </neighbour>
+    <neighbour name="Western Sahara">
+      <length>42</length>
+    </neighbour>
+  </country>
+  <country name="Andorra">
+    <neighbour name="France">
+      <length>60</length>
+    </neighbour>
+    <neighbour name="Spain">
+      <length>65</length>
+    </neighbour>
+  </country>
+  <country name="Angola">
+    <neighbour name="Congo">
+      <length>201</length>
+    </neighbour>
+    <neighbour name="Namibia">
+      <length>1376</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>2511</length>
+    </neighbour>
+    <neighbour name="Zambia">
+      <length>1110</length>
+    </neighbour>
+  </country>
+  <country name="Argentina">
+    <neighbour name="Bolivia">
+      <length>832</length>
+    </neighbour>
+    <neighbour name="Brazil">
+      <length>1224</length>
+    </neighbour>
+    <neighbour name="Chile">
+      <length>5150</length>
+    </neighbour>
+    <neighbour name="Paraguay">
+      <length>1880</length>
+    </neighbour>
+    <neighbour name="Uruguay">
+      <length>579</length>
+    </neighbour>
+  </country>
+  <country name="Armenia">
+    <neighbour name="Azerbaijan">
+      <length>787</length>
+    </neighbour>
+    <neighbour name="Georgia">
+      <length>164</length>
+    </neighbour>
+    <neighbour name="Iran">
+      <length>35</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>268</length>
+    </neighbour>
+  </country>
+  <country name="Austria">
+    <neighbour name="Czech Republic">
+      <length>362</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>784</length>
+    </neighbour>
+    <neighbour name="Hungary">
+      <length>366</length>
+    </neighbour>
+    <neighbour name="Italy">
+      <length>430</length>
+    </neighbour>
+    <neighbour name="Liechtenstein">
+      <length>37</length>
+    </neighbour>
+    <neighbour name="Slovakia">
+      <length>91</length>
+    </neighbour>
+    <neighbour name="Slovenia">
+      <length>324</length>
+    </neighbour>
+    <neighbour name="Switzerland">
+      <length>164</length>
+    </neighbour>
+  </country>
+  <country name="Azerbaijan">
+    <neighbour name="Armenia">
+      <length>787</length>
+    </neighbour>
+    <neighbour name="Georgia">
+      <length>322</length>
+    </neighbour>
+    <neighbour name="Iran">
+      <length>611</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>284</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>9</length>
+    </neighbour>
+  </country>
+  <country name="Bangladesh">
+    <neighbour name="India">
+      <length>4053</length>
+    </neighbour>
+    <neighbour name="Myanmar">
+      <length>193</length>
+    </neighbour>
+  </country>
+  <country name="Belarus">
+    <neighbour name="Latvia">
+      <length>141</length>
+    </neighbour>
+    <neighbour name="Lithuania">
+      <length>502</length>
+    </neighbour>
+    <neighbour name="Poland">
+      <length>605</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>959</length>
+    </neighbour>
+    <neighbour name="Ukraine">
+      <length>891</length>
+    </neighbour>
+  </country>
+  <country name="Belgium">
+    <neighbour name="France">
+      <length>620</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>167</length>
+    </neighbour>
+    <neighbour name="Luxembourg">
+      <length>148</length>
+    </neighbour>
+    <neighbour name="Netherlands">
+      <length>450</length>
+    </neighbour>
+  </country>
+  <country name="Belize">
+    <neighbour name="Guatemala">
+      <length>266</length>
+    </neighbour>
+    <neighbour name="Mexico">
+      <length>250</length>
+    </neighbour>
+  </country>
+  <country name="Benin">
+    <neighbour name="Burkina Faso">
+      <length>306</length>
+    </neighbour>
+    <neighbour name="Niger">
+      <length>266</length>
+    </neighbour>
+    <neighbour name="Nigeria">
+      <length>773</length>
+    </neighbour>
+    <neighbour name="Togo">
+      <length>644</length>
+    </neighbour>
+  </country>
+  <country name="Bhutan">
+    <neighbour name="China">
+      <length>470</length>
+    </neighbour>
+    <neighbour name="India">
+      <length>605</length>
+    </neighbour>
+  </country>
+  <country name="Bolivia">
+    <neighbour name="Argentina">
+      <length>832</length>
+    </neighbour>
+    <neighbour name="Brazil">
+      <length>3400</length>
+    </neighbour>
+    <neighbour name="Chile">
+      <length>861</length>
+    </neighbour>
+    <neighbour name="Paraguay">
+      <length>750</length>
+    </neighbour>
+    <neighbour name="Peru">
+      <length>900</length>
+    </neighbour>
+  </country>
+  <country name="Bosnia and Herzegovina">
+    <neighbour name="Croatia">
+      <length>932</length>
+    </neighbour>
+    <neighbour name="Montenegro">
+      <length>249</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>357</length>
+    </neighbour>
+  </country>
+  <country name="Botswana">
+    <neighbour name="Namibia">
+      <length>1360</length>
+    </neighbour>
+    <neighbour name="South Africa">
+      <length>1840</length>
+    </neighbour>
+    <neighbour name="Zimbabwe">
+      <length>813</length>
+    </neighbour>
+  </country>
+  <country name="Brazil">
+    <neighbour name="Argentina">
+      <length>1224</length>
+    </neighbour>
+    <neighbour name="Bolivia">
+      <length>3400</length>
+    </neighbour>
+    <neighbour name="Colombia">
+      <length>1643</length>
+    </neighbour>
+    <neighbour name="French Guiana">
+      <length>673</length>
+    </neighbour>
+    <neighbour name="Guyana">
+      <length>1119</length>
+    </neighbour>
+    <neighbour name="Paraguay">
+      <length>1290</length>
+    </neighbour>
+    <neighbour name="Peru">
+      <length>1560</length>
+    </neighbour>
+    <neighbour name="Suriname">
+      <length>597</length>
+    </neighbour>
+    <neighbour name="Uruguay">
+      <length>985</length>
+    </neighbour>
+    <neighbour name="Venezuela">
+      <length>2200</length>
+    </neighbour>
+  </country>
+  <country name="Brunei">
+    <neighbour name="Malaysia">
+      <length>381</length>
+    </neighbour>
+  </country>
+  <country name="Bulgaria">
+    <neighbour name="Greece">
+      <length>494</length>
+    </neighbour>
+    <neighbour name="Macedonia">
+      <length>148</length>
+    </neighbour>
+    <neighbour name="Romania">
+      <length>608</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>318</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>240</length>
+    </neighbour>
+  </country>
+  <country name="Burkina Faso">
+    <neighbour name="Benin">
+      <length>306</length>
+    </neighbour>
+    <neighbour name="Cote d'Ivoire">
+      <length>584</length>
+    </neighbour>
+    <neighbour name="Ghana">
+      <length>548</length>
+    </neighbour>
+    <neighbour name="Mali">
+      <length>1000</length>
+    </neighbour>
+    <neighbour name="Niger">
+      <length>628</length>
+    </neighbour>
+    <neighbour name="Togo">
+      <length>126</length>
+    </neighbour>
+  </country>
+  <country name="Burundi">
+    <neighbour name="Rwanda">
+      <length>290</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>451</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>233</length>
+    </neighbour>
+  </country>
+  <country name="Cambodia">
+    <neighbour name="Laos">
+      <length>541</length>
+    </neighbour>
+    <neighbour name="Thailand">
+      <length>803</length>
+    </neighbour>
+    <neighbour name="Vietnam">
+      <length>1228</length>
+    </neighbour>
+  </country>
+  <country name="Cameroon">
+    <neighbour name="Central African Republic">
+      <length>797</length>
+    </neighbour>
+    <neighbour name="Chad">
+      <length>1094</length>
+    </neighbour>
+    <neighbour name="Congo">
+      <length>523</length>
+    </neighbour>
+    <neighbour name="Equatorial Guinea">
+      <length>189</length>
+    </neighbour>
+    <neighbour name="Gabon">
+      <length>298</length>
+    </neighbour>
+    <neighbour name="Nigeria">
+      <length>1690</length>
+    </neighbour>
+  </country>
+  <country name="Canada">
+    <neighbour name="United States">
+      <length>8893</length>
+    </neighbour>
+  </country>
+  <country name="Central African Republic">
+    <neighbour name="Cameroon">
+      <length>797</length>
+    </neighbour>
+    <neighbour name="Chad">
+      <length>1197</length>
+    </neighbour>
+    <neighbour name="Congo">
+      <length>467</length>
+    </neighbour>
+    <neighbour name="South Sudan">
+      <length>989</length>
+    </neighbour>
+    <neighbour name="Sudan">
+      <length>175</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>1577</length>
+    </neighbour>
+  </country>
+  <country name="Ceuta">
+    <neighbour name="Morocco">
+      <length>6.3</length>
+    </neighbour>
+  </country>
+  <country name="Chad">
+    <neighbour name="Cameroon">
+      <length>1094</length>
+    </neighbour>
+    <neighbour name="Central African Republic">
+      <length>1197</length>
+    </neighbour>
+    <neighbour name="Libya">
+      <length>1055</length>
+    </neighbour>
+    <neighbour name="Niger">
+      <length>1175</length>
+    </neighbour>
+    <neighbour name="Nigeria">
+      <length>87</length>
+    </neighbour>
+    <neighbour name="Sudan">
+      <length>1360</length>
+    </neighbour>
+  </country>
+  <country name="Chile">
+    <neighbour name="Argentina">
+      <length>5150</length>
+    </neighbour>
+    <neighbour name="Bolivia">
+      <length>861</length>
+    </neighbour>
+    <neighbour name="Peru">
+      <length>160</length>
+    </neighbour>
+  </country>
+  <country name="China">
+    <neighbour name="Afghanistan">
+      <length>76</length>
+    </neighbour>
+    <neighbour name="Bhutan">
+      <length>470</length>
+    </neighbour>
+    <neighbour name="Hong Kong">
+      <length>30</length>
+    </neighbour>
+    <neighbour name="India">
+      <length>3380</length>
+    </neighbour>
+    <neighbour name="Kazakhstan">
+      <length>1533</length>
+    </neighbour>
+    <neighbour name="Kyrgyzstan">
+      <length>858</length>
+    </neighbour>
+    <neighbour name="Laos">
+      <length>423</length>
+    </neighbour>
+    <neighbour name="Macao">
+      <length>0.34</length>
+    </neighbour>
+    <neighbour name="Mongolia">
+      <length>4673</length>
+    </neighbour>
+    <neighbour name="Myanmar">
+      <length>2185</length>
+    </neighbour>
+    <neighbour name="Nepal">
+      <length>1236</length>
+    </neighbour>
+    <neighbour name="North Korea">
+      <length>1416</length>
+    </neighbour>
+    <neighbour name="Pakistan">
+      <length>523</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>3645</length>
+    </neighbour>
+    <neighbour name="Tajikistan">
+      <length>414</length>
+    </neighbour>
+    <neighbour name="Vietnam">
+      <length>1281</length>
+    </neighbour>
+  </country>
+  <country name="Colombia">
+    <neighbour name="Brazil">
+      <length>1643</length>
+    </neighbour>
+    <neighbour name="Ecuador">
+      <length>590</length>
+    </neighbour>
+    <neighbour name="Panama">
+      <length>225</length>
+    </neighbour>
+    <neighbour name="Peru">
+      <length>2900</length>
+    </neighbour>
+    <neighbour name="Venezuela">
+      <length>2050</length>
+    </neighbour>
+  </country>
+  <country name="Congo">
+    <neighbour name="Angola">
+      <length>201</length>
+    </neighbour>
+    <neighbour name="Cameroon">
+      <length>523</length>
+    </neighbour>
+    <neighbour name="Central African Republic">
+      <length>467</length>
+    </neighbour>
+    <neighbour name="Gabon">
+      <length>1903</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>2410</length>
+    </neighbour>
+  </country>
+  <country name="Costa Rica">
+    <neighbour name="Nicaragua">
+      <length>309</length>
+    </neighbour>
+    <neighbour name="Panama">
+      <length>330</length>
+    </neighbour>
+  </country>
+  <country name="Cote d'Ivoire">
+    <neighbour name="Burkina Faso">
+      <length>584</length>
+    </neighbour>
+    <neighbour name="Ghana">
+      <length>668</length>
+    </neighbour>
+    <neighbour name="Guinea">
+      <length>610</length>
+    </neighbour>
+    <neighbour name="Liberia">
+      <length>716</length>
+    </neighbour>
+    <neighbour name="Mali">
+      <length>532</length>
+    </neighbour>
+  </country>
+  <country name="Croatia">
+    <neighbour name="Bosnia and Herzegovina">
+      <length>932</length>
+    </neighbour>
+    <neighbour name="Hungary">
+      <length>329</length>
+    </neighbour>
+    <neighbour name="Montenegro">
+      <length>25</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>241</length>
+    </neighbour>
+    <neighbour name="Slovenia">
+      <length>546</length>
+    </neighbour>
+  </country>
+  <country name="Czech Republic">
+    <neighbour name="Austria">
+      <length>362</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>646</length>
+    </neighbour>
+    <neighbour name="Poland">
+      <length>658</length>
+    </neighbour>
+    <neighbour name="Slovakia">
+      <length>215</length>
+    </neighbour>
+  </country>
+  <country name="Denmark">
+    <neighbour name="Germany">
+      <length>68</length>
+    </neighbour>
+  </country>
+  <country name="Djibouti">
+    <neighbour name="Eritrea">
+      <length>113</length>
+    </neighbour>
+    <neighbour name="Ethiopia">
+      <length>337</length>
+    </neighbour>
+    <neighbour name="Somalia">
+      <length>58</length>
+    </neighbour>
+  </country>
+  <country name="Dominican Republic">
+    <neighbour name="Haiti">
+      <length>275</length>
+    </neighbour>
+  </country>
+  <country name="Ecuador">
+    <neighbour name="Colombia">
+      <length>590</length>
+    </neighbour>
+    <neighbour name="Peru">
+      <length>1420</length>
+    </neighbour>
+  </country>
+  <country name="Egypt">
+    <neighbour name="Gaza Strip">
+      <length>11</length>
+    </neighbour>
+    <neighbour name="Israel">
+      <length>255</length>
+    </neighbour>
+    <neighbour name="Libya">
+      <length>1150</length>
+    </neighbour>
+    <neighbour name="Sudan">
+      <length>1273</length>
+    </neighbour>
+  </country>
+  <country name="El Salvador">
+    <neighbour name="Guatemala">
+      <length>203</length>
+    </neighbour>
+    <neighbour name="Honduras">
+      <length>342</length>
+    </neighbour>
+  </country>
+  <country name="Equatorial Guinea">
+    <neighbour name="Cameroon">
+      <length>189</length>
+    </neighbour>
+    <neighbour name="Gabon">
+      <length>350</length>
+    </neighbour>
+  </country>
+  <country name="Eritrea">
+    <neighbour name="Djibouti">
+      <length>113</length>
+    </neighbour>
+    <neighbour name="Ethiopia">
+      <length>912</length>
+    </neighbour>
+    <neighbour name="Sudan">
+      <length>605</length>
+    </neighbour>
+  </country>
+  <country name="Estonia">
+    <neighbour name="Latvia">
+      <length>267</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>290</length>
+    </neighbour>
+  </country>
+  <country name="Ethiopia">
+    <neighbour name="Djibouti">
+      <length>337</length>
+    </neighbour>
+    <neighbour name="Eritrea">
+      <length>912</length>
+    </neighbour>
+    <neighbour name="Kenya">
+      <length>830</length>
+    </neighbour>
+    <neighbour name="Somalia">
+      <length>1626</length>
+    </neighbour>
+    <neighbour name="South Sudan">
+      <length>934</length>
+    </neighbour>
+    <neighbour name="Sudan">
+      <length>769</length>
+    </neighbour>
+  </country>
+  <country name="Finland">
+    <neighbour name="Norway">
+      <length>729</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>1313</length>
+    </neighbour>
+    <neighbour name="Sweden">
+      <length>586</length>
+    </neighbour>
+  </country>
+  <country name="France">
+    <neighbour name="Andorra">
+      <length>60</length>
+    </neighbour>
+    <neighbour name="Belgium">
+      <length>620</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>451</length>
+    </neighbour>
+    <neighbour name="Italy">
+      <length>488</length>
+    </neighbour>
+    <neighbour name="Luxembourg">
+      <length>73</length>
+    </neighbour>
+    <neighbour name="Monaco">
+      <length>4.4</length>
+    </neighbour>
+    <neighbour name="Spain">
+      <length>623</length>
+    </neighbour>
+    <neighbour name="Switzerland">
+      <length>573</length>
+    </neighbour>
+  </country>
+  <country name="French Guiana">
+    <neighbour name="Brazil">
+      <length>673</length>
+    </neighbour>
+    <neighbour name="Suriname">
+      <length>510</length>
+    </neighbour>
+  </country>
+  <country name="Gabon">
+    <neighbour name="Cameroon">
+      <length>298</length>
+    </neighbour>
+    <neighbour name="Congo">
+      <length>1903</length>
+    </neighbour>
+    <neighbour name="Equatorial Guinea">
+      <length>350</length>
+    </neighbour>
+  </country>
+  <country name="Gambia">
+    <neighbour name="Senegal">
+      <length>740</length>
+    </neighbour>
+  </country>
+  <country name="Gaza Strip">
+    <neighbour name="Egypt">
+      <length>11</length>
+    </neighbour>
+    <neighbour name="Israel">
+      <length>51</length>
+    </neighbour>
+  </country>
+  <country name="Georgia">
+    <neighbour name="Armenia">
+      <length>164</length>
+    </neighbour>
+    <neighbour name="Azerbaijan">
+      <length>322</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>723</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>252</length>
+    </neighbour>
+  </country>
+  <country name="Germany">
+    <neighbour name="Austria">
+      <length>784</length>
+    </neighbour>
+    <neighbour name="Belgium">
+      <length>167</length>
+    </neighbour>
+    <neighbour name="Czech Republic">
+      <length>646</length>
+    </neighbour>
+    <neighbour name="Denmark">
+      <length>68</length>
+    </neighbour>
+    <neighbour name="France">
+      <length>451</length>
+    </neighbour>
+    <neighbour name="Luxembourg">
+      <length>138</length>
+    </neighbour>
+    <neighbour name="Netherlands">
+      <length>577</length>
+    </neighbour>
+    <neighbour name="Poland">
+      <length>456</length>
+    </neighbour>
+    <neighbour name="Switzerland">
+      <length>334</length>
+    </neighbour>
+  </country>
+  <country name="Ghana">
+    <neighbour name="Burkina Faso">
+      <length>548</length>
+    </neighbour>
+    <neighbour name="Cote d'Ivoire">
+      <length>668</length>
+    </neighbour>
+    <neighbour name="Togo">
+      <length>877</length>
+    </neighbour>
+  </country>
+  <country name="Gibraltar">
+    <neighbour name="Spain">
+      <length>1.2</length>
+    </neighbour>
+  </country>
+  <country name="Greece">
+    <neighbour name="Albania">
+      <length>282</length>
+    </neighbour>
+    <neighbour name="Bulgaria">
+      <length>494</length>
+    </neighbour>
+    <neighbour name="Macedonia">
+      <length>228</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>206</length>
+    </neighbour>
+  </country>
+  <country name="Guatemala">
+    <neighbour name="Belize">
+      <length>266</length>
+    </neighbour>
+    <neighbour name="El Salvador">
+      <length>203</length>
+    </neighbour>
+    <neighbour name="Honduras">
+      <length>256</length>
+    </neighbour>
+    <neighbour name="Mexico">
+      <length>962</length>
+    </neighbour>
+  </country>
+  <country name="Guinea">
+    <neighbour name="Cote d'Ivoire">
+      <length>610</length>
+    </neighbour>
+    <neighbour name="Guinea-Bissau">
+      <length>386</length>
+    </neighbour>
+    <neighbour name="Liberia">
+      <length>563</length>
+    </neighbour>
+    <neighbour name="Mali">
+      <length>858</length>
+    </neighbour>
+    <neighbour name="Senegal">
+      <length>330</length>
+    </neighbour>
+    <neighbour name="Sierra Leone">
+      <length>652</length>
+    </neighbour>
+  </country>
+  <country name="Guinea-Bissau">
+    <neighbour name="Guinea">
+      <length>386</length>
+    </neighbour>
+    <neighbour name="Senegal">
+      <length>338</length>
+    </neighbour>
+  </country>
+  <country name="Guyana">
+    <neighbour name="Brazil">
+      <length>1119</length>
+    </neighbour>
+    <neighbour name="Suriname">
+      <length>600</length>
+    </neighbour>
+    <neighbour name="Venezuela">
+      <length>743</length>
+    </neighbour>
+  </country>
+  <country name="Haiti">
+    <neighbour name="Dominican Republic">
+      <length>275</length>
+    </neighbour>
+  </country>
+  <country name="Holy See">
+    <neighbour name="Italy">
+      <length>3.2</length>
+    </neighbour>
+  </country>
+  <country name="Honduras">
+    <neighbour name="El Salvador">
+      <length>342</length>
+    </neighbour>
+    <neighbour name="Guatemala">
+      <length>256</length>
+    </neighbour>
+    <neighbour name="Nicaragua">
+      <length>922</length>
+    </neighbour>
+  </country>
+  <country name="Hong Kong">
+    <neighbour name="China">
+      <length>30</length>
+    </neighbour>
+  </country>
+  <country name="Hungary">
+    <neighbour name="Austria">
+      <length>366</length>
+    </neighbour>
+    <neighbour name="Croatia">
+      <length>329</length>
+    </neighbour>
+    <neighbour name="Romania">
+      <length>443</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>151</length>
+    </neighbour>
+    <neighbour name="Slovakia">
+      <length>515</length>
+    </neighbour>
+    <neighbour name="Slovenia">
+      <length>102</length>
+    </neighbour>
+    <neighbour name="Ukraine">
+      <length>103</length>
+    </neighbour>
+  </country>
+  <country name="India">
+    <neighbour name="Bangladesh">
+      <length>4053</length>
+    </neighbour>
+    <neighbour name="Bhutan">
+      <length>605</length>
+    </neighbour>
+    <neighbour name="China">
+      <length>3380</length>
+    </neighbour>
+    <neighbour name="Myanmar">
+      <length>1463</length>
+    </neighbour>
+    <neighbour name="Nepal">
+      <length>1690</length>
+    </neighbour>
+    <neighbour name="Pakistan">
+      <length>2912</length>
+    </neighbour>
+  </country>
+  <country name="Indonesia">
+    <neighbour name="Malaysia">
+      <length>1782</length>
+    </neighbour>
+    <neighbour name="Papua New Guinea">
+      <length>820</length>
+    </neighbour>
+    <neighbour name="Timor-Leste">
+      <length>228</length>
+    </neighbour>
+  </country>
+  <country name="Iran">
+    <neighbour name="Afghanistan">
+      <length>936</length>
+    </neighbour>
+    <neighbour name="Armenia">
+      <length>35</length>
+    </neighbour>
+    <neighbour name="Azerbaijan">
+      <length>611</length>
+    </neighbour>
+    <neighbour name="Iraq">
+      <length>1458</length>
+    </neighbour>
+    <neighbour name="Pakistan">
+      <length>909</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>499</length>
+    </neighbour>
+    <neighbour name="Turkmenistan">
+      <length>992</length>
+    </neighbour>
+  </country>
+  <country name="Iraq">
+    <neighbour name="Iran">
+      <length>1458</length>
+    </neighbour>
+    <neighbour name="Jordan">
+      <length>181</length>
+    </neighbour>
+    <neighbour name="Kuwait">
+      <length>242</length>
+    </neighbour>
+    <neighbour name="Saudi Arabia">
+      <length>814</length>
+    </neighbour>
+    <neighbour name="Syria">
+      <length>605</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>331</length>
+    </neighbour>
+  </country>
+  <country name="Ireland">
+    <neighbour name="United Kingdom">
+      <length>360</length>
+    </neighbour>
+  </country>
+  <country name="Israel">
+    <neighbour name="Egypt">
+      <length>255</length>
+    </neighbour>
+    <neighbour name="Gaza Strip">
+      <length>51</length>
+    </neighbour>
+    <neighbour name="Jordan">
+      <length>238</length>
+    </neighbour>
+    <neighbour name="Lebanon">
+      <length>79</length>
+    </neighbour>
+    <neighbour name="Syria">
+      <length>76</length>
+    </neighbour>
+    <neighbour name="West Bank">
+      <length>307</length>
+    </neighbour>
+  </country>
+  <country name="Italy">
+    <neighbour name="Austria">
+      <length>430</length>
+    </neighbour>
+    <neighbour name="France">
+      <length>488</length>
+    </neighbour>
+    <neighbour name="Holy See">
+      <length>3.2</length>
+    </neighbour>
+    <neighbour name="San Marino">
+      <length>39</length>
+    </neighbour>
+    <neighbour name="Slovenia">
+      <length>235</length>
+    </neighbour>
+    <neighbour name="Switzerland">
+      <length>740</length>
+    </neighbour>
+  </country>
+  <country name="Jordan">
+    <neighbour name="Iraq">
+      <length>181</length>
+    </neighbour>
+    <neighbour name="Israel">
+      <length>238</length>
+    </neighbour>
+    <neighbour name="Saudi Arabia">
+      <length>728</length>
+    </neighbour>
+    <neighbour name="Syria">
+      <length>375</length>
+    </neighbour>
+    <neighbour name="West Bank">
+      <length>97</length>
+    </neighbour>
+  </country>
+  <country name="Kazakhstan">
+    <neighbour name="China">
+      <length>1533</length>
+    </neighbour>
+    <neighbour name="Kyrgyzstan">
+      <length>1051</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>6846</length>
+    </neighbour>
+    <neighbour name="Turkmenistan">
+      <length>379</length>
+    </neighbour>
+    <neighbour name="Uzbekistan">
+      <length>2203</length>
+    </neighbour>
+  </country>
+  <country name="Kenya">
+    <neighbour name="Ethiopia">
+      <length>830</length>
+    </neighbour>
+    <neighbour name="Somalia">
+      <length>682</length>
+    </neighbour>
+    <neighbour name="South Sudan">
+      <length>232</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>769</length>
+    </neighbour>
+    <neighbour name="Uganda">
+      <length>933</length>
+    </neighbour>
+  </country>
+  <country name="Kosovo">
+    <neighbour name="Albania">
+      <length>112</length>
+    </neighbour>
+    <neighbour name="Macedonia">
+      <length>159</length>
+    </neighbour>
+    <neighbour name="Montenegro">
+      <length>79</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>352</length>
+    </neighbour>
+  </country>
+  <country name="Kuwait">
+    <neighbour name="Iraq">
+      <length>242</length>
+    </neighbour>
+    <neighbour name="Saudi Arabia">
+      <length>222</length>
+    </neighbour>
+  </country>
+  <country name="Kyrgyzstan">
+    <neighbour name="China">
+      <length>858</length>
+    </neighbour>
+    <neighbour name="Kazakhstan">
+      <length>1051</length>
+    </neighbour>
+    <neighbour name="Tajikistan">
+      <length>870</length>
+    </neighbour>
+    <neighbour name="Uzbekistan">
+      <length>1099</length>
+    </neighbour>
+  </country>
+  <country name="Laos">
+    <neighbour name="Cambodia">
+      <length>541</length>
+    </neighbour>
+    <neighbour name="China">
+      <length>423</length>
+    </neighbour>
+    <neighbour name="Myanmar">
+      <length>235</length>
+    </neighbour>
+    <neighbour name="Thailand">
+      <length>1754</length>
+    </neighbour>
+    <neighbour name="Vietnam">
+      <length>2130</length>
+    </neighbour>
+  </country>
+  <country name="Latvia">
+    <neighbour name="Belarus">
+      <length>141</length>
+    </neighbour>
+    <neighbour name="Estonia">
+      <length>267</length>
+    </neighbour>
+    <neighbour name="Lithuania">
+      <length>453</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>217</length>
+    </neighbour>
+  </country>
+  <country name="Lebanon">
+    <neighbour name="Israel">
+      <length>79</length>
+    </neighbour>
+    <neighbour name="Syria">
+      <length>375</length>
+    </neighbour>
+  </country>
+  <country name="Lesotho">
+    <neighbour name="South Africa">
+      <length>909</length>
+    </neighbour>
+  </country>
+  <country name="Liberia">
+    <neighbour name="Cote d'Ivoire">
+      <length>716</length>
+    </neighbour>
+    <neighbour name="Guinea">
+      <length>563</length>
+    </neighbour>
+    <neighbour name="Sierra Leone">
+      <length>306</length>
+    </neighbour>
+  </country>
+  <country name="Libya">
+    <neighbour name="Algeria">
+      <length>982</length>
+    </neighbour>
+    <neighbour name="Chad">
+      <length>1055</length>
+    </neighbour>
+    <neighbour name="Egypt">
+      <length>1150</length>
+    </neighbour>
+    <neighbour name="Niger">
+      <length>354</length>
+    </neighbour>
+    <neighbour name="Sudan">
+      <length>383</length>
+    </neighbour>
+    <neighbour name="Tunisia">
+      <length>459</length>
+    </neighbour>
+  </country>
+  <country name="Liechtenstein">
+    <neighbour name="Austria">
+      <length>37</length>
+    </neighbour>
+    <neighbour name="Switzerland">
+      <length>41</length>
+    </neighbour>
+  </country>
+  <country name="Lithuania">
+    <neighbour name="Belarus">
+      <length>502</length>
+    </neighbour>
+    <neighbour name="Latvia">
+      <length>453</length>
+    </neighbour>
+    <neighbour name="Poland">
+      <length>91</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>227</length>
+    </neighbour>
+  </country>
+  <country name="Luxembourg">
+    <neighbour name="Belgium">
+      <length>148</length>
+    </neighbour>
+    <neighbour name="France">
+      <length>73</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>138</length>
+    </neighbour>
+  </country>
+  <country name="Macao">
+    <neighbour name="China">
+      <length>0.34</length>
+    </neighbour>
+  </country>
+  <country name="Macedonia">
+    <neighbour name="Albania">
+      <length>151</length>
+    </neighbour>
+    <neighbour name="Bulgaria">
+      <length>148</length>
+    </neighbour>
+    <neighbour name="Greece">
+      <length>228</length>
+    </neighbour>
+    <neighbour name="Kosovo">
+      <length>159</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>62</length>
+    </neighbour>
+  </country>
+  <country name="Malawi">
+    <neighbour name="Mozambique">
+      <length>1569</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>475</length>
+    </neighbour>
+    <neighbour name="Zambia">
+      <length>837</length>
+    </neighbour>
+  </country>
+  <country name="Malaysia">
+    <neighbour name="Brunei">
+      <length>381</length>
+    </neighbour>
+    <neighbour name="Indonesia">
+      <length>1782</length>
+    </neighbour>
+    <neighbour name="Thailand">
+      <length>506</length>
+    </neighbour>
+  </country>
+  <country name="Mali">
+    <neighbour name="Algeria">
+      <length>1376</length>
+    </neighbour>
+    <neighbour name="Burkina Faso">
+      <length>1000</length>
+    </neighbour>
+    <neighbour name="Cote d'Ivoire">
+      <length>532</length>
+    </neighbour>
+    <neighbour name="Guinea">
+      <length>858</length>
+    </neighbour>
+    <neighbour name="Mauritania">
+      <length>2237</length>
+    </neighbour>
+    <neighbour name="Niger">
+      <length>821</length>
+    </neighbour>
+    <neighbour name="Senegal">
+      <length>419</length>
+    </neighbour>
+  </country>
+  <country name="Mauritania">
+    <neighbour name="Algeria">
+      <length>463</length>
+    </neighbour>
+    <neighbour name="Mali">
+      <length>2237</length>
+    </neighbour>
+    <neighbour name="Senegal">
+      <length>813</length>
+    </neighbour>
+    <neighbour name="Western Sahara">
+      <length>1561</length>
+    </neighbour>
+  </country>
+  <country name="Melilla">
+    <neighbour name="Morocco">
+      <length>9.6</length>
+    </neighbour>
+  </country>
+  <country name="Mexico">
+    <neighbour name="Belize">
+      <length>250</length>
+    </neighbour>
+    <neighbour name="Guatemala">
+      <length>962</length>
+    </neighbour>
+    <neighbour name="United States">
+      <length>3326</length>
+    </neighbour>
+  </country>
+  <country name="Moldova">
+    <neighbour name="Romania">
+      <length>450</length>
+    </neighbour>
+    <neighbour name="Ukraine">
+      <length>939</length>
+    </neighbour>
+  </country>
+  <country name="Monaco">
+    <neighbour name="France">
+      <length>4.4</length>
+    </neighbour>
+  </country>
+  <country name="Mongolia">
+    <neighbour name="China">
+      <length>4673</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>3441</length>
+    </neighbour>
+  </country>
+  <country name="Montenegro">
+    <neighbour name="Albania">
+      <length>172</length>
+    </neighbour>
+    <neighbour name="Bosnia and Herzegovina">
+      <length>249</length>
+    </neighbour>
+    <neighbour name="Croatia">
+      <length>25</length>
+    </neighbour>
+    <neighbour name="Kosovo">
+      <length>79</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>124</length>
+    </neighbour>
+  </country>
+  <country name="Morocco">
+    <neighbour name="Algeria">
+      <length>1559</length>
+    </neighbour>
+    <neighbour name="Ceuta">
+      <length>6.3</length>
+    </neighbour>
+    <neighbour name="Melilla">
+      <length>9.6</length>
+    </neighbour>
+    <neighbour name="Western Sahara">
+      <length>443</length>
+    </neighbour>
+  </country>
+  <country name="Mozambique">
+    <neighbour name="Malawi">
+      <length>1569</length>
+    </neighbour>
+    <neighbour name="South Africa">
+      <length>491</length>
+    </neighbour>
+    <neighbour name="Swaziland">
+      <length>105</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>756</length>
+    </neighbour>
+    <neighbour name="Zambia">
+      <length>419</length>
+    </neighbour>
+    <neighbour name="Zimbabwe">
+      <length>1231</length>
+    </neighbour>
+  </country>
+  <country name="Myanmar">
+    <neighbour name="Bangladesh">
+      <length>193</length>
+    </neighbour>
+    <neighbour name="China">
+      <length>2185</length>
+    </neighbour>
+    <neighbour name="India">
+      <length>1463</length>
+    </neighbour>
+    <neighbour name="Laos">
+      <length>235</length>
+    </neighbour>
+    <neighbour name="Thailand">
+      <length>1800</length>
+    </neighbour>
+  </country>
+  <country name="Namibia">
+    <neighbour name="Angola">
+      <length>1376</length>
+    </neighbour>
+    <neighbour name="Botswana">
+      <length>1360</length>
+    </neighbour>
+    <neighbour name="South Africa">
+      <length>855</length>
+    </neighbour>
+    <neighbour name="Zambia">
+      <length>233</length>
+    </neighbour>
+  </country>
+  <country name="Nepal">
+    <neighbour name="China">
+      <length>1236</length>
+    </neighbour>
+    <neighbour name="India">
+      <length>1690</length>
+    </neighbour>
+  </country>
+  <country name="Netherlands">
+    <neighbour name="Belgium">
+      <length>450</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>577</length>
+    </neighbour>
+  </country>
+  <country name="Nicaragua">
+    <neighbour name="Costa Rica">
+      <length>309</length>
+    </neighbour>
+    <neighbour name="Honduras">
+      <length>922</length>
+    </neighbour>
+  </country>
+  <country name="Niger">
+    <neighbour name="Algeria">
+      <length>956</length>
+    </neighbour>
+    <neighbour name="Benin">
+      <length>266</length>
+    </neighbour>
+    <neighbour name="Burkina Faso">
+      <length>628</length>
+    </neighbour>
+    <neighbour name="Chad">
+      <length>1175</length>
+    </neighbour>
+    <neighbour name="Libya">
+      <length>354</length>
+    </neighbour>
+    <neighbour name="Mali">
+      <length>821</length>
+    </neighbour>
+    <neighbour name="Nigeria">
+      <length>1497</length>
+    </neighbour>
+  </country>
+  <country name="Nigeria">
+    <neighbour name="Benin">
+      <length>773</length>
+    </neighbour>
+    <neighbour name="Cameroon">
+      <length>1690</length>
+    </neighbour>
+    <neighbour name="Chad">
+      <length>87</length>
+    </neighbour>
+    <neighbour name="Niger">
+      <length>1497</length>
+    </neighbour>
+  </country>
+  <country name="North Korea">
+    <neighbour name="China">
+      <length>1416</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>19</length>
+    </neighbour>
+    <neighbour name="South Korea">
+      <length>238</length>
+    </neighbour>
+  </country>
+  <country name="Norway">
+    <neighbour name="Finland">
+      <length>729</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>167</length>
+    </neighbour>
+    <neighbour name="Sweden">
+      <length>1619</length>
+    </neighbour>
+  </country>
+  <country name="Oman">
+    <neighbour name="Saudi Arabia">
+      <length>676</length>
+    </neighbour>
+    <neighbour name="United Arab Emirates">
+      <length>410</length>
+    </neighbour>
+    <neighbour name="Yemen">
+      <length>288</length>
+    </neighbour>
+  </country>
+  <country name="Pakistan">
+    <neighbour name="Afghanistan">
+      <length>2430</length>
+    </neighbour>
+    <neighbour name="China">
+      <length>523</length>
+    </neighbour>
+    <neighbour name="India">
+      <length>2912</length>
+    </neighbour>
+    <neighbour name="Iran">
+      <length>909</length>
+    </neighbour>
+  </country>
+  <country name="Panama">
+    <neighbour name="Colombia">
+      <length>225</length>
+    </neighbour>
+    <neighbour name="Costa Rica">
+      <length>330</length>
+    </neighbour>
+  </country>
+  <country name="Papua New Guinea">
+    <neighbour name="Indonesia">
+      <length>820</length>
+    </neighbour>
+  </country>
+  <country name="Paraguay">
+    <neighbour name="Argentina">
+      <length>1880</length>
+    </neighbour>
+    <neighbour name="Bolivia">
+      <length>750</length>
+    </neighbour>
+    <neighbour name="Brazil">
+      <length>1290</length>
+    </neighbour>
+  </country>
+  <country name="Peru">
+    <neighbour name="Bolivia">
+      <length>900</length>
+    </neighbour>
+    <neighbour name="Brazil">
+      <length>1560</length>
+    </neighbour>
+    <neighbour name="Chile">
+      <length>160</length>
+    </neighbour>
+    <neighbour name="Colombia">
+      <length>2900</length>
+    </neighbour>
+    <neighbour name="Ecuador">
+      <length>1420</length>
+    </neighbour>
+  </country>
+  <country name="Poland">
+    <neighbour name="Belarus">
+      <length>605</length>
+    </neighbour>
+    <neighbour name="Czech Republic">
+      <length>658</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>456</length>
+    </neighbour>
+    <neighbour name="Lithuania">
+      <length>91</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>206</length>
+    </neighbour>
+    <neighbour name="Slovakia">
+      <length>444</length>
+    </neighbour>
+    <neighbour name="Ukraine">
+      <length>428</length>
+    </neighbour>
+  </country>
+  <country name="Portugal">
+    <neighbour name="Spain">
+      <length>1214</length>
+    </neighbour>
+  </country>
+  <country name="Qatar">
+    <neighbour name="Saudi Arabia">
+      <length>60</length>
+    </neighbour>
+  </country>
+  <country name="Romania">
+    <neighbour name="Bulgaria">
+      <length>608</length>
+    </neighbour>
+    <neighbour name="Hungary">
+      <length>443</length>
+    </neighbour>
+    <neighbour name="Moldova">
+      <length>450</length>
+    </neighbour>
+    <neighbour name="Serbia">
+      <length>476</length>
+    </neighbour>
+    <neighbour name="Ukraine">
+      <length>531</length>
+    </neighbour>
+  </country>
+  <country name="Russia">
+    <neighbour name="Azerbaijan">
+      <length>284</length>
+    </neighbour>
+    <neighbour name="Belarus">
+      <length>959</length>
+    </neighbour>
+    <neighbour name="China">
+      <length>3645</length>
+    </neighbour>
+    <neighbour name="Estonia">
+      <length>290</length>
+    </neighbour>
+    <neighbour name="Finland">
+      <length>1313</length>
+    </neighbour>
+    <neighbour name="Georgia">
+      <length>723</length>
+    </neighbour>
+    <neighbour name="Kazakhstan">
+      <length>6846</length>
+    </neighbour>
+    <neighbour name="Latvia">
+      <length>217</length>
+    </neighbour>
+    <neighbour name="Lithuania">
+      <length>227</length>
+    </neighbour>
+    <neighbour name="Mongolia">
+      <length>3441</length>
+    </neighbour>
+    <neighbour name="North Korea">
+      <length>19</length>
+    </neighbour>
+    <neighbour name="Norway">
+      <length>167</length>
+    </neighbour>
+    <neighbour name="Poland">
+      <length>206</length>
+    </neighbour>
+    <neighbour name="Ukraine">
+      <length>1576</length>
+    </neighbour>
+  </country>
+  <country name="Rwanda">
+    <neighbour name="Burundi">
+      <length>290</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>217</length>
+    </neighbour>
+    <neighbour name="Uganda">
+      <length>169</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>217</length>
+    </neighbour>
+  </country>
+  <country name="Saint Martin">
+    <neighbour name="Sint Maarten">
+      <length>15</length>
+    </neighbour>
+  </country>
+  <country name="San Marino">
+    <neighbour name="Italy">
+      <length>39</length>
+    </neighbour>
+  </country>
+  <country name="Saudi Arabia">
+    <neighbour name="Iraq">
+      <length>814</length>
+    </neighbour>
+    <neighbour name="Jordan">
+      <length>728</length>
+    </neighbour>
+    <neighbour name="Kuwait">
+      <length>222</length>
+    </neighbour>
+    <neighbour name="Oman">
+      <length>676</length>
+    </neighbour>
+    <neighbour name="Qatar">
+      <length>60</length>
+    </neighbour>
+    <neighbour name="United Arab Emirates">
+      <length>457</length>
+    </neighbour>
+    <neighbour name="Yemen">
+      <length>1458</length>
+    </neighbour>
+  </country>
+  <country name="Senegal">
+    <neighbour name="Gambia">
+      <length>740</length>
+    </neighbour>
+    <neighbour name="Guinea">
+      <length>330</length>
+    </neighbour>
+    <neighbour name="Guinea-Bissau">
+      <length>338</length>
+    </neighbour>
+    <neighbour name="Mali">
+      <length>419</length>
+    </neighbour>
+    <neighbour name="Mauritania">
+      <length>813</length>
+    </neighbour>
+  </country>
+  <country name="Serbia">
+    <neighbour name="Bosnia and Herzegovina">
+      <length>357</length>
+    </neighbour>
+    <neighbour name="Bulgaria">
+      <length>318</length>
+    </neighbour>
+    <neighbour name="Croatia">
+      <length>241</length>
+    </neighbour>
+    <neighbour name="Hungary">
+      <length>151</length>
+    </neighbour>
+    <neighbour name="Kosovo">
+      <length>352</length>
+    </neighbour>
+    <neighbour name="Macedonia">
+      <length>62</length>
+    </neighbour>
+    <neighbour name="Montenegro">
+      <length>124</length>
+    </neighbour>
+    <neighbour name="Romania">
+      <length>476</length>
+    </neighbour>
+  </country>
+  <country name="Sierra Leone">
+    <neighbour name="Guinea">
+      <length>652</length>
+    </neighbour>
+    <neighbour name="Liberia">
+      <length>306</length>
+    </neighbour>
+  </country>
+  <country name="Sint Maarten">
+    <neighbour name="Saint Martin">
+      <length>15</length>
+    </neighbour>
+  </country>
+  <country name="Slovakia">
+    <neighbour name="Austria">
+      <length>91</length>
+    </neighbour>
+    <neighbour name="Czech Republic">
+      <length>215</length>
+    </neighbour>
+    <neighbour name="Hungary">
+      <length>515</length>
+    </neighbour>
+    <neighbour name="Poland">
+      <length>444</length>
+    </neighbour>
+    <neighbour name="Ukraine">
+      <length>90</length>
+    </neighbour>
+  </country>
+  <country name="Slovenia">
+    <neighbour name="Austria">
+      <length>324</length>
+    </neighbour>
+    <neighbour name="Croatia">
+      <length>546</length>
+    </neighbour>
+    <neighbour name="Hungary">
+      <length>102</length>
+    </neighbour>
+    <neighbour name="Italy">
+      <length>235</length>
+    </neighbour>
+  </country>
+  <country name="Somalia">
+    <neighbour name="Djibouti">
+      <length>58</length>
+    </neighbour>
+    <neighbour name="Ethiopia">
+      <length>1626</length>
+    </neighbour>
+    <neighbour name="Kenya">
+      <length>682</length>
+    </neighbour>
+  </country>
+  <country name="South Africa">
+    <neighbour name="Botswana">
+      <length>1840</length>
+    </neighbour>
+    <neighbour name="Lesotho">
+      <length>909</length>
+    </neighbour>
+    <neighbour name="Mozambique">
+      <length>491</length>
+    </neighbour>
+    <neighbour name="Namibia">
+      <length>855</length>
+    </neighbour>
+    <neighbour name="Swaziland">
+      <length>430</length>
+    </neighbour>
+    <neighbour name="Zimbabwe">
+      <length>225</length>
+    </neighbour>
+  </country>
+  <country name="South Korea">
+    <neighbour name="North Korea">
+      <length>238</length>
+    </neighbour>
+  </country>
+  <country name="South Sudan">
+    <neighbour name="Central African Republic">
+      <length>989</length>
+    </neighbour>
+    <neighbour name="Ethiopia">
+      <length>934</length>
+    </neighbour>
+    <neighbour name="Kenya">
+      <length>232</length>
+    </neighbour>
+    <neighbour name="Sudan">
+      <length>2184</length>
+    </neighbour>
+    <neighbour name="Uganda">
+      <length>435</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>639</length>
+    </neighbour>
+  </country>
+  <country name="Spain">
+    <neighbour name="Andorra">
+      <length>65</length>
+    </neighbour>
+    <neighbour name="France">
+      <length>623</length>
+    </neighbour>
+    <neighbour name="Gibraltar">
+      <length>1.2</length>
+    </neighbour>
+    <neighbour name="Portugal">
+      <length>1214</length>
+    </neighbour>
+  </country>
+  <country name="Sudan">
+    <neighbour name="Central African Republic">
+      <length>175</length>
+    </neighbour>
+    <neighbour name="Chad">
+      <length>1360</length>
+    </neighbour>
+    <neighbour name="Egypt">
+      <length>1273</length>
+    </neighbour>
+    <neighbour name="Eritrea">
+      <length>605</length>
+    </neighbour>
+    <neighbour name="Ethiopia">
+      <length>769</length>
+    </neighbour>
+    <neighbour name="Libya">
+      <length>383</length>
+    </neighbour>
+    <neighbour name="South Sudan">
+      <length>2184</length>
+    </neighbour>
+  </country>
+  <country name="Suriname">
+    <neighbour name="Brazil">
+      <length>597</length>
+    </neighbour>
+    <neighbour name="French Guiana">
+      <length>510</length>
+    </neighbour>
+    <neighbour name="Guyana">
+      <length>600</length>
+    </neighbour>
+  </country>
+  <country name="Swaziland">
+    <neighbour name="Mozambique">
+      <length>105</length>
+    </neighbour>
+    <neighbour name="South Africa">
+      <length>430</length>
+    </neighbour>
+  </country>
+  <country name="Sweden">
+    <neighbour name="Finland">
+      <length>586</length>
+    </neighbour>
+    <neighbour name="Norway">
+      <length>1619</length>
+    </neighbour>
+  </country>
+  <country name="Switzerland">
+    <neighbour name="Austria">
+      <length>164</length>
+    </neighbour>
+    <neighbour name="France">
+      <length>573</length>
+    </neighbour>
+    <neighbour name="Germany">
+      <length>334</length>
+    </neighbour>
+    <neighbour name="Italy">
+      <length>740</length>
+    </neighbour>
+    <neighbour name="Liechtenstein">
+      <length>41</length>
+    </neighbour>
+  </country>
+  <country name="Syria">
+    <neighbour name="Iraq">
+      <length>605</length>
+    </neighbour>
+    <neighbour name="Israel">
+      <length>76</length>
+    </neighbour>
+    <neighbour name="Jordan">
+      <length>375</length>
+    </neighbour>
+    <neighbour name="Lebanon">
+      <length>375</length>
+    </neighbour>
+    <neighbour name="Turkey">
+      <length>822</length>
+    </neighbour>
+  </country>
+  <country name="Tajikistan">
+    <neighbour name="Afghanistan">
+      <length>1206</length>
+    </neighbour>
+    <neighbour name="China">
+      <length>414</length>
+    </neighbour>
+    <neighbour name="Kyrgyzstan">
+      <length>870</length>
+    </neighbour>
+    <neighbour name="Uzbekistan">
+      <length>1161</length>
+    </neighbour>
+  </country>
+  <country name="Tanzania">
+    <neighbour name="Burundi">
+      <length>451</length>
+    </neighbour>
+    <neighbour name="Kenya">
+      <length>769</length>
+    </neighbour>
+    <neighbour name="Malawi">
+      <length>475</length>
+    </neighbour>
+    <neighbour name="Mozambique">
+      <length>756</length>
+    </neighbour>
+    <neighbour name="Rwanda">
+      <length>217</length>
+    </neighbour>
+    <neighbour name="Uganda">
+      <length>396</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>459</length>
+    </neighbour>
+    <neighbour name="Zambia">
+      <length>338</length>
+    </neighbour>
+  </country>
+  <country name="Thailand">
+    <neighbour name="Cambodia">
+      <length>803</length>
+    </neighbour>
+    <neighbour name="Laos">
+      <length>1754</length>
+    </neighbour>
+    <neighbour name="Malaysia">
+      <length>506</length>
+    </neighbour>
+    <neighbour name="Myanmar">
+      <length>1800</length>
+    </neighbour>
+  </country>
+  <country name="Timor-Leste">
+    <neighbour name="Indonesia">
+      <length>228</length>
+    </neighbour>
+  </country>
+  <country name="Togo">
+    <neighbour name="Benin">
+      <length>644</length>
+    </neighbour>
+    <neighbour name="Burkina Faso">
+      <length>126</length>
+    </neighbour>
+    <neighbour name="Ghana">
+      <length>877</length>
+    </neighbour>
+  </country>
+  <country name="Tunisia">
+    <neighbour name="Algeria">
+      <length>965</length>
+    </neighbour>
+    <neighbour name="Libya">
+      <length>459</length>
+    </neighbour>
+  </country>
+  <country name="Turkey">
+    <neighbour name="Armenia">
+      <length>268</length>
+    </neighbour>
+    <neighbour name="Azerbaijan">
+      <length>9</length>
+    </neighbour>
+    <neighbour name="Bulgaria">
+      <length>240</length>
+    </neighbour>
+    <neighbour name="Georgia">
+      <length>252</length>
+    </neighbour>
+    <neighbour name="Greece">
+      <length>206</length>
+    </neighbour>
+    <neighbour name="Iran">
+      <length>499</length>
+    </neighbour>
+    <neighbour name="Iraq">
+      <length>331</length>
+    </neighbour>
+    <neighbour name="Syria">
+      <length>822</length>
+    </neighbour>
+  </country>
+  <country name="Turkmenistan">
+    <neighbour name="Afghanistan">
+      <length>744</length>
+    </neighbour>
+    <neighbour name="Iran">
+      <length>992</length>
+    </neighbour>
+    <neighbour name="Kazakhstan">
+      <length>379</length>
+    </neighbour>
+    <neighbour name="Uzbekistan">
+      <length>1621</length>
+    </neighbour>
+  </country>
+  <country name="Uganda">
+    <neighbour name="Kenya">
+      <length>933</length>
+    </neighbour>
+    <neighbour name="Rwanda">
+      <length>169</length>
+    </neighbour>
+    <neighbour name="South Sudan">
+      <length>435</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>396</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>765</length>
+    </neighbour>
+  </country>
+  <country name="Ukraine">
+    <neighbour name="Belarus">
+      <length>891</length>
+    </neighbour>
+    <neighbour name="Hungary">
+      <length>103</length>
+    </neighbour>
+    <neighbour name="Moldova">
+      <length>939</length>
+    </neighbour>
+    <neighbour name="Poland">
+      <length>428</length>
+    </neighbour>
+    <neighbour name="Romania">
+      <length>531</length>
+    </neighbour>
+    <neighbour name="Russia">
+      <length>1576</length>
+    </neighbour>
+    <neighbour name="Slovakia">
+      <length>90</length>
+    </neighbour>
+  </country>
+  <country name="United Arab Emirates">
+    <neighbour name="Oman">
+      <length>410</length>
+    </neighbour>
+    <neighbour name="Saudi Arabia">
+      <length>457</length>
+    </neighbour>
+  </country>
+  <country name="United Kingdom">
+    <neighbour name="Ireland">
+      <length>360</length>
+    </neighbour>
+  </country>
+  <country name="United States">
+    <neighbour name="Canada">
+      <length>8893</length>
+    </neighbour>
+    <neighbour name="Mexico">
+      <length>3326</length>
+    </neighbour>
+  </country>
+  <country name="Uruguay">
+    <neighbour name="Argentina">
+      <length>579</length>
+    </neighbour>
+    <neighbour name="Brazil">
+      <length>985</length>
+    </neighbour>
+  </country>
+  <country name="Uzbekistan">
+    <neighbour name="Afghanistan">
+      <length>137</length>
+    </neighbour>
+    <neighbour name="Kazakhstan">
+      <length>2203</length>
+    </neighbour>
+    <neighbour name="Kyrgyzstan">
+      <length>1099</length>
+    </neighbour>
+    <neighbour name="Tajikistan">
+      <length>1161</length>
+    </neighbour>
+    <neighbour name="Turkmenistan">
+      <length>1621</length>
+    </neighbour>
+  </country>
+  <country name="Venezuela">
+    <neighbour name="Brazil">
+      <length>2200</length>
+    </neighbour>
+    <neighbour name="Colombia">
+      <length>2050</length>
+    </neighbour>
+    <neighbour name="Guyana">
+      <length>743</length>
+    </neighbour>
+  </country>
+  <country name="Vietnam">
+    <neighbour name="Cambodia">
+      <length>1228</length>
+    </neighbour>
+    <neighbour name="China">
+      <length>1281</length>
+    </neighbour>
+    <neighbour name="Laos">
+      <length>2130</length>
+    </neighbour>
+  </country>
+  <country name="West Bank">
+    <neighbour name="Israel">
+      <length>307</length>
+    </neighbour>
+    <neighbour name="Jordan">
+      <length>97</length>
+    </neighbour>
+  </country>
+  <country name="Western Sahara">
+    <neighbour name="Algeria">
+      <length>42</length>
+    </neighbour>
+    <neighbour name="Mauritania">
+      <length>1561</length>
+    </neighbour>
+    <neighbour name="Morocco">
+      <length>443</length>
+    </neighbour>
+  </country>
+  <country name="Yemen">
+    <neighbour name="Oman">
+      <length>288</length>
+    </neighbour>
+    <neighbour name="Saudi Arabia">
+      <length>1458</length>
+    </neighbour>
+  </country>
+  <country name="Zaire">
+    <neighbour name="Angola">
+      <length>2511</length>
+    </neighbour>
+    <neighbour name="Burundi">
+      <length>233</length>
+    </neighbour>
+    <neighbour name="Central African Republic">
+      <length>1577</length>
+    </neighbour>
+    <neighbour name="Congo">
+      <length>2410</length>
+    </neighbour>
+    <neighbour name="Rwanda">
+      <length>217</length>
+    </neighbour>
+    <neighbour name="South Sudan">
+      <length>639</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>459</length>
+    </neighbour>
+    <neighbour name="Uganda">
+      <length>765</length>
+    </neighbour>
+    <neighbour name="Zambia">
+      <length>1930</length>
+    </neighbour>
+  </country>
+  <country name="Zambia">
+    <neighbour name="Angola">
+      <length>1110</length>
+    </neighbour>
+    <neighbour name="Malawi">
+      <length>837</length>
+    </neighbour>
+    <neighbour name="Mozambique">
+      <length>419</length>
+    </neighbour>
+    <neighbour name="Namibia">
+      <length>233</length>
+    </neighbour>
+    <neighbour name="Tanzania">
+      <length>338</length>
+    </neighbour>
+    <neighbour name="Zaire">
+      <length>1930</length>
+    </neighbour>
+    <neighbour name="Zimbabwe">
+      <length>797</length>
+    </neighbour>
+  </country>
+  <country name="Zimbabwe">
+    <neighbour name="Botswana">
+      <length>813</length>
+    </neighbour>
+    <neighbour name="Mozambique">
+      <length>1231</length>
+    </neighbour>
+    <neighbour name="South Africa">
+      <length>225</length>
+    </neighbour>
+    <neighbour name="Zambia">
+      <length>797</length>
+    </neighbour>
+  </country>
+</countries>

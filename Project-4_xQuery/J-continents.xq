@@ -7,23 +7,23 @@
     <data> 
     {
         let $doc := doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")
-        for $continents in distinct-values($doc//encompassed/@continent)
-        order by $continents
-        return <continent name='{$continents}'>
+        for $cnts in distinct-values($doc//encompassed/@continent)
+        order by $cnts
+        return <continent name='{$cnts}'>
         {
-            for $country in $doc//country
-            let $ptc := $country//encompassed[$continents=@continent]/percentage
-            order by $country/name
-            where $country/encompassed/@continent=$continents
-            return <country name='{$country/name}' size='{xs:integer(round($country/@area * $ptc * 0.01))}'></country>
+            for $ctr in $doc//country
+            let $ptc := $ctr//encompassed[$cnts=@continent]/@percentage
+            order by $ctr/name
+            where $ctr/encompassed/@continent=$cnts
+            return <country name='{$ctr/name}' size='{xs:integer(round($ctr/@area * $ptc * 0.01))}'></country>
         }
         </continent>
     }
     </data>
-    for $continent in $thisData/continent
-    return <continent name='{$continent/@name}' size='{xs:integer(sum($continent/country/@size))}' countries='{count($continent/country)}'>
+    for $theContinent in $thisData/continent
+    return <continent name="{$theContinent/@name}" size="{xs:integer(sum($theContinent/country/@size))}" countries="{count($theContinent/country)}">
     {
-        $continent/country
+        $theContinent/country
     }
     </continent>
 }
