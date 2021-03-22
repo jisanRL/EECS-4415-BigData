@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gdp_per_capita>
+  <countries government="democracy" gdppc="$11,507.48"/>
+  <countries government="non-democracy" gdppc="$8,273.11"/>
+</gdp_per_capita>
