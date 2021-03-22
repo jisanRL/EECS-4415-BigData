@@ -6,7 +6,6 @@ of speakers of that language (as country's population times the percentage
 that speak that language).
 :)
 
-(:refurbish this :)
 <languages> {
     let $doc := doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")
     for $lang in distinct-values($doc//language)

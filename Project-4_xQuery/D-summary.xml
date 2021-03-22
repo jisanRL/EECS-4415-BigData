@@ -3,1655 +3,1655 @@
   <country>
     <name>'<name>Afghanistan</name>'</name>
     <capital>'Kabul'</capital>
-    <population year="2013">'26023100'</population>
+    <population year="2013">26023100</population>
     <size>'647500'</size>
-    <inception>'1919-08-19'</inception>
+    <inception>1919-08-19</inception>
   </country>
   <country>
     <name>'<name>Albania</name>'</name>
     <capital>'Tirana'</capital>
-    <population year="2011">'2800138'</population>
+    <population year="2011">2800138</population>
     <size>'28750'</size>
-    <inception>'1912-11-28'</inception>
+    <inception>1912-11-28</inception>
   </country>
   <country>
     <name>'<name>Algeria</name>'</name>
     <capital>'Algiers'</capital>
-    <population year="2010">'37062820'</population>
+    <population year="2010">37062820</population>
     <size>'2381740'</size>
-    <inception>'1962-07-05'</inception>
+    <inception>1962-07-05</inception>
   </country>
   <country>
     <name>'<name>American Samoa</name>'</name>
     <capital>'Pago Pago'</capital>
-    <population year="2010">'55519'</population>
+    <population year="2010">55519</population>
     <size>'199'</size>
   </country>
   <country>
     <name>'<name>Andorra</name>'</name>
     <capital>'Andorra la Vella'</capital>
-    <population year="2011">'78115'</population>
+    <population year="2011">78115</population>
     <size>'450'</size>
-    <inception>'1278-09-08'</inception>
+    <inception>1278-09-08</inception>
   </country>
   <country>
     <name>'<name>Angola</name>'</name>
     <capital>'Luanda'</capital>
-    <population year="2014">'24383301'</population>
+    <population year="2014">24383301</population>
     <size>'1246700'</size>
-    <inception>'1975-11-11'</inception>
+    <inception>1975-11-11</inception>
   </country>
   <country>
     <name>'<name>Anguilla</name>'</name>
     <capital>'The Valley'</capital>
-    <population year="2011">'13037'</population>
+    <population year="2011">13037</population>
     <size>'102'</size>
   </country>
   <country>
     <name>'<name>Antigua and Barbuda</name>'</name>
     <capital>'Saint Johns'</capital>
-    <population year="2011">'81799'</population>
+    <population year="2011">81799</population>
     <size>'442'</size>
-    <inception>'1981-11-01'</inception>
+    <inception>1981-11-01</inception>
   </country>
   <country>
     <name>'<name>Argentina</name>'</name>
     <capital>'Buenos Aires'</capital>
-    <population year="2014">'42669500'</population>
+    <population year="2014">42669500</population>
     <size>'2766890'</size>
-    <inception>'1816-07-09'</inception>
+    <inception>1816-07-09</inception>
   </country>
   <country>
     <name>'<name>Armenia</name>'</name>
     <capital>'Yerevan'</capital>
-    <population year="2013">'3026879'</population>
+    <population year="2013">3026879</population>
     <size>'29800'</size>
-    <inception>'1918-05-28'</inception>
+    <inception>1918-05-28</inception>
   </country>
   <country>
     <name>'<name>Aruba</name>'</name>
     <capital>'Oranjestad'</capital>
-    <population year="2010">'101484'</population>
+    <population year="2010">101484</population>
     <size>'193'</size>
   </country>
   <country>
     <name>'<name>Australia</name>'</name>
     <capital>'Canberra'</capital>
-    <population year="2013">'23135281'</population>
+    <population year="2013">23135281</population>
     <size>'7686850'</size>
-    <inception>'1901-01-01'</inception>
+    <inception>1901-01-01</inception>
   </country>
   <country>
     <name>'<name>Austria</name>'</name>
     <capital>'Wien'</capital>
-    <population year="2013">'8499759'</population>
+    <population year="2013">8499759</population>
     <size>'83850'</size>
-    <inception>'1918-11-12'</inception>
+    <inception>1918-11-12</inception>
   </country>
   <country>
     <name>'<name>Azerbaijan</name>'</name>
     <capital>'Baku'</capital>
-    <population year="2013">'9356500'</population>
+    <population year="2013">9356500</population>
     <size>'86600'</size>
-    <inception>'1991-08-30'</inception>
+    <inception>1991-08-30</inception>
   </country>
   <country>
     <name>'<name>Bahamas</name>'</name>
     <capital>'Nassau'</capital>
-    <population year="2010">'353658'</population>
+    <population year="2010">353658</population>
     <size>'13940'</size>
-    <inception>'1973-07-10'</inception>
+    <inception>1973-07-10</inception>
   </country>
   <country>
     <name>'<name>Bahrain</name>'</name>
     <capital>'Al ManÄmah'</capital>
-    <population year="2010">'1234596'</population>
+    <population year="2010">1234596</population>
     <size>'620'</size>
-    <inception>'1971-08-15'</inception>
+    <inception>1971-08-15</inception>
   </country>
   <country>
     <name>'<name>Bangladesh</name>'</name>
     <capital>'Dhaka'</capital>
-    <population year="2011">'149772364'</population>
+    <population year="2011">149772364</population>
     <size>'144000'</size>
-    <inception>'1971-12-16'</inception>
+    <inception>1971-12-16</inception>
   </country>
   <country>
     <name>'<name>Barbados</name>'</name>
     <capital>'Bridgetown'</capital>
-    <population year="2010">'277821'</population>
+    <population year="2010">277821</population>
     <size>'430'</size>
-    <inception>'1966-11-30'</inception>
+    <inception>1966-11-30</inception>
   </country>
   <country>
     <name>'<name>Belarus</name>'</name>
     <capital>'Minsk'</capital>
-    <population year="2013">'9460692'</population>
+    <population year="2013">9460692</population>
     <size>'207600'</size>
-    <inception>'1991-08-25'</inception>
+    <inception>1991-08-25</inception>
   </country>
   <country>
     <name>'<name>Belgium</name>'</name>
     <capital>'Bruxelles'</capital>
-    <population year="2013">'11099554'</population>
+    <population year="2013">11099554</population>
     <size>'30510'</size>
-    <inception>'1830-10-04'</inception>
+    <inception>1830-10-04</inception>
   </country>
   <country>
     <name>'<name>Belize</name>'</name>
     <capital>'Belmopan'</capital>
-    <population year="2010">'312971'</population>
+    <population year="2010">312971</population>
     <size>'22960'</size>
-    <inception>'1981-09-21'</inception>
+    <inception>1981-09-21</inception>
   </country>
   <country>
     <name>'<name>Benin</name>'</name>
     <capital>'Porto-Novo'</capital>
-    <population year="2013">'9983884'</population>
+    <population year="2013">9983884</population>
     <size>'112620'</size>
-    <inception>'1960-08-01'</inception>
+    <inception>1960-08-01</inception>
   </country>
   <country>
     <name>'<name>Bermuda</name>'</name>
     <capital>'Hamilton'</capital>
-    <population year="2010">'64237'</population>
+    <population year="2010">64237</population>
     <size>'53.3'</size>
   </country>
   <country>
     <name>'<name>Bhutan</name>'</name>
     <capital>'Thimphu'</capital>
-    <population year="2013">'733004'</population>
+    <population year="2013">733004</population>
     <size>'47000'</size>
-    <inception>'1949-08-08'</inception>
+    <inception>1949-08-08</inception>
   </country>
   <country>
     <name>'<name>Bolivia</name>'</name>
     <capital>'La Paz'</capital>
-    <population year="2012">'10027262'</population>
+    <population year="2012">10027262</population>
     <size>'1098580'</size>
-    <inception>'1825-08-06'</inception>
+    <inception>1825-08-06</inception>
   </country>
   <country>
     <name>'<name>Bosnia and Herzegovina</name>'</name>
     <capital>'Sarajevo'</capital>
-    <population year="2013">'3791622'</population>
+    <population year="2013">3791622</population>
     <size>'51233'</size>
-    <inception>'1992-04-01'</inception>
+    <inception>1992-04-01</inception>
   </country>
   <country>
     <name>'<name>Botswana</name>'</name>
     <capital>'Gaborone'</capital>
-    <population year="2011">'2038228'</population>
+    <population year="2011">2038228</population>
     <size>'600370'</size>
-    <inception>'1966-09-30'</inception>
+    <inception>1966-09-30</inception>
   </country>
   <country>
     <name>'<name>Brazil</name>'</name>
     <capital>'BrasÃ­lia'</capital>
-    <population year="2014">'202768562'</population>
+    <population year="2014">202768562</population>
     <size>'8511965'</size>
-    <inception>'1822-09-07'</inception>
+    <inception>1822-09-07</inception>
   </country>
   <country>
     <name>'<name>British Virgin Islands</name>'</name>
     <capital>'Road Town'</capital>
-    <population year="2001">'23161'</population>
+    <population year="2001">23161</population>
     <size>'153'</size>
   </country>
   <country>
     <name>'<name>Brunei</name>'</name>
     <capital>'Bandar Seri Begawan'</capital>
-    <population year="2011">'393372'</population>
+    <population year="2011">393372</population>
     <size>'5770'</size>
-    <inception>'1984-01-01'</inception>
+    <inception>1984-01-01</inception>
   </country>
   <country>
     <name>'<name>Bulgaria</name>'</name>
     <capital>'Sofia'</capital>
-    <population year="2012">'7284552'</population>
+    <population year="2012">7284552</population>
     <size>'110910'</size>
-    <inception>'1908-09-22'</inception>
+    <inception>1908-09-22</inception>
   </country>
   <country>
     <name>'<name>Burkina Faso</name>'</name>
     <capital>'Ouagadougou'</capital>
-    <population year="2013">'17322796'</population>
+    <population year="2013">17322796</population>
     <size>'274200'</size>
-    <inception>'1960-08-05'</inception>
+    <inception>1960-08-05</inception>
   </country>
   <country>
     <name>'<name>Burundi</name>'</name>
     <capital>'Bujumbura'</capital>
-    <population year="2010">'8444784'</population>
+    <population year="2010">8444784</population>
     <size>'27830'</size>
-    <inception>'1962-07-01'</inception>
+    <inception>1962-07-01</inception>
   </country>
   <country>
     <name>'<name>Cambodia</name>'</name>
     <capital>'Phnom Penh'</capital>
-    <population year="2010">'14364931'</population>
+    <population year="2010">14364931</population>
     <size>'181040'</size>
-    <inception>'1949-11-09'</inception>
+    <inception>1949-11-09</inception>
   </country>
   <country>
     <name>'<name>Cameroon</name>'</name>
     <capital>'YaoundÃ©'</capital>
-    <population year="2010">'19406100'</population>
+    <population year="2010">19406100</population>
     <size>'475440'</size>
-    <inception>'1960-01-01'</inception>
+    <inception>1960-01-01</inception>
   </country>
   <country>
     <name>'<name>Canada</name>'</name>
     <capital>'Ottawa'</capital>
-    <population year="2013">'35158304'</population>
+    <population year="2013">35158304</population>
     <size>'9976140'</size>
-    <inception>'1867-07-01'</inception>
+    <inception>1867-07-01</inception>
   </country>
   <country>
     <name>'<name>Cape Verde</name>'</name>
     <capital>'Praia'</capital>
-    <population year="2010">'491875'</population>
+    <population year="2010">491875</population>
     <size>'4033'</size>
-    <inception>'1975-07-05'</inception>
+    <inception>1975-07-05</inception>
   </country>
   <country>
     <name>'<name>Cayman Islands</name>'</name>
     <capital>'George Town'</capital>
-    <population year="2013">'55691'</population>
+    <population year="2013">55691</population>
     <size>'262'</size>
   </country>
   <country>
     <name>'<name>Central African Republic</name>'</name>
     <capital>'Bangui'</capital>
-    <population year="2010">'4349921'</population>
+    <population year="2010">4349921</population>
     <size>'622980'</size>
-    <inception>'1960-08-13'</inception>
+    <inception>1960-08-13</inception>
   </country>
   <country>
     <name>'<name>Ceuta</name>'</name>
     <capital>'Ceuta'</capital>
-    <population year="2011">'82376'</population>
+    <population year="2011">82376</population>
     <size>'18'</size>
   </country>
   <country>
     <name>'<name>Chad</name>'</name>
     <capital>'N'Djamena'</capital>
-    <population year="2010">'11720781'</population>
+    <population year="2010">11720781</population>
     <size>'1284000'</size>
-    <inception>'1960-08-11'</inception>
+    <inception>1960-08-11</inception>
   </country>
   <country>
     <name>'<name>Chile</name>'</name>
     <capital>'Santiago'</capital>
-    <population year="2012">'16341929'</population>
+    <population year="2012">16341929</population>
     <size>'756950'</size>
-    <inception>'1810-09-18'</inception>
+    <inception>1810-09-18</inception>
   </country>
   <country>
     <name>'<name>China</name>'</name>
     <capital>'Beijing'</capital>
-    <population year="2013">'1360720000'</population>
+    <population year="2013">1360720000</population>
     <size>'9596960'</size>
   </country>
   <country>
     <name>'<name>Christmas Island</name>'</name>
     <capital>'Flying Fish Cove'</capital>
-    <population year="2011">'2072'</population>
+    <population year="2011">2072</population>
     <size>'135'</size>
   </country>
   <country>
     <name>'<name>Cocos Islands</name>'</name>
     <capital>'West Island'</capital>
-    <population year="2010">'596'</population>
+    <population year="2010">596</population>
     <size>'14'</size>
   </country>
   <country>
     <name>'<name>Colombia</name>'</name>
     <capital>'BogotÃ¡'</capital>
-    <population year="2014">'47661787'</population>
+    <population year="2014">47661787</population>
     <size>'1138910'</size>
-    <inception>'1810-07-20'</inception>
+    <inception>1810-07-20</inception>
   </country>
   <country>
     <name>'<name>Comoros</name>'</name>
     <capital>'Moroni'</capital>
-    <population year="2010">'683081'</population>
+    <population year="2010">683081</population>
     <size>'2170'</size>
-    <inception>'1975-07-06'</inception>
+    <inception>1975-07-06</inception>
   </country>
   <country>
     <name>'<name>Congo</name>'</name>
     <capital>'Brazzaville'</capital>
-    <population year="2010">'4001831'</population>
+    <population year="2010">4001831</population>
     <size>'342000'</size>
-    <inception>'1960-08-15'</inception>
+    <inception>1960-08-15</inception>
   </country>
   <country>
     <name>'<name>Cook Islands</name>'</name>
     <capital>'Avarua'</capital>
-    <population year="2011">'17794'</population>
+    <population year="2011">17794</population>
     <size>'240'</size>
   </country>
   <country>
     <name>'<name>Costa Rica</name>'</name>
     <capital>'San JosÃ©'</capital>
-    <population year="2014">'4773119'</population>
+    <population year="2014">4773119</population>
     <size>'51100'</size>
-    <inception>'1821-09-15'</inception>
+    <inception>1821-09-15</inception>
   </country>
   <country>
     <name>'<name>Cote d'Ivoire</name>'</name>
     <capital>'Yamoussoukro'</capital>
-    <population year="2014">'22671331'</population>
+    <population year="2014">22671331</population>
     <size>'322460'</size>
-    <inception>'1960-08-07'</inception>
+    <inception>1960-08-07</inception>
   </country>
   <country>
     <name>'<name>Croatia</name>'</name>
     <capital>'Zagreb'</capital>
-    <population year="2011">'4290612'</population>
+    <population year="2011">4290612</population>
     <size>'56538'</size>
-    <inception>'1991-06-25'</inception>
+    <inception>1991-06-25</inception>
   </country>
   <country>
     <name>'<name>Cuba</name>'</name>
     <capital>'La Habana'</capital>
-    <population year="2012">'11167325'</population>
+    <population year="2012">11167325</population>
     <size>'110860'</size>
-    <inception>'1902-05-20'</inception>
+    <inception>1902-05-20</inception>
   </country>
   <country>
     <name>'<name>Curacao</name>'</name>
     <capital>'Willemstad'</capital>
-    <population year="2011">'150563'</population>
+    <population year="2011">150563</population>
     <size>'444'</size>
   </country>
   <country>
     <name>'<name>Cyprus</name>'</name>
     <capital>'Lefkosia'</capital>
-    <population year="2011">'840407'</population>
+    <population year="2011">840407</population>
     <size>'9251'</size>
-    <inception>'1960-08-16'</inception>
+    <inception>1960-08-16</inception>
   </country>
   <country>
     <name>'<name>Czech Republic</name>'</name>
     <capital>'Praha'</capital>
-    <population year="2011">'10562214'</population>
+    <population year="2011">10562214</population>
     <size>'78703'</size>
-    <inception>'1993-01-01'</inception>
+    <inception>1993-01-01</inception>
   </country>
   <country>
     <name>'<name>Denmark</name>'</name>
     <capital>'Copenhagen'</capital>
-    <population year="2015">'5678348'</population>
+    <population year="2015">5678348</population>
     <size>'43070'</size>
   </country>
   <country>
     <name>'<name>Djibouti</name>'</name>
     <capital>'Djibouti'</capital>
-    <population year="2010">'834036'</population>
+    <population year="2010">834036</population>
     <size>'22000'</size>
-    <inception>'1977-06-27'</inception>
+    <inception>1977-06-27</inception>
   </country>
   <country>
     <name>'<name>Dominica</name>'</name>
     <capital>'Roseau'</capital>
-    <population year="2011">'70739'</population>
+    <population year="2011">70739</population>
     <size>'746'</size>
-    <inception>'1978-11-03'</inception>
+    <inception>1978-11-03</inception>
   </country>
   <country>
     <name>'<name>Dominican Republic</name>'</name>
     <capital>'Santo Domingo'</capital>
-    <population year="2010">'9445281'</population>
+    <population year="2010">9445281</population>
     <size>'48730'</size>
-    <inception>'1844-02-27'</inception>
+    <inception>1844-02-27</inception>
   </country>
   <country>
     <name>'<name>Ecuador</name>'</name>
     <capital>'Quito'</capital>
-    <population year="2010">'14483499'</population>
+    <population year="2010">14483499</population>
     <size>'283560'</size>
-    <inception>'1822-05-24'</inception>
+    <inception>1822-05-24</inception>
   </country>
   <country>
     <name>'<name>Egypt</name>'</name>
     <capital>'Al Qahirah'</capital>
-    <population year="2013">'83667047'</population>
+    <population year="2013">83667047</population>
     <size>'1001450'</size>
-    <inception>'1922-02-28'</inception>
+    <inception>1922-02-28</inception>
   </country>
   <country>
     <name>'<name>El Salvador</name>'</name>
     <capital>'San Salvador'</capital>
-    <population year="2013">'6290420'</population>
+    <population year="2013">6290420</population>
     <size>'21040'</size>
-    <inception>'1821-09-15'</inception>
+    <inception>1821-09-15</inception>
   </country>
   <country>
     <name>'<name>Equatorial Guinea</name>'</name>
     <capital>'Malabo'</capital>
-    <population year="2010">'696167'</population>
+    <population year="2010">696167</population>
     <size>'28050'</size>
-    <inception>'1968-10-12'</inception>
+    <inception>1968-10-12</inception>
   </country>
   <country>
     <name>'<name>Eritrea</name>'</name>
     <capital>'Asmara'</capital>
-    <population year="2010">'5741159'</population>
+    <population year="2010">5741159</population>
     <size>'121320'</size>
-    <inception>'1993-05-27'</inception>
+    <inception>1993-05-27</inception>
   </country>
   <country>
     <name>'<name>Estonia</name>'</name>
     <capital>'Tallinn'</capital>
-    <population year="2011">'1294455'</population>
+    <population year="2011">1294455</population>
     <size>'45100'</size>
-    <inception>'1991-09-06'</inception>
+    <inception>1991-09-06</inception>
   </country>
   <country>
     <name>'<name>Ethiopia</name>'</name>
     <capital>'Addis Ababa'</capital>
-    <population year="2012">'84320987'</population>
+    <population year="2012">84320987</population>
     <size>'1127127'</size>
   </country>
   <country>
     <name>'<name>Falkland Islands</name>'</name>
     <capital>'Stanley'</capital>
-    <population year="2012">'2931'</population>
+    <population year="2012">2931</population>
     <size>'12173'</size>
   </country>
   <country>
     <name>'<name>Faroe Islands</name>'</name>
     <capital>'TÃ³rshavn'</capital>
-    <population year="2013">'48197'</population>
+    <population year="2013">48197</population>
     <size>'1400'</size>
   </country>
   <country>
     <name>'<name>Fiji</name>'</name>
     <capital>'Suva'</capital>
-    <population year="2010">'860559'</population>
+    <population year="2010">860559</population>
     <size>'18270'</size>
-    <inception>'1970-10-10'</inception>
+    <inception>1970-10-10</inception>
   </country>
   <country>
     <name>'<name>Finland</name>'</name>
     <capital>'Helsinki'</capital>
-    <population year="2014">'5455068'</population>
+    <population year="2014">5455068</population>
     <size>'337030'</size>
-    <inception>'1917-12-06'</inception>
+    <inception>1917-12-06</inception>
   </country>
   <country>
     <name>'<name>France</name>'</name>
     <capital>'Paris'</capital>
-    <population year="2011">'64933400'</population>
+    <population year="2011">64933400</population>
     <size>'547030'</size>
   </country>
   <country>
     <name>'<name>French Guiana</name>'</name>
     <capital>'Cayenne'</capital>
-    <population year="2011">'237549'</population>
+    <population year="2011">237549</population>
     <size>'83534'</size>
   </country>
   <country>
     <name>'<name>French Polynesia</name>'</name>
     <capital>'Papeete'</capital>
-    <population year="2012">'268270'</population>
+    <population year="2012">268270</population>
     <size>'4167'</size>
   </country>
   <country>
     <name>'<name>Gabon</name>'</name>
     <capital>'Libreville'</capital>
-    <population year="2010">'1556222'</population>
+    <population year="2010">1556222</population>
     <size>'267670'</size>
-    <inception>'1960-08-17'</inception>
+    <inception>1960-08-17</inception>
   </country>
   <country>
     <name>'<name>Gambia</name>'</name>
     <capital>'Banjul'</capital>
-    <population year="2013">'1882450'</population>
+    <population year="2013">1882450</population>
     <size>'11300'</size>
-    <inception>'1965-02-18'</inception>
+    <inception>1965-02-18</inception>
   </country>
   <country>
     <name>'<name>Gaza Strip</name>'</name>
     <capital>''</capital>
-    <population year="2014">'1760037'</population>
+    <population year="2014">1760037</population>
     <size>'365'</size>
   </country>
   <country>
     <name>'<name>Georgia</name>'</name>
     <capital>'Tbilisi'</capital>
-    <population year="2013">'4483800'</population>
+    <population year="2013">4483800</population>
     <size>'69700'</size>
-    <inception>'1991-04-09'</inception>
+    <inception>1991-04-09</inception>
   </country>
   <country>
     <name>'<name>Germany</name>'</name>
     <capital>'Berlin'</capital>
-    <population year="2011">'80219695'</population>
+    <population year="2011">80219695</population>
     <size>'356910'</size>
-    <inception>'1871-01-18'</inception>
+    <inception>1871-01-18</inception>
   </country>
   <country>
     <name>'<name>Ghana</name>'</name>
     <capital>'Accra'</capital>
-    <population year="2010">'24658823'</population>
+    <population year="2010">24658823</population>
     <size>'238540'</size>
-    <inception>'1957-03-06'</inception>
+    <inception>1957-03-06</inception>
   </country>
   <country>
     <name>'<name>Gibraltar</name>'</name>
     <capital>'Gibraltar'</capital>
-    <population year="2012">'32577'</population>
+    <population year="2012">32577</population>
     <size>'6.5'</size>
   </country>
   <country>
     <name>'<name>Greece</name>'</name>
     <capital>'Athina'</capital>
-    <population year="2011">'10816286'</population>
+    <population year="2011">10816286</population>
     <size>'131940'</size>
-    <inception>'1829-01-01'</inception>
+    <inception>1829-01-01</inception>
   </country>
   <country>
     <name>'<name>Greenland</name>'</name>
     <capital>'Nuuk'</capital>
-    <population year="2013">'56370'</population>
+    <population year="2013">56370</population>
     <size>'2175600'</size>
   </country>
   <country>
     <name>'<name>Grenada</name>'</name>
     <capital>'Saint George's'</capital>
-    <population year="2011">'103328'</population>
+    <population year="2011">103328</population>
     <size>'344'</size>
-    <inception>'1974-02-07'</inception>
+    <inception>1974-02-07</inception>
   </country>
   <country>
     <name>'<name>Guadeloupe</name>'</name>
     <capital>'Basse-Terre'</capital>
-    <population year="2011">'404635'</population>
+    <population year="2011">404635</population>
     <size>'1628'</size>
   </country>
   <country>
     <name>'<name>Guam</name>'</name>
     <capital>'HagÃ¥tÃ±a'</capital>
-    <population year="2010">'159358'</population>
+    <population year="2010">159358</population>
     <size>'541.3'</size>
   </country>
   <country>
     <name>'<name>Guatemala</name>'</name>
     <capital>'Ciudad de Guatemala'</capital>
-    <population year="2012">'15073375'</population>
+    <population year="2012">15073375</population>
     <size>'108890'</size>
-    <inception>'1821-09-15'</inception>
+    <inception>1821-09-15</inception>
   </country>
   <country>
     <name>'<name>Guernsey</name>'</name>
     <capital>'Saint Peter Port'</capital>
-    <population year="2001">'59807'</population>
+    <population year="2001">59807</population>
     <size>'194'</size>
   </country>
   <country>
     <name>'<name>Guinea</name>'</name>
     <capital>'Conakry'</capital>
-    <population year="2014">'10628972'</population>
+    <population year="2014">10628972</population>
     <size>'245860'</size>
-    <inception>'1958-10-02'</inception>
+    <inception>1958-10-02</inception>
   </country>
   <country>
     <name>'<name>Guinea-Bissau</name>'</name>
     <capital>'Bissau'</capital>
-    <population year="2010">'1586624'</population>
+    <population year="2010">1586624</population>
     <size>'36120'</size>
-    <inception>'1974-09-10'</inception>
+    <inception>1974-09-10</inception>
   </country>
   <country>
     <name>'<name>Guyana</name>'</name>
     <capital>'Georgetown'</capital>
-    <population year="2012">'747884'</population>
+    <population year="2012">747884</population>
     <size>'214970'</size>
-    <inception>'1966-05-26'</inception>
+    <inception>1966-05-26</inception>
   </country>
   <country>
     <name>'<name>Haiti</name>'</name>
     <capital>'Port-au-Prince'</capital>
-    <population year="2010">'9896400'</population>
+    <population year="2010">9896400</population>
     <size>'27750'</size>
-    <inception>'1804-01-01'</inception>
+    <inception>1804-01-01</inception>
   </country>
   <country>
     <name>'<name>Holy See</name>'</name>
     <capital>'Vatican City'</capital>
-    <population year="2014">'842'</population>
+    <population year="2014">842</population>
     <size>'0.44'</size>
-    <inception>'1929-02-11'</inception>
+    <inception>1929-02-11</inception>
   </country>
   <country>
     <name>'<name>Honduras</name>'</name>
     <capital>'Tegucigalpa'</capital>
-    <population year="2010">'8045990'</population>
+    <population year="2010">8045990</population>
     <size>'112090'</size>
-    <inception>'1821-09-15'</inception>
+    <inception>1821-09-15</inception>
   </country>
   <country>
     <name>'<name>Hong Kong</name>'</name>
     <capital>'Hong Kong'</capital>
-    <population year="2011">'7071576'</population>
+    <population year="2011">7071576</population>
     <size>'1092'</size>
   </country>
   <country>
     <name>'<name>Hungary</name>'</name>
     <capital>'Budapest'</capital>
-    <population year="2011">'9937628'</population>
+    <population year="2011">9937628</population>
     <size>'93030'</size>
-    <inception>'1918-11-18'</inception>
+    <inception>1918-11-18</inception>
   </country>
   <country>
     <name>'<name>Iceland</name>'</name>
     <capital>'Reykjavik'</capital>
-    <population year="2011">'318452'</population>
+    <population year="2011">318452</population>
     <size>'103000'</size>
-    <inception>'1944-06-17'</inception>
+    <inception>1944-06-17</inception>
   </country>
   <country>
     <name>'<name>India</name>'</name>
     <capital>'Delhi'</capital>
-    <population year="2011">'1210854977'</population>
+    <population year="2011">1210854977</population>
     <size>'3287590'</size>
-    <inception>'1947-08-15'</inception>
+    <inception>1947-08-15</inception>
   </country>
   <country>
     <name>'<name>Indonesia</name>'</name>
     <capital>'Jakarta'</capital>
-    <population year="2014">'252124458'</population>
+    <population year="2014">252124458</population>
     <size>'1919440'</size>
-    <inception>'1945-08-17'</inception>
+    <inception>1945-08-17</inception>
   </country>
   <country>
     <name>'<name>Iran</name>'</name>
     <capital>'Tehran'</capital>
-    <population year="2011">'75149669'</population>
+    <population year="2011">75149669</population>
     <size>'1648000'</size>
   </country>
   <country>
     <name>'<name>Iraq</name>'</name>
     <capital>'Baghdad'</capital>
-    <population year="2011">'33330512'</population>
+    <population year="2011">33330512</population>
     <size>'437072'</size>
-    <inception>'1932-10-03'</inception>
+    <inception>1932-10-03</inception>
   </country>
   <country>
     <name>'<name>Ireland</name>'</name>
     <capital>'Dublin'</capital>
-    <population year="2011">'4588252'</population>
+    <population year="2011">4588252</population>
     <size>'70280'</size>
-    <inception>'1921-12-06'</inception>
+    <inception>1921-12-06</inception>
   </country>
   <country>
     <name>'<name>Isle of Man</name>'</name>
     <capital>'Douglas'</capital>
-    <population year="2011">'84497'</population>
+    <population year="2011">84497</population>
     <size>'588'</size>
   </country>
   <country>
     <name>'<name>Israel</name>'</name>
     <capital>'Yerushalayim'</capital>
-    <population year="2010">'7420368'</population>
+    <population year="2010">7420368</population>
     <size>'22072'</size>
-    <inception>'1948-05-14'</inception>
+    <inception>1948-05-14</inception>
   </country>
   <country>
     <name>'<name>Italy</name>'</name>
     <capital>'Roma'</capital>
-    <population year="2011">'59433744'</population>
+    <population year="2011">59433744</population>
     <size>'301230'</size>
-    <inception>'1861-03-17'</inception>
+    <inception>1861-03-17</inception>
   </country>
   <country>
     <name>'<name>Jamaica</name>'</name>
     <capital>'Kingston'</capital>
-    <population year="2011">'2697983'</population>
+    <population year="2011">2697983</population>
     <size>'10991'</size>
-    <inception>'1962-08-06'</inception>
+    <inception>1962-08-06</inception>
   </country>
   <country>
     <name>'<name>Japan</name>'</name>
     <capital>'Tokyo'</capital>
-    <population year="2013">'127298000'</population>
+    <population year="2013">127298000</population>
     <size>'377835'</size>
   </country>
   <country>
     <name>'<name>Jersey</name>'</name>
     <capital>'Saint Helier'</capital>
-    <population year="2011">'97857'</population>
+    <population year="2011">97857</population>
     <size>'117'</size>
   </country>
   <country>
     <name>'<name>Jordan</name>'</name>
     <capital>'Amman'</capital>
-    <population year="2011">'6249000'</population>
+    <population year="2011">6249000</population>
     <size>'89213'</size>
-    <inception>'1946-05-25'</inception>
+    <inception>1946-05-25</inception>
   </country>
   <country>
     <name>'<name>Kazakhstan</name>'</name>
     <capital>'Astana'</capital>
-    <population year="2014">'17165239'</population>
+    <population year="2014">17165239</population>
     <size>'2717300'</size>
-    <inception>'1991-12-16'</inception>
+    <inception>1991-12-16</inception>
   </country>
   <country>
     <name>'<name>Kenya</name>'</name>
     <capital>'Nairobi'</capital>
-    <population year="2010">'40909194'</population>
+    <population year="2010">40909194</population>
     <size>'582650'</size>
-    <inception>'1963-12-12'</inception>
+    <inception>1963-12-12</inception>
   </country>
   <country>
     <name>'<name>Kiribati</name>'</name>
     <capital>'Tarawa'</capital>
-    <population year="2010">'103058'</population>
+    <population year="2010">103058</population>
     <size>'717'</size>
-    <inception>'1979-07-12'</inception>
+    <inception>1979-07-12</inception>
   </country>
   <country>
     <name>'<name>Kosovo</name>'</name>
     <capital>'Prishtine'</capital>
-    <population year="2011">'1733872'</population>
+    <population year="2011">1733872</population>
     <size>'10887'</size>
-    <inception>'2008-02-17'</inception>
+    <inception>2008-02-17</inception>
   </country>
   <country>
     <name>'<name>Kuwait</name>'</name>
     <capital>'Al Kuwayt'</capital>
-    <population year="2010">'2991580'</population>
+    <population year="2010">2991580</population>
     <size>'17820'</size>
-    <inception>'1961-06-19'</inception>
+    <inception>1961-06-19</inception>
   </country>
   <country>
     <name>'<name>Kyrgyzstan</name>'</name>
     <capital>'Bishkek'</capital>
-    <population year="2014">'5776600'</population>
+    <population year="2014">5776600</population>
     <size>'198500'</size>
-    <inception>'1991-08-31'</inception>
+    <inception>1991-08-31</inception>
   </country>
   <country>
     <name>'<name>Laos</name>'</name>
     <capital>'Vientiane'</capital>
-    <population year="2012">'6514432'</population>
+    <population year="2012">6514432</population>
     <size>'236800'</size>
-    <inception>'1949-07-19'</inception>
+    <inception>1949-07-19</inception>
   </country>
   <country>
     <name>'<name>Latvia</name>'</name>
     <capital>'RÄ«ga'</capital>
-    <population year="2013">'2201196'</population>
+    <population year="2013">2201196</population>
     <size>'64100'</size>
-    <inception>'1991-09-06'</inception>
+    <inception>1991-09-06</inception>
   </country>
   <country>
     <name>'<name>Lebanon</name>'</name>
     <capital>'BayrÅ«t'</capital>
-    <population year="2010">'4341092'</population>
+    <population year="2010">4341092</population>
     <size>'10400'</size>
-    <inception>'1943-11-22'</inception>
+    <inception>1943-11-22</inception>
   </country>
   <country>
     <name>'<name>Lesotho</name>'</name>
     <capital>'Maseru'</capital>
-    <population year="2010">'2008921'</population>
+    <population year="2010">2008921</population>
     <size>'30350'</size>
-    <inception>'1966-10-04'</inception>
+    <inception>1966-10-04</inception>
   </country>
   <country>
     <name>'<name>Liberia</name>'</name>
     <capital>'Monrovia'</capital>
-    <population year="2010">'3957990'</population>
+    <population year="2010">3957990</population>
     <size>'111370'</size>
-    <inception>'1847-07-26'</inception>
+    <inception>1847-07-26</inception>
   </country>
   <country>
     <name>'<name>Libya</name>'</name>
     <capital>'Tripoli'</capital>
-    <population year="2010">'6040612'</population>
+    <population year="2010">6040612</population>
     <size>'1759540'</size>
-    <inception>'1951-12-24'</inception>
+    <inception>1951-12-24</inception>
   </country>
   <country>
     <name>'<name>Liechtenstein</name>'</name>
     <capital>'Vaduz'</capital>
-    <population year="2012">'36636'</population>
+    <population year="2012">36636</population>
     <size>'160'</size>
-    <inception>'1806-07-12'</inception>
+    <inception>1806-07-12</inception>
   </country>
   <country>
     <name>'<name>Lithuania</name>'</name>
     <capital>'Vilnius'</capital>
-    <population year="2013">'2979310'</population>
+    <population year="2013">2979310</population>
     <size>'65200'</size>
-    <inception>'1991-09-06'</inception>
+    <inception>1991-09-06</inception>
   </country>
   <country>
     <name>'<name>Luxembourg</name>'</name>
     <capital>'Luxembourg'</capital>
-    <population year="2012">'524853'</population>
+    <population year="2012">524853</population>
     <size>'2586'</size>
-    <inception>'1890-11-24'</inception>
+    <inception>1890-11-24</inception>
   </country>
   <country>
     <name>'<name>Macao</name>'</name>
     <capital>'Macao'</capital>
-    <population year="2011">'552503'</population>
+    <population year="2011">552503</population>
     <size>'16'</size>
   </country>
   <country>
     <name>'<name>Macedonia</name>'</name>
     <capital>'Skopje'</capital>
-    <population year="2011">'2059794'</population>
+    <population year="2011">2059794</population>
     <size>'25333'</size>
-    <inception>'1991-09-17'</inception>
+    <inception>1991-09-17</inception>
   </country>
   <country>
     <name>'<name>Madagascar</name>'</name>
     <capital>'Antananarivo'</capital>
-    <population year="2013">'21842167'</population>
+    <population year="2013">21842167</population>
     <size>'587041'</size>
-    <inception>'1960-06-26'</inception>
+    <inception>1960-06-26</inception>
   </country>
   <country>
     <name>'<name>Malawi</name>'</name>
     <capital>'Lilongwe'</capital>
-    <population year="2010">'15013694'</population>
+    <population year="2010">15013694</population>
     <size>'118480'</size>
-    <inception>'1964-07-06'</inception>
+    <inception>1964-07-06</inception>
   </country>
   <country>
     <name>'<name>Malaysia</name>'</name>
     <capital>'Kuala Lumpur'</capital>
-    <population year="2010">'27565821'</population>
+    <population year="2010">27565821</population>
     <size>'329750'</size>
-    <inception>'1957-08-31'</inception>
+    <inception>1957-08-31</inception>
   </country>
   <country>
     <name>'<name>Maldives</name>'</name>
     <capital>'Male'</capital>
-    <population year="2014">'341256'</population>
+    <population year="2014">341256</population>
     <size>'300'</size>
-    <inception>'1965-07-26'</inception>
+    <inception>1965-07-26</inception>
   </country>
   <country>
     <name>'<name>Mali</name>'</name>
     <capital>'Bamako'</capital>
-    <population year="2010">'13985961'</population>
+    <population year="2010">13985961</population>
     <size>'1240000'</size>
-    <inception>'1960-09-22'</inception>
+    <inception>1960-09-22</inception>
   </country>
   <country>
     <name>'<name>Malta</name>'</name>
     <capital>'Valletta'</capital>
-    <population year="2011">'417432'</population>
+    <population year="2011">417432</population>
     <size>'320'</size>
-    <inception>'1964-09-21'</inception>
+    <inception>1964-09-21</inception>
   </country>
   <country>
     <name>'<name>Marshall Islands</name>'</name>
     <capital>'Majuro'</capital>
-    <population year="2011">'53158'</population>
+    <population year="2011">53158</population>
     <size>'181.3'</size>
-    <inception>'1986-10-21'</inception>
+    <inception>1986-10-21</inception>
   </country>
   <country>
     <name>'<name>Martinique</name>'</name>
     <capital>'Fort-de-France'</capital>
-    <population year="2011">'392291'</population>
+    <population year="2011">392291</population>
     <size>'1128'</size>
   </country>
   <country>
     <name>'<name>Mauritania</name>'</name>
     <capital>'Nouakchott'</capital>
-    <population year="2013">'3537368'</population>
+    <population year="2013">3537368</population>
     <size>'1030700'</size>
-    <inception>'1960-11-28'</inception>
+    <inception>1960-11-28</inception>
   </country>
   <country>
     <name>'<name>Mauritius</name>'</name>
     <capital>'Port Louis'</capital>
-    <population year="2011">'1237091'</population>
+    <population year="2011">1237091</population>
     <size>'2040'</size>
-    <inception>'1968-03-12'</inception>
+    <inception>1968-03-12</inception>
   </country>
   <country>
     <name>'<name>Mayotte</name>'</name>
     <capital>'Mamoutzou'</capital>
-    <population year="2011">'212645'</population>
+    <population year="2011">212645</population>
     <size>'374'</size>
   </country>
   <country>
     <name>'<name>Melilla</name>'</name>
     <capital>'Melilla'</capital>
-    <population year="2011">'78476'</population>
+    <population year="2011">78476</population>
     <size>'12'</size>
   </country>
   <country>
     <name>'<name>Mexico</name>'</name>
     <capital>'Ciudad de MÃ©xico'</capital>
-    <population year="2010">'112336538'</population>
+    <population year="2010">112336538</population>
     <size>'1972550'</size>
-    <inception>'1810-09-16'</inception>
+    <inception>1810-09-16</inception>
   </country>
   <country>
     <name>'<name>Micronesia</name>'</name>
     <capital>'Palikir'</capital>
-    <population year="2010">'102843'</population>
+    <population year="2010">102843</population>
     <size>'702'</size>
-    <inception>'1986-11-03'</inception>
+    <inception>1986-11-03</inception>
   </country>
   <country>
     <name>'<name>Moldova</name>'</name>
     <capital>'ChiÅinÄu'</capital>
-    <population year="2012">'3559541'</population>
+    <population year="2012">3559541</population>
     <size>'33700'</size>
-    <inception>'1991-08-27'</inception>
+    <inception>1991-08-27</inception>
   </country>
   <country>
     <name>'<name>Monaco</name>'</name>
     <capital>'Monaco'</capital>
-    <population year="2010">'36845'</population>
+    <population year="2010">36845</population>
     <size>'1.9'</size>
-    <inception>'1419-01-01'</inception>
+    <inception>1419-01-01</inception>
   </country>
   <country>
     <name>'<name>Mongolia</name>'</name>
     <capital>'Ulaanbaatar'</capital>
-    <population year="2010">'2754685'</population>
+    <population year="2010">2754685</population>
     <size>'1565000'</size>
-    <inception>'1921-03-13'</inception>
+    <inception>1921-03-13</inception>
   </country>
   <country>
     <name>'<name>Montenegro</name>'</name>
     <capital>'Podgorica'</capital>
-    <population year="2011">'620029'</population>
+    <population year="2011">620029</population>
     <size>'14026'</size>
-    <inception>'2006-06-03'</inception>
+    <inception>2006-06-03</inception>
   </country>
   <country>
     <name>'<name>Montserrat</name>'</name>
     <capital>'Plymouth'</capital>
-    <population year="2011">'4922'</population>
+    <population year="2011">4922</population>
     <size>'102'</size>
   </country>
   <country>
     <name>'<name>Morocco</name>'</name>
     <capital>'Rabat'</capital>
-    <population year="2014">'32901622'</population>
+    <population year="2014">32901622</population>
     <size>'446550'</size>
-    <inception>'1956-03-02'</inception>
+    <inception>1956-03-02</inception>
   </country>
   <country>
     <name>'<name>Mozambique</name>'</name>
     <capital>'Maputo'</capital>
-    <population year="2012">'23700715'</population>
+    <population year="2012">23700715</population>
     <size>'801590'</size>
-    <inception>'1975-06-25'</inception>
+    <inception>1975-06-25</inception>
   </country>
   <country>
     <name>'<name>Myanmar</name>'</name>
     <capital>'Nay Pyi Taw'</capital>
-    <population year="2014">'51419420'</population>
+    <population year="2014">51419420</population>
     <size>'678500'</size>
-    <inception>'1948-01-04'</inception>
+    <inception>1948-01-04</inception>
   </country>
   <country>
     <name>'<name>Namibia</name>'</name>
     <capital>'Windhoek'</capital>
-    <population year="2011">'2113077'</population>
+    <population year="2011">2113077</population>
     <size>'825418'</size>
-    <inception>'1990-03-21'</inception>
+    <inception>1990-03-21</inception>
   </country>
   <country>
     <name>'<name>Nauru</name>'</name>
     <capital>'Yaren'</capital>
-    <population year="2010">'10025'</population>
+    <population year="2010">10025</population>
     <size>'21'</size>
-    <inception>'1968-01-31'</inception>
+    <inception>1968-01-31</inception>
   </country>
   <country>
     <name>'<name>Nepal</name>'</name>
     <capital>'Kathmandu'</capital>
-    <population year="2011">'26494504'</population>
+    <population year="2011">26494504</population>
     <size>'140800'</size>
-    <inception>'1768-01-01'</inception>
+    <inception>1768-01-01</inception>
   </country>
   <country>
     <name>'<name>Netherlands</name>'</name>
     <capital>'Amsterdam'</capital>
-    <population year="2014">'16843181'</population>
+    <population year="2014">16843181</population>
     <size>'37330'</size>
-    <inception>'1579-01-01'</inception>
+    <inception>1579-01-01</inception>
   </country>
   <country>
     <name>'<name>New Caledonia</name>'</name>
     <capital>'Noumea'</capital>
-    <population year="2009">'245580'</population>
+    <population year="2009">245580</population>
     <size>'19060'</size>
   </country>
   <country>
     <name>'<name>New Zealand</name>'</name>
     <capital>'Wellington'</capital>
-    <population year="2013">'4242048'</population>
+    <population year="2013">4242048</population>
     <size>'268680'</size>
-    <inception>'1907-09-26'</inception>
+    <inception>1907-09-26</inception>
   </country>
   <country>
     <name>'<name>Nicaragua</name>'</name>
     <capital>'Managua'</capital>
-    <population year="2012">'6071045'</population>
+    <population year="2012">6071045</population>
     <size>'129494'</size>
-    <inception>'1821-09-15'</inception>
+    <inception>1821-09-15</inception>
   </country>
   <country>
     <name>'<name>Niger</name>'</name>
     <capital>'Niamey'</capital>
-    <population year="2012">'17138707'</population>
+    <population year="2012">17138707</population>
     <size>'1267000'</size>
-    <inception>'1960-08-03'</inception>
+    <inception>1960-08-03</inception>
   </country>
   <country>
     <name>'<name>Nigeria</name>'</name>
     <capital>'Abuja'</capital>
-    <population year="2011">'164294516'</population>
+    <population year="2011">164294516</population>
     <size>'923770'</size>
-    <inception>'1960-10-01'</inception>
+    <inception>1960-10-01</inception>
   </country>
   <country>
     <name>'<name>Niue</name>'</name>
     <capital>'Alofi'</capital>
-    <population year="2011">'1611'</population>
+    <population year="2011">1611</population>
     <size>'260'</size>
-    <inception>'1974-10-19'</inception>
+    <inception>1974-10-19</inception>
   </country>
   <country>
     <name>'<name>Norfolk Island</name>'</name>
     <capital>'Kingston'</capital>
-    <population year="2011">'2169'</population>
+    <population year="2011">2169</population>
     <size>'34.6'</size>
   </country>
   <country>
     <name>'<name>North Korea</name>'</name>
     <capital>'Pyongyang'</capital>
-    <population year="2010">'24500520'</population>
+    <population year="2010">24500520</population>
     <size>'120540'</size>
-    <inception>'1945-08-15'</inception>
+    <inception>1945-08-15</inception>
   </country>
   <country>
     <name>'<name>Northern Mariana Islands</name>'</name>
     <capital>'Saipan'</capital>
-    <population year="2010">'53883'</population>
+    <population year="2010">53883</population>
     <size>'477'</size>
   </country>
   <country>
     <name>'<name>Norway</name>'</name>
     <capital>'Oslo'</capital>
-    <population year="2013">'5051275'</population>
+    <population year="2013">5051275</population>
     <size>'324220'</size>
-    <inception>'1905-10-26'</inception>
+    <inception>1905-10-26</inception>
   </country>
   <country>
     <name>'<name>Oman</name>'</name>
     <capital>'Muscat'</capital>
-    <population year="2012">'3623001'</population>
+    <population year="2012">3623001</population>
     <size>'212460'</size>
-    <inception>'1650-01-01'</inception>
+    <inception>1650-01-01</inception>
   </country>
   <country>
     <name>'<name>Pakistan</name>'</name>
     <capital>'Islamabad'</capital>
-    <population year="2010">'173149306'</population>
+    <population year="2010">173149306</population>
     <size>'803940'</size>
-    <inception>'1947-08-14'</inception>
+    <inception>1947-08-14</inception>
   </country>
   <country>
     <name>'<name>Palau</name>'</name>
     <capital>'Melekeok'</capital>
-    <population year="2012">'17501'</population>
+    <population year="2012">17501</population>
     <size>'458'</size>
-    <inception>'1994-10-01'</inception>
+    <inception>1994-10-01</inception>
   </country>
   <country>
     <name>'<name>Panama</name>'</name>
     <capital>'PanamÃ¡ City'</capital>
-    <population year="2010">'3405813'</population>
+    <population year="2010">3405813</population>
     <size>'78200'</size>
-    <inception>'1903-11-03'</inception>
+    <inception>1903-11-03</inception>
   </country>
   <country>
     <name>'<name>Papua New Guinea</name>'</name>
     <capital>'Port Moresby'</capital>
-    <population year="2011">'7275324'</population>
+    <population year="2011">7275324</population>
     <size>'461690'</size>
-    <inception>'1975-09-16'</inception>
+    <inception>1975-09-16</inception>
   </country>
   <country>
     <name>'<name>Paraguay</name>'</name>
     <capital>'AsunciÃ³n'</capital>
-    <population year="2012">'6672631'</population>
+    <population year="2012">6672631</population>
     <size>'406750'</size>
-    <inception>'1811-05-14'</inception>
+    <inception>1811-05-14</inception>
   </country>
   <country>
     <name>'<name>Peru</name>'</name>
     <capital>'Lima'</capital>
-    <population year="2012">'30135875'</population>
+    <population year="2012">30135875</population>
     <size>'1285220'</size>
-    <inception>'1821-07-28'</inception>
+    <inception>1821-07-28</inception>
   </country>
   <country>
     <name>'<name>Philippines</name>'</name>
     <capital>'Manila'</capital>
-    <population year="2010">'92337852'</population>
+    <population year="2010">92337852</population>
     <size>'299764'</size>
-    <inception>'1946-07-04'</inception>
+    <inception>1946-07-04</inception>
   </country>
   <country>
     <name>'<name>Pitcairn</name>'</name>
     <capital>'Adamstown'</capital>
-    <population year="2013">'56'</population>
+    <population year="2013">56</population>
     <size>'47'</size>
   </country>
   <country>
     <name>'<name>Poland</name>'</name>
     <capital>'Warszawa'</capital>
-    <population year="2012">'38533789'</population>
+    <population year="2012">38533789</population>
     <size>'312683'</size>
-    <inception>'1918-11-11'</inception>
+    <inception>1918-11-11</inception>
   </country>
   <country>
     <name>'<name>Portugal</name>'</name>
     <capital>'Lisboa'</capital>
-    <population year="2011">'10561614'</population>
+    <population year="2011">10561614</population>
     <size>'92080'</size>
-    <inception>'1139-07-25'</inception>
+    <inception>1139-07-25</inception>
   </country>
   <country>
     <name>'<name>Puerto Rico</name>'</name>
     <capital>'San Juan'</capital>
-    <population year="2010">'3725789'</population>
+    <population year="2010">3725789</population>
     <size>'8870'</size>
   </country>
   <country>
     <name>'<name>Qatar</name>'</name>
     <capital>'Doha'</capital>
-    <population year="2010">'1699435'</population>
+    <population year="2010">1699435</population>
     <size>'11000'</size>
-    <inception>'1971-09-03'</inception>
+    <inception>1971-09-03</inception>
   </country>
   <country>
     <name>'<name>Reunion</name>'</name>
     <capital>'Saint-Denis'</capital>
-    <population year="2011">'828581'</population>
+    <population year="2011">828581</population>
     <size>'2510'</size>
   </country>
   <country>
     <name>'<name>Romania</name>'</name>
     <capital>'BucureÅti'</capital>
-    <population year="2011">'20121641'</population>
+    <population year="2011">20121641</population>
     <size>'237500'</size>
-    <inception>'1877-05-09'</inception>
+    <inception>1877-05-09</inception>
   </country>
   <country>
     <name>'<name>Russia</name>'</name>
     <capital>'Moskva'</capital>
-    <population year="2014">'143666931'</population>
+    <population year="2014">143666931</population>
     <size>'17075200'</size>
-    <inception>'1991-08-24'</inception>
+    <inception>1991-08-24</inception>
   </country>
   <country>
     <name>'<name>Rwanda</name>'</name>
     <capital>'Kigali'</capital>
-    <population year="2012">'10515973'</population>
+    <population year="2012">10515973</population>
     <size>'26340'</size>
-    <inception>'1962-07-01'</inception>
+    <inception>1962-07-01</inception>
   </country>
   <country>
     <name>'<name>Saint Barthelemy</name>'</name>
     <capital>'Gustavia'</capital>
-    <population year="2010">'9072'</population>
+    <population year="2010">9072</population>
     <size>'21'</size>
   </country>
   <country>
     <name>'<name>Saint Helena</name>'</name>
     <capital>'Jamestown'</capital>
-    <population year="2014">'5663'</population>
+    <population year="2014">5663</population>
     <size>'413'</size>
   </country>
   <country>
     <name>'<name>Saint Kitts and Nevis</name>'</name>
     <capital>'Basseterre'</capital>
-    <population year="2010">'52352'</population>
+    <population year="2010">52352</population>
     <size>'269'</size>
-    <inception>'1983-09-19'</inception>
+    <inception>1983-09-19</inception>
   </country>
   <country>
     <name>'<name>Saint Lucia</name>'</name>
     <capital>'Castries'</capital>
-    <population year="2010">'165595'</population>
+    <population year="2010">165595</population>
     <size>'620'</size>
-    <inception>'1979-02-22'</inception>
+    <inception>1979-02-22</inception>
   </country>
   <country>
     <name>'<name>Saint Martin</name>'</name>
     <capital>'Marigot'</capital>
-    <population year="2010">'37630'</population>
+    <population year="2010">37630</population>
     <size>'54'</size>
   </country>
   <country>
     <name>'<name>Saint Pierre and Miquelon</name>'</name>
     <capital>'Saint-Pierre'</capital>
-    <population year="2010">'6312'</population>
+    <population year="2010">6312</population>
     <size>'242'</size>
   </country>
   <country>
     <name>'<name>Saint Vincent and the Grenadines</name>'</name>
     <capital>'Kingstown'</capital>
-    <population year="2011">'109991'</population>
+    <population year="2011">109991</population>
     <size>'389'</size>
-    <inception>'1979-10-27'</inception>
+    <inception>1979-10-27</inception>
   </country>
   <country>
     <name>'<name>Samoa</name>'</name>
     <capital>'Apia'</capital>
-    <population year="2011">'187820'</population>
+    <population year="2011">187820</population>
     <size>'2860'</size>
-    <inception>'1962-01-01'</inception>
+    <inception>1962-01-01</inception>
   </country>
   <country>
     <name>'<name>San Marino</name>'</name>
     <capital>'San Marino'</capital>
-    <population year="2012">'32440'</population>
+    <population year="2012">32440</population>
     <size>'60'</size>
-    <inception>'0301-01-01'</inception>
+    <inception>0301-01-01</inception>
   </country>
   <country>
     <name>'<name>Sao Tome and Principe</name>'</name>
     <capital>'SÃ£o TomÃ©'</capital>
-    <population year="2012">'187356'</population>
+    <population year="2012">187356</population>
     <size>'1001'</size>
-    <inception>'1975-07-12'</inception>
+    <inception>1975-07-12</inception>
   </country>
   <country>
     <name>'<name>Saudi Arabia</name>'</name>
     <capital>'Riyadh'</capital>
-    <population year="2010">'27136977'</population>
+    <population year="2010">27136977</population>
     <size>'1960582'</size>
-    <inception>'1932-09-23'</inception>
+    <inception>1932-09-23</inception>
   </country>
   <country>
     <name>'<name>Senegal</name>'</name>
     <capital>'Dakar'</capital>
-    <population year="2013">'13508715'</population>
+    <population year="2013">13508715</population>
     <size>'196190'</size>
-    <inception>'1960-08-20'</inception>
+    <inception>1960-08-20</inception>
   </country>
   <country>
     <name>'<name>Serbia</name>'</name>
     <capital>'Beograd'</capital>
-    <population year="2011">'7120666'</population>
+    <population year="2011">7120666</population>
     <size>'77474'</size>
-    <inception>'1992-04-11'</inception>
+    <inception>1992-04-11</inception>
   </country>
   <country>
     <name>'<name>Seychelles</name>'</name>
     <capital>'Victoria'</capital>
-    <population year="2010">'90945'</population>
+    <population year="2010">90945</population>
     <size>'455'</size>
-    <inception>'1976-06-29'</inception>
+    <inception>1976-06-29</inception>
   </country>
   <country>
     <name>'<name>Sierra Leone</name>'</name>
     <capital>'Freetown'</capital>
-    <population year="2010">'5751976'</population>
+    <population year="2010">5751976</population>
     <size>'71740'</size>
-    <inception>'1961-04-27'</inception>
+    <inception>1961-04-27</inception>
   </country>
   <country>
     <name>'<name>Singapore</name>'</name>
     <capital>'Singapore'</capital>
-    <population year="2010">'5076700'</population>
+    <population year="2010">5076700</population>
     <size>'632.6'</size>
-    <inception>'1965-08-09'</inception>
+    <inception>1965-08-09</inception>
   </country>
   <country>
     <name>'<name>Sint Maarten</name>'</name>
     <capital>'Philipsburg'</capital>
-    <population year="2010">'37429'</population>
+    <population year="2010">37429</population>
     <size>'34'</size>
   </country>
   <country>
     <name>'<name>Slovakia</name>'</name>
     <capital>'Bratislava'</capital>
-    <population year="2011">'5397036'</population>
+    <population year="2011">5397036</population>
     <size>'48845'</size>
-    <inception>'1993-01-01'</inception>
+    <inception>1993-01-01</inception>
   </country>
   <country>
     <name>'<name>Slovenia</name>'</name>
     <capital>'Ljubljana'</capital>
-    <population year="2013">'2058821'</population>
+    <population year="2013">2058821</population>
     <size>'20256'</size>
-    <inception>'1991-06-25'</inception>
+    <inception>1991-06-25</inception>
   </country>
   <country>
     <name>'<name>Solomon Islands</name>'</name>
     <capital>'Honiara'</capital>
-    <population year="2010">'526447'</population>
+    <population year="2010">526447</population>
     <size>'28450'</size>
-    <inception>'1978-07-07'</inception>
+    <inception>1978-07-07</inception>
   </country>
   <country>
     <name>'<name>Somalia</name>'</name>
     <capital>'Mogadishu'</capital>
-    <population year="2010">'9636173'</population>
+    <population year="2010">9636173</population>
     <size>'637660'</size>
-    <inception>'1960-07-01'</inception>
+    <inception>1960-07-01</inception>
   </country>
   <country>
     <name>'<name>South Africa</name>'</name>
     <capital>'Tshwane'</capital>
-    <population year="2011">'51770560'</population>
+    <population year="2011">51770560</population>
     <size>'1219912'</size>
-    <inception>'1910-05-31'</inception>
+    <inception>1910-05-31</inception>
   </country>
   <country>
     <name>'<name>South Korea</name>'</name>
     <capital>'Seoul'</capital>
-    <population year="2013">'51141463'</population>
+    <population year="2013">51141463</population>
     <size>'98480'</size>
-    <inception>'1945-08-15'</inception>
+    <inception>1945-08-15</inception>
   </country>
   <country>
     <name>'<name>South Sudan</name>'</name>
     <capital>'Juba'</capital>
-    <population year="2008">'8260490'</population>
+    <population year="2008">8260490</population>
     <size>'644329'</size>
-    <inception>'2011-07-09'</inception>
+    <inception>2011-07-09</inception>
   </country>
   <country>
     <name>'<name>Spain</name>'</name>
     <capital>'Madrid'</capital>
-    <population year="2011">'46815916'</population>
+    <population year="2011">46815916</population>
     <size>'504750'</size>
-    <inception>'1492-01-01'</inception>
+    <inception>1492-01-01</inception>
   </country>
   <country>
     <name>'<name>Sri Lanka</name>'</name>
     <capital>'Sri Jayawardhanapura'</capital>
-    <population year="2012">'20263723'</population>
+    <population year="2012">20263723</population>
     <size>'65610'</size>
-    <inception>'1948-02-04'</inception>
+    <inception>1948-02-04</inception>
   </country>
   <country>
     <name>'<name>Sudan</name>'</name>
     <capital>'Khartoum'</capital>
-    <population year="2010">'35652002'</population>
+    <population year="2010">35652002</population>
     <size>'1861484'</size>
-    <inception>'1956-01-01'</inception>
+    <inception>1956-01-01</inception>
   </country>
   <country>
     <name>'<name>Suriname</name>'</name>
     <capital>'Paramaribo'</capital>
-    <population year="2012">'541638'</population>
+    <population year="2012">541638</population>
     <size>'163270'</size>
-    <inception>'1975-11-25'</inception>
+    <inception>1975-11-25</inception>
   </country>
   <country>
     <name>'<name>Svalbard</name>'</name>
     <capital>'Longyearbyen'</capital>
-    <population year="2014">'1872'</population>
+    <population year="2014">1872</population>
     <size>'62049'</size>
   </country>
   <country>
     <name>'<name>Swaziland</name>'</name>
     <capital>'Mbabane'</capital>
-    <population year="2010">'1193148'</population>
+    <population year="2010">1193148</population>
     <size>'17360'</size>
-    <inception>'1968-09-06'</inception>
+    <inception>1968-09-06</inception>
   </country>
   <country>
     <name>'<name>Sweden</name>'</name>
     <capital>'Stockholm'</capital>
-    <population year="2012">'9555893'</population>
+    <population year="2012">9555893</population>
     <size>'449964'</size>
   </country>
   <country>
     <name>'<name>Switzerland</name>'</name>
     <capital>'Bern'</capital>
-    <population year="2013">'8139631'</population>
+    <population year="2013">8139631</population>
     <size>'41290'</size>
-    <inception>'1291-01-01'</inception>
+    <inception>1291-01-01</inception>
   </country>
   <country>
     <name>'<name>Syria</name>'</name>
     <capital>'Dimashq'</capital>
-    <population year="2010">'20866000'</population>
+    <population year="2010">20866000</population>
     <size>'185180'</size>
-    <inception>'1946-04-17'</inception>
+    <inception>1946-04-17</inception>
   </country>
   <country>
     <name>'<name>Taiwan</name>'</name>
     <capital>'Taipei'</capital>
-    <population year="2012">'23315822'</population>
+    <population year="2012">23315822</population>
     <size>'36179'</size>
-    <inception>'1949-10-01'</inception>
+    <inception>1949-10-01</inception>
   </country>
   <country>
     <name>'<name>Tajikistan</name>'</name>
     <capital>'Dushanbe'</capital>
-    <population year="2014">'8161100'</population>
+    <population year="2014">8161100</population>
     <size>'143100'</size>
-    <inception>'1991-09-09'</inception>
+    <inception>1991-09-09</inception>
   </country>
   <country>
     <name>'<name>Tanzania</name>'</name>
     <capital>'Dodoma'</capital>
-    <population year="2012">'44928923'</population>
+    <population year="2012">44928923</population>
     <size>'945090'</size>
-    <inception>'1964-04-26'</inception>
+    <inception>1964-04-26</inception>
   </country>
   <country>
     <name>'<name>Thailand</name>'</name>
     <capital>'Bangkok'</capital>
-    <population year="2010">'65981659'</population>
+    <population year="2010">65981659</population>
     <size>'514000'</size>
-    <inception>'1238-01-01'</inception>
+    <inception>1238-01-01</inception>
   </country>
   <country>
     <name>'<name>Timor-Leste</name>'</name>
     <capital>'Dili'</capital>
-    <population year="2010">'1066582'</population>
+    <population year="2010">1066582</population>
     <size>'15007'</size>
-    <inception>'2002-05-20'</inception>
+    <inception>2002-05-20</inception>
   </country>
   <country>
     <name>'<name>Togo</name>'</name>
     <capital>'LomÃ©'</capital>
-    <population year="2010">'6191155'</population>
+    <population year="2010">6191155</population>
     <size>'56790'</size>
-    <inception>'1960-04-27'</inception>
+    <inception>1960-04-27</inception>
   </country>
   <country>
     <name>'<name>Tokelau</name>'</name>
     <capital>'Fakaofo'</capital>
-    <population year="2013">'1383'</population>
+    <population year="2013">1383</population>
     <size>'12'</size>
   </country>
   <country>
     <name>'<name>Tonga</name>'</name>
     <capital>'Nukualofa'</capital>
-    <population year="2011">'103252'</population>
+    <population year="2011">103252</population>
     <size>'748'</size>
-    <inception>'1970-06-04'</inception>
+    <inception>1970-06-04</inception>
   </country>
   <country>
     <name>'<name>Trinidad and Tobago</name>'</name>
     <capital>'Port-of-Spain'</capital>
-    <population year="2011">'1328019'</population>
+    <population year="2011">1328019</population>
     <size>'5130'</size>
-    <inception>'1962-08-31'</inception>
+    <inception>1962-08-31</inception>
   </country>
   <country>
     <name>'<name>Tunisia</name>'</name>
     <capital>'Tunis'</capital>
-    <population year="2014">'10982754'</population>
+    <population year="2014">10982754</population>
     <size>'163610'</size>
-    <inception>'1956-03-20'</inception>
+    <inception>1956-03-20</inception>
   </country>
   <country>
     <name>'<name>Turkey</name>'</name>
     <capital>'Ankara'</capital>
-    <population year="2012">'75627384'</population>
+    <population year="2012">75627384</population>
     <size>'780580'</size>
-    <inception>'1923-10-29'</inception>
+    <inception>1923-10-29</inception>
   </country>
   <country>
     <name>'<name>Turkmenistan</name>'</name>
     <capital>'Ashgabat'</capital>
-    <population year="2010">'5041995'</population>
+    <population year="2010">5041995</population>
     <size>'488100'</size>
-    <inception>'1991-10-27'</inception>
+    <inception>1991-10-27</inception>
   </country>
   <country>
     <name>'<name>Turks and Caicos Islands</name>'</name>
     <capital>'Grand Turk'</capital>
-    <population year="2012">'31458'</population>
+    <population year="2012">31458</population>
     <size>'430'</size>
   </country>
   <country>
     <name>'<name>Tuvalu</name>'</name>
     <capital>'Funafuti'</capital>
-    <population year="2010">'9827'</population>
+    <population year="2010">9827</population>
     <size>'26'</size>
-    <inception>'1978-10-01'</inception>
+    <inception>1978-10-01</inception>
   </country>
   <country>
     <name>'<name>Uganda</name>'</name>
     <capital>'Kampala'</capital>
-    <population year="2014">'34634650'</population>
+    <population year="2014">34634650</population>
     <size>'236040'</size>
-    <inception>'1962-10-09'</inception>
+    <inception>1962-10-09</inception>
   </country>
   <country>
     <name>'<name>Ukraine</name>'</name>
     <capital>'KyÃ¯v'</capital>
-    <population year="2012">'45633637'</population>
+    <population year="2012">45633637</population>
     <size>'603700'</size>
-    <inception>'1991-12-01'</inception>
+    <inception>1991-12-01</inception>
   </country>
   <country>
     <name>'<name>United Arab Emirates</name>'</name>
     <capital>'Abu Dhabi'</capital>
-    <population year="2010">'8441537'</population>
+    <population year="2010">8441537</population>
     <size>'75581'</size>
-    <inception>'1971-12-02'</inception>
+    <inception>1971-12-02</inception>
   </country>
   <country>
     <name>'<name>United Kingdom</name>'</name>
     <capital>'London'</capital>
-    <population year="2013">'64105654'</population>
+    <population year="2013">64105654</population>
     <size>'244820'</size>
-    <inception>'1801-01-01'</inception>
+    <inception>1801-01-01</inception>
   </country>
   <country>
     <name>'<name>United States</name>'</name>
     <capital>'Washington'</capital>
-    <population year="2014">'318857056'</population>
+    <population year="2014">318857056</population>
     <size>'9372610'</size>
-    <inception>'1776-07-04'</inception>
+    <inception>1776-07-04</inception>
   </country>
   <country>
     <name>'<name>Uruguay</name>'</name>
     <capital>'Montevideo'</capital>
-    <population year="2011">'3286314'</population>
+    <population year="2011">3286314</population>
     <size>'176220'</size>
-    <inception>'1828-08-25'</inception>
+    <inception>1828-08-25</inception>
   </country>
   <country>
     <name>'<name>Uzbekistan</name>'</name>
     <capital>'Toshkent'</capital>
-    <population year="2010">'27769270'</population>
+    <population year="2010">27769270</population>
     <size>'447400'</size>
-    <inception>'1991-08-31'</inception>
+    <inception>1991-08-31</inception>
   </country>
   <country>
     <name>'<name>Vanuatu</name>'</name>
     <capital>'Port Vila'</capital>
-    <population year="2010">'236299'</population>
+    <population year="2010">236299</population>
     <size>'14760'</size>
-    <inception>'1980-07-30'</inception>
+    <inception>1980-07-30</inception>
   </country>
   <country>
     <name>'<name>Venezuela</name>'</name>
     <capital>'Caracas'</capital>
-    <population year="2011">'28946101'</population>
+    <population year="2011">28946101</population>
     <size>'912050'</size>
-    <inception>'1811-07-05'</inception>
+    <inception>1811-07-05</inception>
   </country>
   <country>
     <name>'<name>Vietnam</name>'</name>
     <capital>'Hanoi'</capital>
-    <population year="2012">'88772900'</population>
+    <population year="2012">88772900</population>
     <size>'329560'</size>
-    <inception>'1945-09-02'</inception>
+    <inception>1945-09-02</inception>
   </country>
   <country>
     <name>'<name>Virgin Islands</name>'</name>
     <capital>'Charlotte Amalie'</capital>
-    <population year="2010">'106405'</population>
+    <population year="2010">106405</population>
     <size>'352'</size>
   </country>
   <country>
     <name>'<name>Wallis and Futuna</name>'</name>
     <capital>'Mata-Utu'</capital>
-    <population year="2013">'12197'</population>
+    <population year="2013">12197</population>
     <size>'274'</size>
   </country>
   <country>
     <name>'<name>West Bank</name>'</name>
     <capital>'Ramallah'</capital>
-    <population year="2014">'2790331'</population>
+    <population year="2014">2790331</population>
     <size>'5655'</size>
   </country>
   <country>
     <name>'<name>Western Sahara</name>'</name>
     <capital>'El Aaiun'</capital>
-    <population year="2013">'554795'</population>
+    <population year="2013">554795</population>
     <size>'266000'</size>
   </country>
   <country>
     <name>'<name>Yemen</name>'</name>
     <capital>'Sana'a'</capital>
-    <population year="2012">'24527000'</population>
+    <population year="2012">24527000</population>
     <size>'527970'</size>
-    <inception>'1990-05-22'</inception>
+    <inception>1990-05-22</inception>
   </country>
   <country>
     <name>'<name>Zaire</name>'</name>
     <capital>'Kinshasa'</capital>
-    <population year="2010">'62191161'</population>
+    <population year="2010">62191161</population>
     <size>'2345410'</size>
-    <inception>'1960-06-30'</inception>
+    <inception>1960-06-30</inception>
   </country>
   <country>
     <name>'<name>Zambia</name>'</name>
     <capital>'Lusaka'</capital>
-    <population year="2010">'13046508'</population>
+    <population year="2010">13046508</population>
     <size>'752610'</size>
-    <inception>'1964-10-24'</inception>
+    <inception>1964-10-24</inception>
   </country>
   <country>
     <name>'<name>Zimbabwe</name>'</name>
     <capital>'Harare'</capital>
-    <population year="2012">'13061239'</population>
+    <population year="2012">13061239</population>
     <size>'390580'</size>
-    <inception>'1980-04-18'</inception>
+    <inception>1980-04-18</inception>
   </country>
 </summary>
