@@ -3,6 +3,7 @@
 :)
 
 <continents> {
+    (:~ helper var ~:)
     let $thisData := 
     <data> 
     {
@@ -20,6 +21,7 @@
         </continent>
     }
     </data>
+    
     for $theContinent in $thisData/continent
     return <continent name="{$theContinent/@name}" size="{xs:integer(sum($theContinent/country/@size))}" countries="{count($theContinent/country)}">
     {

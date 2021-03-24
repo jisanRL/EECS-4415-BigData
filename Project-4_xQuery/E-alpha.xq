@@ -1,6 +1,8 @@
 (:
-    For each country, report the alpha city for that country; that is, the city in the country with the largest population.
+    For each country, report the alpha city for that country; 
+    that is, the city in the country with the largest population.
 :)
+
 <alpha>{
     let $eAlpha := 
     <alpha>{

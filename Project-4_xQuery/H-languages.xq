@@ -17,6 +17,7 @@ that speak that language).
         let $lsp := $ctr/population[$lst=@year]
         let $spk := round($ctr/language[$lang=text()]/@percentage * 0.01 * $lsp)
         order by xs:integer($spk) descending
+        
         return if ($ctr/language/text()=$lang) then (
             <country name='{$ctr/name}' speakers='{xs:integer($spk)}'/>
         ) else()

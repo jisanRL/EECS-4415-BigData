@@ -9,13 +9,13 @@ contain the list of the countries by name that the river runs through.
     for $rvrs in distinct-values($doc//located_at[@watertype='river']/@river)
     let $rvr := replace($rvrs, '^[^-]*-([^-]*).*$', '$1')
     order by $rvr
-    
-    return <river name="{$rvr}">
+
+    return <river name='{$rvr}'>
 	{
 		for $ctr in $doc//country
 		where $ctr//located_at[$rvrs=@river]
 		order by $ctr/name
-		return <country name="{$ctr/name}">
+		return <country name='{$ctr/name}'>
 		</country>
 	}
 	</river>

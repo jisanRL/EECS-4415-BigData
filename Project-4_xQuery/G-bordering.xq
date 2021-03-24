@@ -7,7 +7,7 @@
     for $ctr in $doc//country
     order by $ctr/name
     
-    return if(exists($ctr/border)) then (<country name="{$ctr/name/text()}">
+    return if(exists($ctr/border)) then (<country name='{$ctr/name/text()}'>
     {
         for $nbr in $ctr/border
         let $nc := data($nbr/@country)

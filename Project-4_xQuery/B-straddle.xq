@@ -1,5 +1,6 @@
 (:
-    Report countries that straddle two (or more) continents. Include as content which continents the country occupies.
+    Report countries that straddle two (or more) continents. 
+    Include as content which continents the country occupies.
 :)
 
 <straddle>
