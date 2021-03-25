@@ -4,11 +4,13 @@
 :)
 
 <alpha>{
+    (:~ helper var ~:)
     let $eAlpha := 
     <alpha>{
-        let $doc := doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")
-        for $ctr in $doc/mondial/country
+        let $dataset := doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")
+        for $ctr in $dataset/mondial/country
         order by $ctr/name
+
         return <country name='{$ctr/name/text()}'>
         {
             for $theCity in $ctr//city
@@ -22,7 +24,9 @@
 
     for $ctrs in $eAlpha/country
     let $mp := max($ctrs/city/@pop)
-    where exists($mp)
+    where exists($mp)                   
+
+    (:~ final return statement  ~:)
     return <country name='{$ctrs/@name}'> 
     {
         for $cty in $ctrs/city[@pop=$mp]

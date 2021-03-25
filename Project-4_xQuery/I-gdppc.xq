@@ -7,8 +7,8 @@
 	let $cd :=
 		<data>
 		{
-			let $doc := doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")
-			for $ctr in $doc//country
+			let $dataset := doc("http://www.eecs.yorku.ca/course/4415/assignment/xquery/dataset/mondial-2015.xml")
+			for $ctr in $dataset//country
 			let $ry := max($ctr/population/@year)
 			let $pop := $ctr/population[$ry=@year][1]
 			let $govt := 
@@ -34,6 +34,7 @@
 
 	for $ctr in $td/countries
 	let $gdppc := $ctr/@gdp_total div $ctr/@pop_total * 1000000
+	
 	return <countries government='{$ctr/@government}' gdppc='${format-number($gdppc, '#,##0.00')}'>
 	</countries>
 }
