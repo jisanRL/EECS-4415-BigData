@@ -1,3 +1,35 @@
 {
-    "python.pythonPath": "/opt/local/bin/python3.7"
+    "python.pythonPath": "/opt/local/bin/python3.7",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "beta1",
+            "database": "league_table",
+            "username": "jisanreza",
+            "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "rrdb",
+            "database": "rrdb",
+            "username": "jisanreza",
+            "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "stream",
+            "database": "stream",
+            "username": "jisanreza"
+        }
+    ]
 }
