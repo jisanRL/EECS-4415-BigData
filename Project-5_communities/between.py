@@ -5,25 +5,25 @@ import networkx as nx
 
 
 G = nx.Graph()
-positions = {} # a position map of the nodes (cities)
+positions = {}              # a position map of the nodes (cities)
 
 #terminal input for creating the graph from txt 
 txtFile = sys.stdin
 for ln in txtFile:
-    xl = [v.strip() for v in ln.split(',')]
-    nde = xl[0] + ',' + xl[1]
+    elements = [v.strip() for v in ln.split(',')]
+    nde = elements[0] + ',' + elements[1]
     # print(nde)
 
-    lnr = int(xl[4])
-    G.add_node(nde, pos=(float(xl[2]), float(xl[3])))
+    lnr = int(elements[4])
+    G.add_node(nde, pos=(float(elements[2]), float(elements[3])))
 
     # add the connections(edges) between the nodes of the graph
     while lnr > 0:
         nl = next(txtFile)
         lnr -= 1
         connection = [v.strip() for v in nl.split(',')]
-        nodeX = connection[0] + ',' + connection[1]
-        G.add_edge(nde, nodeX, weight=int(connection[2]))
+        exNode = connection[0] + ',' + connection[1]
+        G.add_edge(nde, exNode, weight=int(connection[2]))
 
 cnt = 0
 delEdge = []
@@ -33,6 +33,7 @@ while (nx.is_connected(G)):
     b = bwtns[0][0][1]
 
     delEdge.append([z, b, G[z][b]['weight']])
+    G.remove_edge(bwtns[0][0][0], bwtns[0][0][1])
     cnt+=1
 # print("Deleted edges: " + str(cnt))
 
