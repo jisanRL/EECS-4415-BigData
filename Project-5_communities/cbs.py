@@ -1,157 +1,227 @@
-import os
-import numpy as np
-import pandas as pd
-import networkx as nx
-from scipy import sparse
-from sklearn.metrics import f1_score
-from sklearn.decomposition import NMF, TruncatedSVD
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression, ElasticNet
+import sys
+import time
 
+startTime = time.time()
 
-#FIX THIS THING
+#=============================================================================
+# ItemsetDTree(k):
+#   * stores itemsets of length k into a hash / dictionary tree
+#   * can handle support-counting by feeding in transaction sets
+#       * the leaves of the tree are int's; each branch encodes an itemset
 
-target = pd.read_csv("Project-5_communities/musae_facebook_target.csv")
-features = pd.read_csv("Project-5_communities/musae_facebook_features.json")
-edges = pd.read_csv("Project-5_communities/musae_facebook_edges.csv")
+class ItemsetDTree:
+    iDTree = {}
+    iLen   = None
 
+    #-------------------------------------------------------------------------
+    # add:
+    #     add an itemset to the dictionary-tree
 
-def transform_features_to_sparse(table):
-    table["weight"] = 1
-    table = table.values.tolist()
-    index_1 = [row[0] for row in table]
-    index_2 =  [row[1] for row in table]
-    values =  [row[2] for row in table] 
-    count_1, count_2 = max(index_1)+1, max(index_2)+1
-    sp_m = sparse.csr_matrix(sparse.coo_matrix((values,(index_1,index_2)),shape=(count_1,count_2),dtype=np.float32))
-    return sp_m
+    def add(self, iset, dtree=None):
+        if dtree is None:                                                   # this is the root call
+            dtree = self.iDTree
+            if len(iset) != self.iLen:
+                print('Trying to add itemset of length %d ' % len(iset)
+                      + 'to Tree with item length %d!' % self.iLen)
+                exit(-1)
+        if len(iset) == 1:
+            if iset[0] not in dtree: # first time seen
+                dtree[iset[0]] = 0
+        else:
+            if iset[0] in dtree: # add rest to existing subtree
+                self.add(iset[1:],
+                         dtree=dtree[iset[0]])
+            else:                # build new subtree
+                dtree[iset[0]] = self.add(iset[1:],
+                                          dtree={})
+        return dtree
 
+    #-------------------------------------------------------------------------
+    # writeSupported:
+    #     print out the itemsets encoded in a dictionary-tree
+    #         reportSupport
+    #             True:  first int per line ("itemset") is the support count
+    #             False: support count not written
 
-def normalize_adjacency(raw_edges):
-    raw_edges_t = pd.DataFrame()
-    raw_edges_t["id_1"] = raw_edges["id_2"]
-    raw_edges_t["id_2"] = raw_edges["id_1"]
-    raw_edges = pd.concat([raw_edges,raw_edges_t])
-    edges = raw_edges.values.tolist()
-    graph = nx.from_edgelist(edges)
-    ind = range(len(graph.nodes()))
-    degs = [1.0/graph.degree(node) for node in graph.nodes()]
-    A = transform_features_to_sparse(raw_edges)
-    degs = sparse.csr_matrix(sparse.coo_matrix((degs, (ind, ind)), shape=A.shape,dtype=np.float32))
-    A = A.dot(degs)
-    return A
+    def writeSupported(self,
+                       threshold=0,
+                       branch='',
+                       reportSupport=False,
+                       dtree=None):
+        if dtree is None: # this is the root call
+            dtree = self.iDTree
+        for item in sorted(dtree.keys()): # so they come out in sorted order
+            if isinstance(dtree[item], int): # at leaf, so write
+                if threshold <= dtree[item]:
+                    if reportSupport:
+                        print(("%d %s %d"
+                                % (dtree[item], branch, item)).strip())
+                    else:
+                        print(("%s %d" % (branch, item)).strip())
+            else:                            # recurse down
+                self.writeSupported(threshold=threshold,
+                                    branch=(branch + ' ' + str(item)),
+                                    reportSupport=reportSupport,
+                                    dtree=dtree[item])
 
+    #-------------------------------------------------------------------------
+    # supportIncr:
+    #     increments the support count of each set in the dictionary tree
+    #     that is a subset of the transaction set
 
-def mapper(x):
-    if x =="politician":
-        y = 0
-    elif x =="company":
-        y = 1
-    elif x =="government":
-        y = 2
-    else:
-        y = 3
-    return y
+    def supportIncr(self, tset, dtree=None):
+        if dtree is None: # this is the root call
+            dtree = self.iDTree
+        if len(tset) == 0:
+            return;
+        if tset[0] in dtree:
+            if isinstance(dtree[tset[0]], int):
+                dtree[tset[0]] += 1;
+            else:
+                self.supportIncr(tset[1:],
+                                 dtree=dtree[tset[0]])
+        self.supportIncr(tset[1:],
+                         dtree=dtree)
 
+    #-------------------------------------------------------------------------
+    # INIT
 
-target = target["page_type"].values.tolist()
-y = np.array([mapper(t) for t in target])
-A = normalize_adjacency(edges)
-X = transform_features_to_sparse(features)
-X_tilde = A.dot(X)
+    def __init__(self, length):
+        if length <= 0:
+            print('Itemset length for tree must be positive!')
+            exit(-1)
+        self.iLen = length
 
+#=============================================================================
+# FUNCTIONS
 
-def eval_factorization(W,y):
-    scores = []
-    for i in range(10):
-        X_train, X_test, y_train, y_test = train_test_split(W, y, test_size=0.9, random_state = i)
-        model = LogisticRegression(C=0.01, solver = "saga",multi_class = "auto")
-        model.fit(X_train, y_train)
-        y_pred = model.predict(X_test)
-        score = f1_score(y_test, y_pred, average = "weighted")
-        scores.append(score)
-    print(np.mean(scores))
+# itemset / iset: an ordered list of int's representing an itemset
+#                 we use int's not strings to make this more efficient
 
+def istrClean(istr):
+    istr = ' '.join(istr.strip('\n').split())
+    for token in istr.split():
+        if not token.isnumeric():
+            print('Item "%s" is not an integer!' % token)
+            exit(-1)
+    return istr
 
-model = TruncatedSVD(n_components=16, random_state=0)
-W = model.fit_transform(X)
-model = TruncatedSVD(n_components=16, random_state=0)
-W_tilde = model.fit_transform(A)
+def string2iset(istr):
+    return [int(token) for token in istr.split()]
 
-eval_factorization(W, y)
-eval_factorization(np.concatenate([W,W_tilde],axis=1), y)
+def iset2string(iset):
+    itok = [str(item) for item in iset]
+    return ' '.join(itok)
 
-
-
-
-# import os
-# import numpy as np
-# import pandas as pd
-# import networkx as nx
-# from scipy import spase
-# from sklearn.metrics import f1_score
-# from sklearn.decomposition import NMF, TruncatedSVD
-# from sklearn.model_selection import train_test_split
-# from skleanrn.linear_model_import LogisticRegression, ElasticNet
-
-
-# target = sys.stdin
-
-# def tranform_features_to_sparse(table):
-#     table["weight"] = 1
-#     table = table.values.tolist()
-#     idx1 = [row[0] for row in table]
-#     idx2 = [row[1] for row in table]
-#     val = [row[2] for row in table]
-#     cnt1, cnt2, = max(idx1)+1, max(idx2)+1
-#     spc = sparse.csr_matrix(sparse.coo_matrix((values,(idx1, idx2)), shape=(cnt1, cnt2), dtype=np.float32))
-#     return spc
-
-# def normalize(rawedg):
-#     rEdg = pd.DataFrame()
-#     rEdg["id_1"] = rawedg["id_2"]
-#     rEdg["id_2"] = rawedg["id_1"]
-#     rawedg = pd.concat([rawedg, rEdg])
-#     target = rawedg.values.tolist()
-#     target = nx.from_edgelist(target)
-#     idf = range(len(target.nodes()))
-#     dgs = [1.0/target.degree() for nd in target.nodes()]
-#     d = tranform_features_to_sparse(rawedg)
-#     dfh = sparse.csr_matrix(sparse.coo_matrix((dgs, (idf, idf)), shape=d.shape, dtype=np.float32))
-#     d = d.dot(dfh)
-
+# maps the data
 # def mapper(x):
 #     if x == "politician":
 #         y=0
 #     elif x == "company":
-#         y=1
-#     elif x == "goverment":
-#         y=2
-#     else:
+#         y = 1
+#     elif x == "government":
+#         y = 2
+#     elif x == "tvshow":
 #         y=3
+#     else:
+#         y=4
 #     return y
+    
 
-# target = target["page_type"].values.tolist()
-# y = np.array([mapper(t) for t in target])
-# e = normalize(target)
-# v = tranform_features_to_sparse(target)
-# xF = e.dot(v)
+#=============================================================================
+# MAIN
 
-# def factorization(x,y):
-#     scrs = []
-#     for i in range(10):
-#         xtr, xtst, ytr, yst = train_test_split(x,y, test_size=0.9, random_state=i)
-#         mdl = LogisticRegression(C=0.01, solver="saga", multi_class = "auto")
-#         mdl.fit(xtr, ytr)
-#         ypr = mdl.predict(xtst)
-#         scr = f1_score(yst, ypr, average="weighted")
-#         scrs.append(scr)
-#     print(np.mean(scrs))
+if __name__ == '__main__':
+    k       = 0 # length of itemsets in input level file
+    preCNT  = 0 # running tally of pre-candidates produced
+    candCNT = 0 # running tally of candidates (after apriori)
 
-# mdl = TruncatedSVD(n_components=16, random_state=0)
-# W = mdl.fit_transform(v)
-# mdl = TruncatedSVD(n_component=16, random_state=0)
-# yF = mdl.fit_tranform(e)
+    # read first line of level file to measure itemset length
+    with open(sys.argv[1], 'r', encoding='utf-8') as inLev:
+        for line in inLev:
+            line = istrClean(line)
+            itemset = string2iset(line.strip('\n'))
+            k = len(itemset)
+            break
+        else:
+            print('Empty level file!');
+            exit();
 
-# factorization(W, y)
-# factorization(np.concatenate([W,yF], axis=1), y)
+    # read in level file with the frequent itemsets of size k
+    #   * store a signature (a string) of the itemset's "prefix", all save
+    #     the last item, in a hash / dictionary, to enumerate through
+    #     later to do the pre-candidate generation via joining
+    #   * store a signature (a string) of the itemset for easy
+    #     existence checking during apriori checking
+    prefixDict  = {}
+    itemsetDict = {}
+    with open(sys.argv[1], 'r', encoding='utf-8') as inLev:
+        for line in inLev:
+            line = istrClean(line)
+            itemset = string2iset(line.strip('\n'))
+            if len(itemset) != k:
+                print('Itemset not of length %d read!' % k)
+                exit(-1)
+            # add the itemset into the prefix signature dictionary
+            prefix = iset2string(itemset[:-1])
+            if prefix in prefixDict:     # entry already there
+                prefixDict[prefix].append(itemset[-1])
+            else:                        # create new entry
+                prefixDict[prefix] = [itemset[-1]]
+            # add the itemset into the itemset signature dictionary
+            signature = iset2string(itemset)
+            if signature in itemsetDict: # entry seen before
+                itemsetDict[signature] += 1
+            else:                        # create new entry
+                itemsetDict[signature]  = 1
+
+    # if incoming level of itemsets only has one thing, no new candidates!
+    if len(itemsetDict) < 2:
+        exit()
+
+    # put the final-item list per prefix in sorted order
+    for prefix in prefixDict:
+        prefixDict[prefix] = sorted(prefixDict[prefix])
+
+    # join on prefixes to create pre-candidates
+    # do apriori checks to filter down to candidates
+    #   * store the found candidates into a dictionary tree;
+    #     their support counts then can be computed efficiently
+    #     by iterating over the transactions
+    candidates = ItemsetDTree(k+1)
+    prefixes   = sorted(prefixDict.keys())
+    for prefix in prefixes:
+        # join the itemsets with a common prefix
+        for i in range(len(prefixDict[prefix]) - 1):
+            for j in range(i + 1, len(prefixDict[prefix])):
+                itemset = string2iset(prefix)
+                itemset.append(prefixDict[prefix][i])
+                itemset.append(prefixDict[prefix][j])
+                preCNT += 1
+
+                # apriori check the joined pre-candidate!
+                apriori = True
+                for g in range(len(itemset) - 2):
+                    subset = itemset[:g] + itemset[g+1:]
+                    if iset2string(subset) not in itemsetDict:
+                        apriori = False
+                        break
+                if apriori:
+                    candidates.add(itemset)
+                    candCNT += 1
+
+    # read in the transaction itemsets, calculate the support counts
+    # for the candidates
+    with open(sys.argv[2], 'r', encoding='utf-8') as inTrans:
+        for line in inTrans:
+            line = istrClean(line)
+            itemset = string2iset(' '.join(line.strip('\n').split(" ")[1:]))   #joins the sets
+            candidates.supportIncr(itemset)
+
+    # print out the supported items
+    candidates.writeSupported(threshold=int(sys.argv[3]),reportSupport=True)
+    endTime = time.time()
+    print('')
+    print('#pre-candidates: %d'   % preCNT)
+    print('#candidates:     %d'   % candCNT)
+    print('Lapsed time:     %.3f' % (endTime - startTime))
